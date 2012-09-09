@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cd(${410:newFolder})]]></content>
+	<tabTrigger>cd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

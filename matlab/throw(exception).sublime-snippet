@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[throw(${3070:exception})]]></content>
+	<tabTrigger>throw</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

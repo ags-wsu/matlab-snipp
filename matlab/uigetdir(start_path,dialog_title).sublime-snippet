@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uigetdir(${1:start_path},${2:dialog_title})]]></content>
+	<tabTrigger>uigetdir</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

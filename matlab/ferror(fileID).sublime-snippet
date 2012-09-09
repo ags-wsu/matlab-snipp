@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ferror(${1096:fileID})]]></content>
+	<tabTrigger>ferror</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

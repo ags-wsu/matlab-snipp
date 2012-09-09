@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MinimizeCommandWindow(${26:h})]]></content>
+	<tabTrigger>MinimizeCommandWindow</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

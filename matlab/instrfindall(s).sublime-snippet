@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[instrfindall(${1579:s})]]></content>
+	<tabTrigger>instrfindall</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

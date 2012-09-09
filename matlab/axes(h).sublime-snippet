@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[axes(${206:h})]]></content>
+	<tabTrigger>axes</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

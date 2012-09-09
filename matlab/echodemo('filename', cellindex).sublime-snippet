@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echodemo('${1:filename}',${2: cellindex})]]></content>
+	<tabTrigger>echodemo</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

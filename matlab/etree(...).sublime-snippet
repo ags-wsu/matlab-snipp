@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[etree(${981:...})]]></content>
+	<tabTrigger>etree</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

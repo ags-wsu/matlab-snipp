@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hdfinfo(${1:filename},${2:mode})]]></content>
+	<tabTrigger>hdfinfo</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

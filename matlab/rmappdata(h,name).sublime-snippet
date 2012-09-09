@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rmappdata(${1:h},${2:name})]]></content>
+	<tabTrigger>rmappdata</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

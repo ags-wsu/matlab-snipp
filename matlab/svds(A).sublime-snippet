@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[svds(${3002:A})]]></content>
+	<tabTrigger>svds</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

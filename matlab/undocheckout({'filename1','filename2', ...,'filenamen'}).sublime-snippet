@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[undocheckout({${1:'filename1'},'${2:filename2}',${3: ...},${4:'filenamen'}})]]></content>
+	<tabTrigger>undocheckout</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

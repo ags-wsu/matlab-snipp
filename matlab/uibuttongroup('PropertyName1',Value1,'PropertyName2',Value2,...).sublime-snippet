@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uibuttongroup('${1:PropertyName1}',${2:Value1},'${3:PropertyName2}',${4:Value2},${5:...})]]></content>
+	<tabTrigger>uibuttongroup</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

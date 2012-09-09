@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[userpath('${3243:reset}')]]></content>
+	<tabTrigger>userpath</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

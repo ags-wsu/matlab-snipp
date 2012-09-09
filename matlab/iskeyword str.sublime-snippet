@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[iskeyword ${1:str}]]></content>
+	<tabTrigger>iskeyword</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

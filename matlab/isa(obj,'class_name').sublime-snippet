@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isa(${1:obj},'${2:class_name}')]]></content>
+	<tabTrigger>isa</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

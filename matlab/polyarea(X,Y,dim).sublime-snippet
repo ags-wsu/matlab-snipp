@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[polyarea(${1:X},${2:Y},${3:dim})]]></content>
+	<tabTrigger>polyarea</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

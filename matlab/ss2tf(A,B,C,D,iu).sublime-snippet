@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ss2tf(${1:A},${2:B},${3:C},${4:D},${5:iu})]]></content>
+	<tabTrigger>ss2tf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

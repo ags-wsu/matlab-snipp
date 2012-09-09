@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[colorbar('${597:delete}')]]></content>
+	<tabTrigger>colorbar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

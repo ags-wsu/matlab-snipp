@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[xlim([${1:xmin} ${2:xmax}])]]></content>
+	<tabTrigger>xlim</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

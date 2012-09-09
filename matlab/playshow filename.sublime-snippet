@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[playshow ${1:filename}]]></content>
+	<tabTrigger>playshow</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

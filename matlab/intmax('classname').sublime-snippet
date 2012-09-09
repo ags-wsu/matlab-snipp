@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[intmax('${1619:classname}')]]></content>
+	<tabTrigger>intmax</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

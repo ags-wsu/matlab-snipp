@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[surf(${1:...},'${2:PropertyName}',${3:PropertyValue})]]></content>
+	<tabTrigger>surf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[residue(${1:b},${2:a})]]></content>
+	<tabTrigger>residue</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

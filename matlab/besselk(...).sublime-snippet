@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[besselk(${256:...})]]></content>
+	<tabTrigger>besselk</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

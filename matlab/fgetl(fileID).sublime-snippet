@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fgetl(${1116:fileID})]]></content>
+	<tabTrigger>fgetl</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

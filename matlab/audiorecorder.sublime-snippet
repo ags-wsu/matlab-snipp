@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[audiorecorder]]></content>
+	<tabTrigger>audiorecorder</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

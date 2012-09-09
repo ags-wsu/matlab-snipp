@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[prod(${1:A},${2:dim})]]></content>
+	<tabTrigger>prod</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

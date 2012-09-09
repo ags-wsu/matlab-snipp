@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[camup('${385:auto}')]]></content>
+	<tabTrigger>camup</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

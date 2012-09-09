@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdfepoch(${411:date})]]></content>
+	<tabTrigger>cdfepoch</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[interpstreamspeed(${1610:...})]]></content>
+	<tabTrigger>interpstreamspeed</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isjava(${1653:A})]]></content>
+	<tabTrigger>isjava</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

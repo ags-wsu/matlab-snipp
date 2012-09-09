@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stem(${1:...},${2:LineSpec})]]></content>
+	<tabTrigger>stem</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

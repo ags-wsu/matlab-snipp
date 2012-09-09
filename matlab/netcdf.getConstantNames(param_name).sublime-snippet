@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.getConstantNames(${2048:param_name})]]></content>
+	<tabTrigger>netcdf.getConstantNames</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

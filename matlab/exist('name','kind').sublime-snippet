@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[exist('${1:name}','${2:kind}')]]></content>
+	<tabTrigger>exist</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[convhulln(${1:X},${2: options})]]></content>
+	<tabTrigger>convhulln</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

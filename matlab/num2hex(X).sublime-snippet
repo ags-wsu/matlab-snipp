@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[num2hex(${2119:X})]]></content>
+	<tabTrigger>num2hex</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

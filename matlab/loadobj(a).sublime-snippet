@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[loadobj(${1806:a})]]></content>
+	<tabTrigger>loadobj</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameratoolbar('${346:ResetCameraAndSceneLight}')]]></content>
+	<tabTrigger>cameratoolbar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

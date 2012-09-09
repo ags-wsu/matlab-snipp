@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[diary('${879:filename}')]]></content>
+	<tabTrigger>diary</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getfield(${1:struct},'${2:field}')]]></content>
+	<tabTrigger>getfield</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

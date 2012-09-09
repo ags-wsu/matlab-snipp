@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mlock]]></content>
+	<tabTrigger>mlock</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

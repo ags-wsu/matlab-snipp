@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fileread(${1131:filename})]]></content>
+	<tabTrigger>fileread</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

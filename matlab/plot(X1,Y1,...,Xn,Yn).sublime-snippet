@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plot(${1:X1},${2:Y1},${3:...},${4:Xn},${5:Yn})]]></content>
+	<tabTrigger>plot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

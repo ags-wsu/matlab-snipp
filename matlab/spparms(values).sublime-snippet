@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[spparms(${2783:values})]]></content>
+	<tabTrigger>spparms</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

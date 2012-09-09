@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[which ${1:fun}]]></content>
+	<tabTrigger>which</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

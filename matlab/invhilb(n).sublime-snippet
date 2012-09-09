@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[invhilb(${1622:n})]]></content>
+	<tabTrigger>invhilb</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

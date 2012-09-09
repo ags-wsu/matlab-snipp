@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[odeset(${1:oldopts},${2:newopts})]]></content>
+	<tabTrigger>odeset</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

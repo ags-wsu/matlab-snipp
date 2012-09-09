@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[realpow(${1:X},${2:Y})]]></content>
+	<tabTrigger>realpow</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

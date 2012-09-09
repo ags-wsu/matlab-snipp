@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isfinite(${1646:A})]]></content>
+	<tabTrigger>isfinite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

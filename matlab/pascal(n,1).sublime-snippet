@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pascal(${1:n},${2:1})]]></content>
+	<tabTrigger>pascal</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

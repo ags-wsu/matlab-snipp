@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tiffobj.computeStrip(${3072:row})]]></content>
+	<tabTrigger>tiffobj.computeStrip</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

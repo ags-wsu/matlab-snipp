@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cumprod(${1:A},${2:dim})]]></content>
+	<tabTrigger>cumprod</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

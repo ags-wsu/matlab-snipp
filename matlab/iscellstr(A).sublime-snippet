@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[iscellstr(${1633:A})]]></content>
+	<tabTrigger>iscellstr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

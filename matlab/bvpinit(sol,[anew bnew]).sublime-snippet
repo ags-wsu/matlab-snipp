@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bvpinit(${1:sol},[${2:anew} ${3:bnew}])]]></content>
+	<tabTrigger>bvpinit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

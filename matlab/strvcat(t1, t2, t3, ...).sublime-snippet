@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strvcat(${1:t1},${2: t2},${3: t3},${4: ...})]]></content>
+	<tabTrigger>strvcat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

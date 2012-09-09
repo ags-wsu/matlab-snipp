@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hdf5write(${1:...},'${2:V71Dimensions}',${3: BOOL})]]></content>
+	<tabTrigger>hdf5write</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

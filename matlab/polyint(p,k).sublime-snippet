@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[polyint(${1:p},${2:k})]]></content>
+	<tabTrigger>polyint</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

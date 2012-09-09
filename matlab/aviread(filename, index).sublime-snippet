@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[aviread(${1:filename},${2: index})]]></content>
+	<tabTrigger>aviread</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ancestor(${1:h},${2:type},'${3:toplevel}')]]></content>
+	<tabTrigger>ancestor</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

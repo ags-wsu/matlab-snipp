@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[quad(${2377:...})]]></content>
+	<tabTrigger>quad</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

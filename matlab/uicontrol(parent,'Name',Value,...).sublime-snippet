@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uicontrol(${1:parent},'${2:Name}',${3:Value},${4:...})]]></content>
+	<tabTrigger>uicontrol</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

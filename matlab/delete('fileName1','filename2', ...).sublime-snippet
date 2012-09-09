@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[delete('${1:fileName1}','${2:filename2}',${3: ...})]]></content>
+	<tabTrigger>delete</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

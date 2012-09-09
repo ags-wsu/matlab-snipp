@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pareto(${2190:...})]]></content>
+	<tabTrigger>pareto</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[usejava(${3240:feature})]]></content>
+	<tabTrigger>usejava</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

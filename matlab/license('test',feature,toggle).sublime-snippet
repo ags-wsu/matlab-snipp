@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[license('${1:test}',${2:feature},${3:toggle})]]></content>
+	<tabTrigger>license</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

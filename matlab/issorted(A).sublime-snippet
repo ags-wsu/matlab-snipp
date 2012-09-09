@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[issorted(${1693:A})]]></content>
+	<tabTrigger>issorted</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

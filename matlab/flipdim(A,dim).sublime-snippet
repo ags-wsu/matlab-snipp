@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[flipdim(${1:A},${2:dim})]]></content>
+	<tabTrigger>flipdim</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rectangle(${2496:...})]]></content>
+	<tabTrigger>rectangle</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

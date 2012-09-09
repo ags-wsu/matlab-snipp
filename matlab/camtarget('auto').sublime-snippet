@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[camtarget('${380:auto}')]]></content>
+	<tabTrigger>camtarget</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

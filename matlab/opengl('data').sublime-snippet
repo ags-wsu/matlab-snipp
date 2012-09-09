@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[opengl('${2160:data}')]]></content>
+	<tabTrigger>opengl</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

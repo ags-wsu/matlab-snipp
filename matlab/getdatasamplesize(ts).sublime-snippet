@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getdatasamplesize(${1309:ts})]]></content>
+	<tabTrigger>getdatasamplesize</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

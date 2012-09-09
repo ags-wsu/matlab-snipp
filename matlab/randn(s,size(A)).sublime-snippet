@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[randn(${1:s},${2:size(A})]]></content>
+	<tabTrigger>randn</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

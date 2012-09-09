@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[weekday(${3338:D})]]></content>
+	<tabTrigger>weekday</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

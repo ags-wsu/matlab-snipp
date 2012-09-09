@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[planerot(${2252:x})]]></content>
+	<tabTrigger>planerot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

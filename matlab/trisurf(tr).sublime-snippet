@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[trisurf(${3134:tr})]]></content>
+	<tabTrigger>trisurf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

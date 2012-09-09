@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uisave(${1:variables},${2:filename})]]></content>
+	<tabTrigger>uisave</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

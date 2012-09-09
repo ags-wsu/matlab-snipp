@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[metaclass(${1908:object})]]></content>
+	<tabTrigger>metaclass</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

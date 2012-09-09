@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sph2cart(${1:azimuth},${2:elevation},${3:r})]]></content>
+	<tabTrigger>sph2cart</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

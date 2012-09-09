@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uibuttongroup(${3154:...})]]></content>
+	<tabTrigger>uibuttongroup</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

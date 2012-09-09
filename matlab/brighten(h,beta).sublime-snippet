@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[brighten(${1:h},${2:beta})]]></content>
+	<tabTrigger>brighten</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

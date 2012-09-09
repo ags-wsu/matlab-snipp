@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[exit]]></content>
+	<tabTrigger>exit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

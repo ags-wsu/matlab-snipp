@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[printdlg('${1:-crossplatform}',${2:fig})]]></content>
+	<tabTrigger>printdlg</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

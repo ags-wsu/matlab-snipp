@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bitcmp(${292:A})]]></content>
+	<tabTrigger>bitcmp</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

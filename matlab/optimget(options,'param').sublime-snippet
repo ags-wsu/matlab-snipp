@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[optimget(${1:options},'${2:param}')]]></content>
+	<tabTrigger>optimget</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

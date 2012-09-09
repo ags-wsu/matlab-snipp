@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.inqNcid(${1:ncid},${2:childGroupName})]]></content>
+	<tabTrigger>netcdf.inqNcid</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

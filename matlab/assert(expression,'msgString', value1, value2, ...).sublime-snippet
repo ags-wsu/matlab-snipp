@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[assert(${1:expression},'${2:msgString}',${3: value1},${4: value2},${5: ...})]]></content>
+	<tabTrigger>assert</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

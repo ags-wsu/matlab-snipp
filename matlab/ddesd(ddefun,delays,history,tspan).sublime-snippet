@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ddesd(${1:ddefun},${2:delays},${3:history},${4:tspan})]]></content>
+	<tabTrigger>ddesd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

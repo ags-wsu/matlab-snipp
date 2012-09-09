@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ppval(${1:pp},${2:xx})]]></content>
+	<tabTrigger>ppval</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

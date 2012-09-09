@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mlint('${1942:filename}')]]></content>
+	<tabTrigger>mlint</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

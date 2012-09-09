@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[regexptranslate(${1:type},${2: s1})]]></content>
+	<tabTrigger>regexptranslate</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

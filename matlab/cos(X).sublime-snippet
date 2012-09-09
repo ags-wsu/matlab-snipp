@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cos(${712:X})]]></content>
+	<tabTrigger>cos</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

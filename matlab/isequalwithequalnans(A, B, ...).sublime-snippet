@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isequalwithequalnans(${1:A},${2: B},${3: ...})]]></content>
+	<tabTrigger>isequalwithequalnans</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

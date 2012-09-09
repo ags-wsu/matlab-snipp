@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[max(${1:ts},${2:Name},${3:Value})]]></content>
+	<tabTrigger>max</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

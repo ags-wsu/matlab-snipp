@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[soundsc(${1:y},${2:Fs})]]></content>
+	<tabTrigger>soundsc</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

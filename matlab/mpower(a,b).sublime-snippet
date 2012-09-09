@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mpower(${1:a},${2:b})]]></content>
+	<tabTrigger>mpower</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

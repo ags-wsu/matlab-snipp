@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[datetick(${788:tickaxis})]]></content>
+	<tabTrigger>datetick</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

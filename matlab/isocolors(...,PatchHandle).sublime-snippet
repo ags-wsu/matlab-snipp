@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isocolors(${1:...},${2:PatchHandle})]]></content>
+	<tabTrigger>isocolors</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

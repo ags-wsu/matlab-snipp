@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[computer('${627:arch}')]]></content>
+	<tabTrigger>computer</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

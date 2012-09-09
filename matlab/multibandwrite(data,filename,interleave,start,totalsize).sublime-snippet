@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[multibandwrite(${1:data},${2:filename},${3:interleave},${4:start},${5:totalsize})]]></content>
+	<tabTrigger>multibandwrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

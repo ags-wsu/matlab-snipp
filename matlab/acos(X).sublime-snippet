@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[acos(${62:X})]]></content>
+	<tabTrigger>acos</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

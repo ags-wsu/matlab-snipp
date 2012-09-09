@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findobj(${1:objhandles},'${2:flat}','${3:PropertyName}',${4:PropertyValue},${5:...})]]></content>
+	<tabTrigger>findobj</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

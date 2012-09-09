@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[untar(${1:url},${2: ...})]]></content>
+	<tabTrigger>untar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[h.deleteproperty('${1395:propertyname}')]]></content>
+	<tabTrigger>h.deleteproperty</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strcmpi(${1:string},${2:cellstr})]]></content>
+	<tabTrigger>strcmpi</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

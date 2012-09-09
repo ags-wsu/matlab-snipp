@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[erfcx(${966:X})]]></content>
+	<tabTrigger>erfcx</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

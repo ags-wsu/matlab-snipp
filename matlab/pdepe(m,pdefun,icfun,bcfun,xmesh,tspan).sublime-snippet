@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pdepe(${1:m},${2:pdefun},${3:icfun},${4:bcfun},${5:xmesh},${6:tspan})]]></content>
+	<tabTrigger>pdepe</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

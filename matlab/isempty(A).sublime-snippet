@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isempty(${1638:A})]]></content>
+	<tabTrigger>isempty</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

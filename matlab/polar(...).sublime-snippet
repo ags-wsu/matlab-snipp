@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[polar(${2303:...})]]></content>
+	<tabTrigger>polar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

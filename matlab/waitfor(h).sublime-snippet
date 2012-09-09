@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[waitfor(${3305:h})]]></content>
+	<tabTrigger>waitfor</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

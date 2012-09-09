@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[imwrite(${1:A},${2:filename},${3:fmt})]]></content>
+	<tabTrigger>imwrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

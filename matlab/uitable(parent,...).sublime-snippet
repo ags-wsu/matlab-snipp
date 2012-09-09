@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uitable(${1:parent},${2:...})]]></content>
+	<tabTrigger>uitable</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

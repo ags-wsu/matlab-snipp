@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cell(${509:dim})]]></content>
+	<tabTrigger>cell</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

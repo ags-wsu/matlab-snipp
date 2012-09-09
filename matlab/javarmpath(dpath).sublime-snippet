@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[javarmpath(${1721:dpath})]]></content>
+	<tabTrigger>javarmpath</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

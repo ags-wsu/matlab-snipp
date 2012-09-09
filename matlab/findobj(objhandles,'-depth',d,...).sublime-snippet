@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findobj(${1:objhandles},'${2:-depth}',${3:d},${4:...})]]></content>
+	<tabTrigger>findobj</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

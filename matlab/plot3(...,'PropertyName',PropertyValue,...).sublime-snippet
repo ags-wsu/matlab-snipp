@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plot3(${1:...},'${2:PropertyName}',${3:PropertyValue},${4:...})]]></content>
+	<tabTrigger>plot3</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

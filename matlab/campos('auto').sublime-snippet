@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[campos('${371:auto}')]]></content>
+	<tabTrigger>campos</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

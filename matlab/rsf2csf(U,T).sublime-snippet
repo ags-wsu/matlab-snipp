@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rsf2csf(${1:U},${2:T})]]></content>
+	<tabTrigger>rsf2csf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

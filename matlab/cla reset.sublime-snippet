@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cla ${1:reset}]]></content>
+	<tabTrigger>cla</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

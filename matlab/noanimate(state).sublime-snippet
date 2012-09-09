@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[noanimate(${2094:state})]]></content>
+	<tabTrigger>noanimate</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[campan(${1:dtheta},${2:dphi})]]></content>
+	<tabTrigger>campan</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

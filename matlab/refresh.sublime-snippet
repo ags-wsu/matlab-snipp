@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[refresh]]></content>
+	<tabTrigger>refresh</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

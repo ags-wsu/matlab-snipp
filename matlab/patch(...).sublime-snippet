@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[patch(${2200:...})]]></content>
+	<tabTrigger>patch</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

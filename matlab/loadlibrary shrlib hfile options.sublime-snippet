@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[loadlibrary ${1:shrlib}]]></content>
+	<tabTrigger>loadlibrary</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

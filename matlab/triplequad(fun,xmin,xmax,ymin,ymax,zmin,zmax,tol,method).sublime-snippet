@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[triplequad(${1:fun},${2:xmin},${3:xmax},${4:ymin},${5:ymax},${6:zmin},${7:zmax},${8:tol},${9:method})]]></content>
+	<tabTrigger>triplequad</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

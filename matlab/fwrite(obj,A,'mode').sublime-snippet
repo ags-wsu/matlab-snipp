@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fwrite(${1:obj},${2:A},'${3:mode}')]]></content>
+	<tabTrigger>fwrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

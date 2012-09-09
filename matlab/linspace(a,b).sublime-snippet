@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[linspace(${1:a},${2:b})]]></content>
+	<tabTrigger>linspace</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

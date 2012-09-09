@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nearestNeighbor(${1:DT},${2:QX})]]></content>
+	<tabTrigger>nearestNeighbor</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

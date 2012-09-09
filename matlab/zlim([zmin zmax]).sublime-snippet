@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[zlim([${1:zmin} ${2:zmax}])]]></content>
+	<tabTrigger>zlim</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

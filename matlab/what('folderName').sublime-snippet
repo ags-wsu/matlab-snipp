@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[what('${3342:folderName}')]]></content>
+	<tabTrigger>what</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

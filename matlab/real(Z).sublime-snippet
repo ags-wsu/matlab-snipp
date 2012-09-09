@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[real(${2482:Z})]]></content>
+	<tabTrigger>real</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

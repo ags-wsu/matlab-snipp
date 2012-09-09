@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ifft(${1:...},'${2:symmetric}')]]></content>
+	<tabTrigger>ifft</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

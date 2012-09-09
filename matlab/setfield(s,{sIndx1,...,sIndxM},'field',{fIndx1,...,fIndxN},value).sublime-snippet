@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setfield(${1:s},{${2:sIndx1},${3:...},${4:sIndxM}},'${5:field}',{${6:fIndx1},${7:...},${8:fIndxN}},${9:value})]]></content>
+	<tabTrigger>setfield</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

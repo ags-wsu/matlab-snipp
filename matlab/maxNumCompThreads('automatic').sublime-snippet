@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[maxNumCompThreads('${1874:automatic}')]]></content>
+	<tabTrigger>maxNumCompThreads</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

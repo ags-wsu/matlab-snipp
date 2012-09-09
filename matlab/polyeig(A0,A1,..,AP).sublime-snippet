@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[polyeig(${1:A0},${2:A1},${3:..},${4:Ap})]]></content>
+	<tabTrigger>polyeig</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

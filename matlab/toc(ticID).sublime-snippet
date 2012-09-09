@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toc(${3101:ticID})]]></content>
+	<tabTrigger>toc</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

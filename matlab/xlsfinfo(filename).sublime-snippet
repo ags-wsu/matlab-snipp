@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[xlsfinfo(${3383:filename})]]></content>
+	<tabTrigger>xlsfinfo</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

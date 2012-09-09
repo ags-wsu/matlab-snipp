@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[vander(${3256:v})]]></content>
+	<tabTrigger>vander</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

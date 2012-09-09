@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[factor(${1079:n})]]></content>
+	<tabTrigger>factor</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

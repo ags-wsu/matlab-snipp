@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resample(${1:tsc},${2:Time})]]></content>
+	<tabTrigger>resample</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

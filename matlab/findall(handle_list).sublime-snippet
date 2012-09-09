@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findall(${1155:handle_list})]]></content>
+	<tabTrigger>findall</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

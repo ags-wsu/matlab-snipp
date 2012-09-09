@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[vertexAttachments(${1:TR},${2: VI})]]></content>
+	<tabTrigger>vertexAttachments</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

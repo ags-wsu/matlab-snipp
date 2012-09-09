@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[drawnow ${1:expose}]]></content>
+	<tabTrigger>drawnow</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

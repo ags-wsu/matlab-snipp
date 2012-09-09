@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isosurface(${1678:...})]]></content>
+	<tabTrigger>isosurface</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

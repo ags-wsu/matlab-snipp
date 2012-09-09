@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[odextend(${1:sol},[${2:]},${3:tfinal})]]></content>
+	<tabTrigger>odextend</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

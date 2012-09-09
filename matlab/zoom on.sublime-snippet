@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[zoom ${1:on}]]></content>
+	<tabTrigger>zoom</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

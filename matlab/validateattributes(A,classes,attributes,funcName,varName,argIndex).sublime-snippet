@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[validateattributes(${1:A},${2:classes},${3:attributes},${4:funcName},${5:varName},${6:argIndex})]]></content>
+	<tabTrigger>validateattributes</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rmpref('${2568:group}')]]></content>
+	<tabTrigger>rmpref</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

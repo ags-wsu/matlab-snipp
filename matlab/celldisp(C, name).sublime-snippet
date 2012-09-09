@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[celldisp(${1:C},${2: name})]]></content>
+	<tabTrigger>celldisp</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sparse(${1:i},${2:j},${3:s},${4:m},${5:n},${6:nzmax})]]></content>
+	<tabTrigger>sparse</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

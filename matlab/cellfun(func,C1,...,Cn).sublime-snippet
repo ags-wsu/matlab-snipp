@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cellfun(${1:func},${2:C1},${3:...},${4:Cn})]]></content>
+	<tabTrigger>cellfun</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

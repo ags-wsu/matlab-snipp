@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dde23(${1:ddefun},${2:lags},${3:history},${4:tspan})]]></content>
+	<tabTrigger>dde23</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

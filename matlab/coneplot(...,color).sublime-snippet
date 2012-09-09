@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[coneplot(${1:...},${2:color})]]></content>
+	<tabTrigger>coneplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

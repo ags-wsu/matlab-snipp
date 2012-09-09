@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[matlab ${1:-logfile}]]></content>
+	<tabTrigger>matlab</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

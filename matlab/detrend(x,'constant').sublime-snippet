@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[detrend(${1:x},'${2:constant}')]]></content>
+	<tabTrigger>detrend</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

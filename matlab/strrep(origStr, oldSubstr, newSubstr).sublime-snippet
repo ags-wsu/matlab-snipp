@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strrep(${1:origStr},${2: oldSubstr},${3: newSubstr})]]></content>
+	<tabTrigger>strrep</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

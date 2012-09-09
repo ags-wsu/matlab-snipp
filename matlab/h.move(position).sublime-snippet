@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[h.move(${1404:position})]]></content>
+	<tabTrigger>h.move</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

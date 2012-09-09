@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[interpft(${1:x},${2:n},${3:dim})]]></content>
+	<tabTrigger>interpft</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[urlwrite(${1:URL},${2:filename})]]></content>
+	<tabTrigger>urlwrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

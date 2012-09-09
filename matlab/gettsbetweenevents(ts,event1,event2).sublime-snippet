@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gettsbetweenevents(${1:ts},${2:event1},${3:event2})]]></content>
+	<tabTrigger>gettsbetweenevents</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

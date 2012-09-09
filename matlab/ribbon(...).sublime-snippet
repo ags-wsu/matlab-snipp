@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ribbon(${2556:...})]]></content>
+	<tabTrigger>ribbon</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

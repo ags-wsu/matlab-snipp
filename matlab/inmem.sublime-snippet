@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[inmem]]></content>
+	<tabTrigger>inmem</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

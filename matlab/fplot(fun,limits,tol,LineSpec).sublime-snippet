@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fplot(${1:fun},${2:limits},${3:tol},${4:LineSpec})]]></content>
+	<tabTrigger>fplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

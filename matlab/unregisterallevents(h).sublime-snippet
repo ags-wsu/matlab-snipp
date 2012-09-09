@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unregisterallevents(${3221:h})]]></content>
+	<tabTrigger>unregisterallevents</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mexext('${1916:all}')]]></content>
+	<tabTrigger>mexext</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

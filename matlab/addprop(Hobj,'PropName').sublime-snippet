@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addprop(${1:Hobj},'${2:PropName}')]]></content>
+	<tabTrigger>addprop</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

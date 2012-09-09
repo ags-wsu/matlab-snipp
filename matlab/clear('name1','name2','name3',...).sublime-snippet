@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clear('${1:name1}','${2:name2}','${3:name3}',${4:...})]]></content>
+	<tabTrigger>clear</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

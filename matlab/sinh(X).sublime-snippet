@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sinh(${2719:X})]]></content>
+	<tabTrigger>sinh</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

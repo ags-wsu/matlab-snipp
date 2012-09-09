@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plotyy(${2292:...})]]></content>
+	<tabTrigger>plotyy</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

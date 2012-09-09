@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[compan(${620:u})]]></content>
+	<tabTrigger>compan</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

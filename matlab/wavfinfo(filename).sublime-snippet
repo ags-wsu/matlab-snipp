@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wavfinfo(${3322:filename})]]></content>
+	<tabTrigger>wavfinfo</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

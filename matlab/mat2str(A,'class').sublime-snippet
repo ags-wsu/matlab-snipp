@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mat2str(${1:A},'${2:class}')]]></content>
+	<tabTrigger>mat2str</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

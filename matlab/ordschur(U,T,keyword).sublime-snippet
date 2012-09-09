@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ordschur(${1:U},${2:T},${3:keyword})]]></content>
+	<tabTrigger>ordschur</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

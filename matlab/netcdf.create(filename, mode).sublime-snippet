@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.create(${1:filename},${2: mode})]]></content>
+	<tabTrigger>netcdf.create</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

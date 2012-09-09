@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uipanel(${1:parent},'${2:PropertyName1}',${3:value1},'${4:PropertyName2}',${5:value2},${6:...})]]></content>
+	<tabTrigger>uipanel</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

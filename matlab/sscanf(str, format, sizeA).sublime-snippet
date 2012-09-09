@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sscanf(${1:str},${2: format},${3: sizeA})]]></content>
+	<tabTrigger>sscanf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

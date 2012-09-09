@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ordqz(${1:AA},${2:BB},${3:Q},${4:Z},${5:select})]]></content>
+	<tabTrigger>ordqz</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

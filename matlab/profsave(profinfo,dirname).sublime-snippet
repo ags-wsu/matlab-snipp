@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[profsave(${1:profinfo},${2:dirname})]]></content>
+	<tabTrigger>profsave</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[regexprep('${1:str}','${2:expr}','${3:repstr}')]]></content>
+	<tabTrigger>regexprep</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

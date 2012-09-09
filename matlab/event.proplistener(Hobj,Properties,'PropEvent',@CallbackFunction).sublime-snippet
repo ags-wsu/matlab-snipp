@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[event.proplistener(${1:Hobj},${2:Properties},'${3:PropEvent}',${4:@CallbackFunction})]]></content>
+	<tabTrigger>event.proplistener</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

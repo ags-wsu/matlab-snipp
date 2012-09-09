@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ellipj(${1:U},${2:M})]]></content>
+	<tabTrigger>ellipj</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

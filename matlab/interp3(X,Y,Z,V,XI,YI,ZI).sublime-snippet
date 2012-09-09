@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[interp3(${1:X},${2:Y},${3:Z},${4:V},${5:XI},${6:YI},${7:ZI})]]></content>
+	<tabTrigger>interp3</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

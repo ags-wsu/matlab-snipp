@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findboj(${1:Hobj},'${2:-property}','${3:PropertyName}')]]></content>
+	<tabTrigger>findboj</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>
