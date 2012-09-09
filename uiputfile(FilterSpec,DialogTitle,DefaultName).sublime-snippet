@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uiputfile(${1:FilterSpec},${2:DialogTitle},${3:DefaultName})]]></content>
+	<tabTrigger>uiputfile</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

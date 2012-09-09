@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uistack(${1:h},${2:stackopt},${3:step})]]></content>
+	<tabTrigger>uistack</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

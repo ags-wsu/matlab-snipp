@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wk1write(${1:filename},${2:M})]]></content>
+	<tabTrigger>wk1write</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

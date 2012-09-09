@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[le(${1:H1},${2:H2})]]></content>
+	<tabTrigger>le</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

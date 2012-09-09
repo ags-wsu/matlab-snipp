@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[subsasgn(${1:A},${2: S},${3: B})]]></content>
+	<tabTrigger>subsasgn</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

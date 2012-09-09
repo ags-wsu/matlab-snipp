@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ne(${1:A},${2: B})]]></content>
+	<tabTrigger>ne</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fscanf(${1:fileID},${2: format})]]></content>
+	<tabTrigger>fscanf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

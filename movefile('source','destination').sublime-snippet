@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[movefile('${1:source}','${2:destination}')]]></content>
+	<tabTrigger>movefile</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

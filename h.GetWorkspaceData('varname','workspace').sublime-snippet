@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[h.GetWorkspaceData('${1:varname}','${2:workspace}')]]></content>
+	<tabTrigger>h.GetWorkspaceData</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

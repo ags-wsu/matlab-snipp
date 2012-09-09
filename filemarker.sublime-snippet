@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[filemarker]]></content>
+	<tabTrigger>filemarker</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

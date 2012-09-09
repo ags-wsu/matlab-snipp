@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdflib.hyperPutVarData(${1:cdfId},${2:varNum},${3:recSpec},${4:dimSpec},${5:data})]]></content>
+	<tabTrigger>cdflib.hyperPutVarData</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

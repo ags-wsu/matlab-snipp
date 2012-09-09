@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[workspace]]></content>
+	<tabTrigger>workspace</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

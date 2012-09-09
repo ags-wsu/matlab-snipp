@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[importdata('${1:-pastespecial}',${2: ...})]]></content>
+	<tabTrigger>importdata</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

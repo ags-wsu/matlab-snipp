@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[streamtube(${1:vertices},${2:width})]]></content>
+	<tabTrigger>streamtube</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

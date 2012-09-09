@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dlmread(${1:filename},${2: delimiter},${3: range})]]></content>
+	<tabTrigger>dlmread</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

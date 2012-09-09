@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[randperm(${2464:n})]]></content>
+	<tabTrigger>randperm</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

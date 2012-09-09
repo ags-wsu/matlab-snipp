@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MException.last('${24:reset}')]]></content>
+	<tabTrigger>MException.last</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[norm(${1:X},'${2:fro}')]]></content>
+	<tabTrigger>norm</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

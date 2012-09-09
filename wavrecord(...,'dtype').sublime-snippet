@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wavrecord(${1:...},'${2:dtype}')]]></content>
+	<tabTrigger>wavrecord</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

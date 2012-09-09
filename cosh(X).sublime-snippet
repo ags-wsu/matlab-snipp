@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cosh(${714:X})]]></content>
+	<tabTrigger>cosh</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

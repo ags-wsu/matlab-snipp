@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tfqmr(${1:a},${2:b},${3:tol})]]></content>
+	<tabTrigger>tfqmr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

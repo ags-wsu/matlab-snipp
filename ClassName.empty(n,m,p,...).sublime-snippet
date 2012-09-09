@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClassName.empty(${1:n},${2:m},${3:p},${4:...})]]></content>
+	<tabTrigger>ClassName.empty</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

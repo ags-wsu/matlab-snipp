@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cellplot(${518:c})]]></content>
+	<tabTrigger>cellplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

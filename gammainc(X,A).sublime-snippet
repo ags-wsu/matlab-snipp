@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gammainc(${1:X},${2:A})]]></content>
+	<tabTrigger>gammainc</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

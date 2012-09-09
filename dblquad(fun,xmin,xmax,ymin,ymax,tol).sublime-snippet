@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dblquad(${1:fun},${2:xmin},${3:xmax},${4:ymin},${5:ymax},${6:tol})]]></content>
+	<tabTrigger>dblquad</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

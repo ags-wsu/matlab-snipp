@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[structfun(${1:func},${2:S},${3:Name},${4:Value})]]></content>
+	<tabTrigger>structfun</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

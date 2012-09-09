@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uigetpref(${1:group},${2:pref},${3:title},${4:question},${5:pref_choices})]]></content>
+	<tabTrigger>uigetpref</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

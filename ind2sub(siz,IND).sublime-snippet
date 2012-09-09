@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ind2sub(${1:siz},${2:IND})]]></content>
+	<tabTrigger>ind2sub</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

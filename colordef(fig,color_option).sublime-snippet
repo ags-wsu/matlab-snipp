@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[colordef(${1:fig},${2:color_option})]]></content>
+	<tabTrigger>colordef</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

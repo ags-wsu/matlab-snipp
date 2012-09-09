@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[guidata(${1375:object_handle})]]></content>
+	<tabTrigger>guidata</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

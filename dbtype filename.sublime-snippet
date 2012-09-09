@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dbtype ${1:filename}]]></content>
+	<tabTrigger>dbtype</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

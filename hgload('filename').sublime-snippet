@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hgload('${1460:filename}')]]></content>
+	<tabTrigger>hgload</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

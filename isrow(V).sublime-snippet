@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isrow(${1691:V})]]></content>
+	<tabTrigger>isrow</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

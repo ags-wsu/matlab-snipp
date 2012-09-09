@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[annotation('${1:textbox}',[${2:x} ${3:y} ${4:w} ${5:h}])]]></content>
+	<tabTrigger>annotation</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

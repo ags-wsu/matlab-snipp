@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[shading ${1:flat}]]></content>
+	<tabTrigger>shading</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

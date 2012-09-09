@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sprank(${2795:A})]]></content>
+	<tabTrigger>sprank</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

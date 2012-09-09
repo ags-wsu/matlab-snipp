@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[genvarname(${1275:str})]]></content>
+	<tabTrigger>genvarname</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

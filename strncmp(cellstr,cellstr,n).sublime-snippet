@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strncmp(${1:cellstr},${2:cellstr},${3:n})]]></content>
+	<tabTrigger>strncmp</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

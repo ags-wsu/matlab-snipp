@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[contrast(${686:X})]]></content>
+	<tabTrigger>contrast</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

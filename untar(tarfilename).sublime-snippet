@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[untar(${3224:tarfilename})]]></content>
+	<tabTrigger>untar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unix('${3216:command}')]]></content>
+	<tabTrigger>unix</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

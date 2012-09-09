@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lasterror('${1728:reset}')]]></content>
+	<tabTrigger>lasterror</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

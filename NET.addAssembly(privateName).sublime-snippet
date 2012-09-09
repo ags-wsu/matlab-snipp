@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NET.addAssembly(${28:privateName})]]></content>
+	<tabTrigger>NET.addAssembly</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

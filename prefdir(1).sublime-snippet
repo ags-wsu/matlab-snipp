@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[prefdir(${2328:1})]]></content>
+	<tabTrigger>prefdir</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

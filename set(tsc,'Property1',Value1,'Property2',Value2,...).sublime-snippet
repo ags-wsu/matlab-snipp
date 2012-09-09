@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[set(${1:tsc},'${2:Property1}',${3:Value1},'${4:Property2}',${5:Value2},${6:...})]]></content>
+	<tabTrigger>set</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pack('${2185:filename}')]]></content>
+	<tabTrigger>pack</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

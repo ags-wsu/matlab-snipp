@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[license('${1:checkout}',${2:feature})]]></content>
+	<tabTrigger>license</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

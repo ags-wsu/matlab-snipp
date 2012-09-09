@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdflib.epochBreakdown(${427:epochTime})]]></content>
+	<tabTrigger>cdflib.epochBreakdown</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

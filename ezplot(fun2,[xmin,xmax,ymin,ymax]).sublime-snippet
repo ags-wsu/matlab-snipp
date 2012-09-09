@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ezplot(${1:fun2},[${2:xmin} ${3:xmax} ${4:ymin} ${5:ymax}])]]></content>
+	<tabTrigger>ezplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

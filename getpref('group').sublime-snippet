@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getpref('${1319:group}')]]></content>
+	<tabTrigger>getpref</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isprime(${1687:A})]]></content>
+	<tabTrigger>isprime</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

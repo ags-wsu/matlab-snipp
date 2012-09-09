@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plot(${1:tsc.tsname},${2:linespec})]]></content>
+	<tabTrigger>plot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

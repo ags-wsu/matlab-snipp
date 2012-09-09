@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gtext({${1374:'string1';'string2';'string3';...}})]]></content>
+	<tabTrigger>gtext</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

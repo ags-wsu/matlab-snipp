@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tanh(${3034:X})]]></content>
+	<tabTrigger>tanh</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

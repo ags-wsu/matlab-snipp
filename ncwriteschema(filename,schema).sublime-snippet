@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ncwriteschema(${1:filename},${2:schema})]]></content>
+	<tabTrigger>ncwriteschema</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

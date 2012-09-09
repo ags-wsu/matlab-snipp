@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[javaclasspath('${1716:-dynamic}')]]></content>
+	<tabTrigger>javaclasspath</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

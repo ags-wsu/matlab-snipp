@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findstr(${1:str1},${2: str2})]]></content>
+	<tabTrigger>findstr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

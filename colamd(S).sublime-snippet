@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[colamd(${596:S})]]></content>
+	<tabTrigger>colamd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

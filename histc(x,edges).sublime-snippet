@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[histc(${1:x},${2:edges})]]></content>
+	<tabTrigger>histc</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[timerfindall(${3093:S})]]></content>
+	<tabTrigger>timerfindall</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

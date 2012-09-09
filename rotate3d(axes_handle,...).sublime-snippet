@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rotate3d(${1:axes_handle},${2:...})]]></content>
+	<tabTrigger>rotate3d</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

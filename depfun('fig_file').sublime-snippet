@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[depfun('${858:fig_file}')]]></content>
+	<tabTrigger>depfun</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

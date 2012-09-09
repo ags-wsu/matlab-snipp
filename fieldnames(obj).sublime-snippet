@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fieldnames(${1121:obj})]]></content>
+	<tabTrigger>fieldnames</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

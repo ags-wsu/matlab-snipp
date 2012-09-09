@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cov(${1:X},${2:Y})]]></content>
+	<tabTrigger>cov</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

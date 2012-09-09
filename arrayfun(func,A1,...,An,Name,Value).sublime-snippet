@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[arrayfun(${1:func},${2:A1},${3:...},${4:An},${5:Name},${6:Value})]]></content>
+	<tabTrigger>arrayfun</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

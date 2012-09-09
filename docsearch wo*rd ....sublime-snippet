@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[docsearch ${1:wo*rd}]]></content>
+	<tabTrigger>docsearch</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

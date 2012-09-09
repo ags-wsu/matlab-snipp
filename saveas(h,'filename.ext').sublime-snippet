@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[saveas(${1:h},'${2:filename.ext}')]]></content>
+	<tabTrigger>saveas</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

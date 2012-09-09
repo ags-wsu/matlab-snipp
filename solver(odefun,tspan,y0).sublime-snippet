@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[solver(${1:odefun},${2:tspan},${3:y0})]]></content>
+	<tabTrigger>solver</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

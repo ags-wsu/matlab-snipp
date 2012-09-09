@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[symbfact(${3013:A})]]></content>
+	<tabTrigger>symbfact</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

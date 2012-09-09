@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[struct([${2928:]})]]></content>
+	<tabTrigger>struct</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

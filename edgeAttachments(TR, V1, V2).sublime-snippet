@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[edgeAttachments(${1:TR},${2: V1},${3: V2})]]></content>
+	<tabTrigger>edgeAttachments</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

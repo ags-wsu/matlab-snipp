@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[datestr(${1:DateString1},${2: FieldSpecOut},${3: PivotYear})]]></content>
+	<tabTrigger>datestr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

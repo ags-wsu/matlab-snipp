@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mput(${1:ftpobj},${2:contents})]]></content>
+	<tabTrigger>mput</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

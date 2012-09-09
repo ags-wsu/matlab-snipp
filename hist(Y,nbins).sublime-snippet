@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hist(${1:Y},${2:nbins})]]></content>
+	<tabTrigger>hist</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

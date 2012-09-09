@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[deal(${817:S.field})]]></content>
+	<tabTrigger>deal</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[asin(${165:X})]]></content>
+	<tabTrigger>asin</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

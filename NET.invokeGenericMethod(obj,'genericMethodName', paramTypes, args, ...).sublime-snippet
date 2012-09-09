@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NET.invokeGenericMethod(${1:obj},'${2:genericMethodName}',${3: paramTypes},${4: args},${5: ...})]]></content>
+	<tabTrigger>NET.invokeGenericMethod</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

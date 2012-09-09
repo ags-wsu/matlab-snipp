@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mex ${1:-help}]]></content>
+	<tabTrigger>mex</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[deblank(${821:c})]]></content>
+	<tabTrigger>deblank</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

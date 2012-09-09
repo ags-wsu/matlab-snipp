@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pan(${1:figure_handle},${2:...})]]></content>
+	<tabTrigger>pan</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

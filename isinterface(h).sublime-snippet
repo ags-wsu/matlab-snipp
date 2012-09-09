@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isinterface(${1652:h})]]></content>
+	<tabTrigger>isinterface</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wavread(${1:...},${2: fmt})]]></content>
+	<tabTrigger>wavread</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

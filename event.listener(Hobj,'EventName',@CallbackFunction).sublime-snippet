@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[event.listener(${1:Hobj},'${2:EventName}',${3:@CallbackFunction})]]></content>
+	<tabTrigger>event.listener</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

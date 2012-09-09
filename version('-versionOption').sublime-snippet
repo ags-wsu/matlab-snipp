@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[version('${3270:-versionOption}')]]></content>
+	<tabTrigger>version</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

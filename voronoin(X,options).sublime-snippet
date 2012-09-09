@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[voronoin(${1:X},${2:options})]]></content>
+	<tabTrigger>voronoin</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

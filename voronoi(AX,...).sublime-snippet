@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[voronoi(${1:AX},${2:...})]]></content>
+	<tabTrigger>voronoi</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

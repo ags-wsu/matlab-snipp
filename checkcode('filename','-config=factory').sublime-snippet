@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[checkcode('${1:filename}','${2:-config=factory}')]]></content>
+	<tabTrigger>checkcode</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

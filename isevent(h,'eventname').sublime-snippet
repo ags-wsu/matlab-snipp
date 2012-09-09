@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isevent(${1:h},'${2:eventname}')]]></content>
+	<tabTrigger>isevent</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

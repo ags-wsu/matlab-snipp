@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[movie(${1:h},${2:M},${3:n},${4:fps},${5:loc})]]></content>
+	<tabTrigger>movie</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

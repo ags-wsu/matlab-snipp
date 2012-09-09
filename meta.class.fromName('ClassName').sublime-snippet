@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[meta.class.fromName('${1906:ClassName}')]]></content>
+	<tabTrigger>meta.class.fromName</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

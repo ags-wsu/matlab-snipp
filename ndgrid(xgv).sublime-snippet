@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ndgrid(${2021:xgv})]]></content>
+	<tabTrigger>ndgrid</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

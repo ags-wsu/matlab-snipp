@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[registerevent(${1:h},${2: eventhandler})]]></content>
+	<tabTrigger>registerevent</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

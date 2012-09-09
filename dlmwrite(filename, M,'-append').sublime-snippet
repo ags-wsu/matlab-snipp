@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dlmwrite(${1:filename},${2: M},'${3:-append}')]]></content>
+	<tabTrigger>dlmwrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

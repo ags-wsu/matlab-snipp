@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cplxpair(${724:A})]]></content>
+	<tabTrigger>cplxpair</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

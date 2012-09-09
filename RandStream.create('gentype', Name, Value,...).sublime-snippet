@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RandStream.create('${1:gentype}',${2: Name},${3: Value},${4:...})]]></content>
+	<tabTrigger>RandStream.create</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setenv(${2684:name})]]></content>
+	<tabTrigger>setenv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

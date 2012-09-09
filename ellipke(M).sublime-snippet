@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ellipke(${947:M})]]></content>
+	<tabTrigger>ellipke</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

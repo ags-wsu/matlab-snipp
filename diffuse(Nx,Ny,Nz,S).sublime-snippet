@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[diffuse(${1:Nx},${2:Ny},${3:Nz},${4:S})]]></content>
+	<tabTrigger>diffuse</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

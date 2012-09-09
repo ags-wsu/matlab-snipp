@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[actxcontrol('${1:progid}','${2:param1}',${3:value1},${4:...})]]></content>
+	<tabTrigger>actxcontrol</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

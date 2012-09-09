@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[contourslice(${676:...})]]></content>
+	<tabTrigger>contourslice</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

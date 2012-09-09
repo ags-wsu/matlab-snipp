@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[detrend(${1:x},'${2:linear}',${3:bp})]]></content>
+	<tabTrigger>detrend</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

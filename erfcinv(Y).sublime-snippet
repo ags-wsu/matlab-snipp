@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[erfcinv(${965:Y})]]></content>
+	<tabTrigger>erfcinv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

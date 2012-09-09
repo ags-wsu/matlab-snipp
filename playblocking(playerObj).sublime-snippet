@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[playblocking(${2259:playerObj})]]></content>
+	<tabTrigger>playblocking</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

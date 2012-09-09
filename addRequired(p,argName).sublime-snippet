@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addRequired(${1:p},${2:argName})]]></content>
+	<tabTrigger>addRequired</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

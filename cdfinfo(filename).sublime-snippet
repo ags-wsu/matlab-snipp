@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdfinfo(${412:filename})]]></content>
+	<tabTrigger>cdfinfo</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

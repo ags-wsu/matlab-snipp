@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[divergence(${1:X},${2:Y},${3:Z},${4:U},${5:V},${6:W})]]></content>
+	<tabTrigger>divergence</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

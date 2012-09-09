@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[subplot('${1:Position}',[${2:left} ${3:bottom} ${4:width} ${5:height}])]]></content>
+	<tabTrigger>subplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

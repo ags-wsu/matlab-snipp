@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nchoosek(${1:v},${2:k})]]></content>
+	<tabTrigger>nchoosek</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tetramesh(${1:...},'${2:param}','${3:value}','${4:param}','${5:value...}')]]></content>
+	<tabTrigger>tetramesh</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

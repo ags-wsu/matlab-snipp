@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.abort(${2030:ncid})]]></content>
+	<tabTrigger>netcdf.abort</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

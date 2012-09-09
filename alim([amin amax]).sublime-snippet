@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[alim([${1:amin} ${2:amax}])]]></content>
+	<tabTrigger>alim</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addsampletocollection(${1:tsc},'${2:time}',${3:Time},${4:TS1Name},${5:TS1Data},${6: TSnName},${7:TSnData})]]></content>
+	<tabTrigger>addsampletocollection</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

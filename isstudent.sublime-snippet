@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isstudent]]></content>
+	<tabTrigger>isstudent</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

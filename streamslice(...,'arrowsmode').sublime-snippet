@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[streamslice(${1:...},'${2:arrowsmode}')]]></content>
+	<tabTrigger>streamslice</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

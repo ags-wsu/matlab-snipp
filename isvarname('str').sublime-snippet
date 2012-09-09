@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isvarname('${1702:str}')]]></content>
+	<tabTrigger>isvarname</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

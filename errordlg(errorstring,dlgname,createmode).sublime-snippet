@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[errordlg(${1:errorstring},${2:dlgname},${3:createmode})]]></content>
+	<tabTrigger>errordlg</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cot(${715:X})]]></content>
+	<tabTrigger>cot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

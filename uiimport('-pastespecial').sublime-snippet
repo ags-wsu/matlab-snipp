@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uiimport('${3169:-pastespecial}')]]></content>
+	<tabTrigger>uiimport</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

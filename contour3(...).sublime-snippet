@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[contour3(${652:...})]]></content>
+	<tabTrigger>contour3</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[feather(${1089:...})]]></content>
+	<tabTrigger>feather</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strtok('${1:str}',${2: ...})]]></content>
+	<tabTrigger>strtok</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

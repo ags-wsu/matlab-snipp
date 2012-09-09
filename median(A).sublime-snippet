@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[median(${1880:A})]]></content>
+	<tabTrigger>median</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

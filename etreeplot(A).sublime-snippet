@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[etreeplot(${985:A})]]></content>
+	<tabTrigger>etreeplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

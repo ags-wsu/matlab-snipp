@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[inspect([${1:h1} ${2:h2} ${3:...}])]]></content>
+	<tabTrigger>inspect</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

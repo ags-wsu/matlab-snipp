@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[global ${1:X}]]></content>
+	<tabTrigger>global</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

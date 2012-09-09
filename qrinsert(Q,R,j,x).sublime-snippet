@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[qrinsert(${1:Q},${2:R},${3:j},${4:x})]]></content>
+	<tabTrigger>qrinsert</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

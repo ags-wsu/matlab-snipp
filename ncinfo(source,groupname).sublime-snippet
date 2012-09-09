@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ncinfo(${1:source},${2:groupname})]]></content>
+	<tabTrigger>ncinfo</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[streamparticles(${2874:vertices})]]></content>
+	<tabTrigger>streamparticles</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

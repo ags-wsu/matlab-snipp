@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[delsamplefromcollection(${1:tsc},'${2:Index}',${3:N})]]></content>
+	<tabTrigger>delsamplefromcollection</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

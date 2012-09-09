@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ellipsoid(${1:xc},${2:yc},${3:zc},${4:xr},${5:yr},${6:zr})]]></content>
+	<tabTrigger>ellipsoid</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

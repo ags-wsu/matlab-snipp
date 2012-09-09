@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.setChunkCache(${1:csize},${2:nelems},${3:premp})]]></content>
+	<tabTrigger>netcdf.setChunkCache</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

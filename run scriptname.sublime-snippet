@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[run ${1:scriptname}]]></content>
+	<tabTrigger>run</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

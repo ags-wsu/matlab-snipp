@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wk1read(${3364:filename})]]></content>
+	<tabTrigger>wk1read</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

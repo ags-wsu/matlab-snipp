@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sub2ind(${1:arraySize},${2: dim1Sub},${3: dim2Sub},${4: dim3Sub},${5: ...})]]></content>
+	<tabTrigger>sub2ind</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

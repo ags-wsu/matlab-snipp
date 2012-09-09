@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[iscolumn(${1635:V})]]></content>
+	<tabTrigger>iscolumn</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

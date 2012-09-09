@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.inqGrpParent(${2065:ncid})]]></content>
+	<tabTrigger>netcdf.inqGrpParent</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

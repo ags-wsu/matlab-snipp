@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[annotation('${1:textarrow}',${2:x},${3:y})]]></content>
+	<tabTrigger>annotation</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

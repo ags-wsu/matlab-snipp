@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showplottool('${2708:tool}')]]></content>
+	<tabTrigger>showplottool</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

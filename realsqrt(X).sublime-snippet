@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[realsqrt(${2487:X})]]></content>
+	<tabTrigger>realsqrt</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

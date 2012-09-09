@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[texlabel(${1:f},'${2:literal}')]]></content>
+	<tabTrigger>texlabel</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

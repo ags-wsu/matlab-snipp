@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hadamard(${1424:n})]]></content>
+	<tabTrigger>hadamard</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

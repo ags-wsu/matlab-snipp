@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[audiodevinfo(${1:IO},${2: name})]]></content>
+	<tabTrigger>audiodevinfo</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

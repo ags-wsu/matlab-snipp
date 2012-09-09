@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[record(${1:recorderObj},${2: length})]]></content>
+	<tabTrigger>record</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

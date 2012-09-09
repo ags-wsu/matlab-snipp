@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[parse(${1:p},${2:argList})]]></content>
+	<tabTrigger>parse</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

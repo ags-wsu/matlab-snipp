@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[area(${1:...},${2:basevalue})]]></content>
+	<tabTrigger>area</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

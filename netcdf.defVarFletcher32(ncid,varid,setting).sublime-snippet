@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.defVarFletcher32(${1:ncid},${2:varid},${3:setting})]]></content>
+	<tabTrigger>netcdf.defVarFletcher32</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

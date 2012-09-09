@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[javachk(${1:feature},${2: component})]]></content>
+	<tabTrigger>javachk</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

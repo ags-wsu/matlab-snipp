@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strfind(${1:cellstr},${2: pattern})]]></content>
+	<tabTrigger>strfind</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

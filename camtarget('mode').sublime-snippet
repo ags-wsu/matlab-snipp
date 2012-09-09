@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[camtarget('${382:mode}')]]></content>
+	<tabTrigger>camtarget</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

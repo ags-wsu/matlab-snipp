@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uitoggletool(${1:ht},${2:...})]]></content>
+	<tabTrigger>uitoggletool</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdflib.getVarNumRecsWritten(${1:cdfId},${2:varNum})]]></content>
+	<tabTrigger>cdflib.getVarNumRecsWritten</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

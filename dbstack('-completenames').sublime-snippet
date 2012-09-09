@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dbstack('${801:-completenames}')]]></content>
+	<tabTrigger>dbstack</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[linsolve(${1:A},${2:B},${3:opts})]]></content>
+	<tabTrigger>linsolve</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

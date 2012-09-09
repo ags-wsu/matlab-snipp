@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ncread(${1:source},${2:varname},${3:start},${4:count},${5:stride})]]></content>
+	<tabTrigger>ncread</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nargchk(${1:minargs},${2: maxargs},${3: numargs})]]></content>
+	<tabTrigger>nargchk</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

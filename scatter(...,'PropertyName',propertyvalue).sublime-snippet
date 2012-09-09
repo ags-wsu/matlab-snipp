@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scatter(${1:...},'${2:PropertyName}',${3:propertyvalue})]]></content>
+	<tabTrigger>scatter</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[inpolygon(${1:X},${2:Y},${3:xv},${4:yv})]]></content>
+	<tabTrigger>inpolygon</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

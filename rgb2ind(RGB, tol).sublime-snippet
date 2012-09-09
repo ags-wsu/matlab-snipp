@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rgb2ind(${1:RGB},${2: tol})]]></content>
+	<tabTrigger>rgb2ind</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

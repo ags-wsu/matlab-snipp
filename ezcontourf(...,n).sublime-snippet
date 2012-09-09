@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ezcontourf(${1:...},${2:n})]]></content>
+	<tabTrigger>ezcontourf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

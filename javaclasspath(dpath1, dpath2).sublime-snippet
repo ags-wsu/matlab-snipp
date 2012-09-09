@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[javaclasspath(${1:dpath1},${2: dpath2})]]></content>
+	<tabTrigger>javaclasspath</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

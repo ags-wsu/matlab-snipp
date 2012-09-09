@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nonzeros(${2096:A})]]></content>
+	<tabTrigger>nonzeros</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

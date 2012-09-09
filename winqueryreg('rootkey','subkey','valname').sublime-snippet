@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[winqueryreg('${1:rootkey}','${2:subkey}','${3:valname}')]]></content>
+	<tabTrigger>winqueryreg</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

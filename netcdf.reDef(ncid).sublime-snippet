@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.reDef(${2083:ncid})]]></content>
+	<tabTrigger>netcdf.reDef</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

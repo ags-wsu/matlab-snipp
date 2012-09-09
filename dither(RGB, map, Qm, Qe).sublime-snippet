@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dither(${1:RGB},${2: map},${3: Qm},${4: Qe})]]></content>
+	<tabTrigger>dither</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

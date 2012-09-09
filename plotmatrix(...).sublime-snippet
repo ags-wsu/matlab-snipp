@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plotmatrix(${2284:...})]]></content>
+	<tabTrigger>plotmatrix</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

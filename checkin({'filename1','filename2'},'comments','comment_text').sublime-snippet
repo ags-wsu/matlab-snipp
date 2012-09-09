@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[checkin({${1:'filename1'},${2:'filename2'}},'${3:comments}','${4:comment_text}')]]></content>
+	<tabTrigger>checkin</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calendar(${1:y},${2: m})]]></content>
+	<tabTrigger>calendar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

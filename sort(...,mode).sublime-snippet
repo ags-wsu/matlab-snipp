@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sort(${1:...},${2:mode})]]></content>
+	<tabTrigger>sort</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

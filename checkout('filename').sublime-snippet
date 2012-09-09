@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[checkout('${546:filename}')]]></content>
+	<tabTrigger>checkout</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uicontrol]]></content>
+	<tabTrigger>uicontrol</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>
