@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.getCacheSize(${435:cdfId})]]></content>
-	<tabTrigger>cdflib.getCacheSize</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

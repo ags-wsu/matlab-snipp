@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[amd(${133:A})]]></content>
-	<tabTrigger>amd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

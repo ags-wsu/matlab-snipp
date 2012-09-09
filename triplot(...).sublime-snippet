@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[triplot(${3126:...})]]></content>
-	<tabTrigger>triplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

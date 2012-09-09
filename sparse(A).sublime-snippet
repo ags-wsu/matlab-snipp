@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[sparse(${2754:A})]]></content>
-	<tabTrigger>sparse</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

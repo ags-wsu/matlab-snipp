@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cartToBary(${1:TR},${2: SI},${3: XC})]]></content>
-	<tabTrigger>cartToBary</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

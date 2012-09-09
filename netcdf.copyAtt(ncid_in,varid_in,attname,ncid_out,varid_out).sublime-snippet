@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.copyAtt(${1:ncid_in},${2:varid_in},${3:attname},${4:ncid_out},${5:varid_out})]]></content>
-	<tabTrigger>netcdf.copyAtt</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

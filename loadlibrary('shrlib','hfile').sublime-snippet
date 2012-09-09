@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[loadlibrary('${1:shrlib}','${2:hfile}')]]></content>
-	<tabTrigger>loadlibrary</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hdf5write(${1:filename},${2:details},${3:dataset})]]></content>
-	<tabTrigger>hdf5write</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

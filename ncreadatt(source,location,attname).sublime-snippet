@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ncreadatt(${1:source},${2:location},${3:attname})]]></content>
-	<tabTrigger>ncreadatt</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

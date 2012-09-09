@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fwrite(${1246:...})]]></content>
-	<tabTrigger>fwrite</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

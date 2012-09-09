@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tiffobj.setTag(${3081:tagStruct})]]></content>
-	<tabTrigger>tiffobj.setTag</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

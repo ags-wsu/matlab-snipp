@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[imwrite(${1:...},${2:Param1},${3:Val1},${4:Param2},${5:Val2...})]]></content>
-	<tabTrigger>imwrite</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

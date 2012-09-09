@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[synchronize(${1:ts1},${2:ts2},${3: synchronizemethod})]]></content>
-	<tabTrigger>synchronize</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

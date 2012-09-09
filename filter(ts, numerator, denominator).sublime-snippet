@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[filter(${1:ts},${2: numerator},${3: denominator})]]></content>
-	<tabTrigger>filter</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

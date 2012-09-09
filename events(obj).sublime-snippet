@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[events(${996:obj})]]></content>
-	<tabTrigger>events</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

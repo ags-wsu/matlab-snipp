@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.getMajority(${442:cdfId})]]></content>
-	<tabTrigger>cdflib.getMajority</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

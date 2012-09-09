@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[meshc(${1893:...})]]></content>
-	<tabTrigger>meshc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

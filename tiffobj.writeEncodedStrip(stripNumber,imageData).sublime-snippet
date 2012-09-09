@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tiffobj.writeEncodedStrip(${1:stripNumber},${2:imageData})]]></content>
-	<tabTrigger>tiffobj.writeEncodedStrip</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

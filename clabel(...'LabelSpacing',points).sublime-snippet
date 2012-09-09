@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[clabel(${1:...LabelSpacing}',${2:points})]]></content>
-	<tabTrigger>clabel</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

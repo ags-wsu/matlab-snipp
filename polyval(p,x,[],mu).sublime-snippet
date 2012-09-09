@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[polyval(${1:p},${2:x},[${3:]},${4:mu})]]></content>
-	<tabTrigger>polyval</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

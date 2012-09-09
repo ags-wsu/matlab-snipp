@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[betaincinv(${1:y},${2:z},${3:w})]]></content>
-	<tabTrigger>betaincinv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pcolor(${1:axes_handles},${2:...})]]></content>
-	<tabTrigger>pcolor</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

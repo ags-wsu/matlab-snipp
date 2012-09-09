@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pbaspect([${2214:aspect_ratio]})]]></content>
-	<tabTrigger>pbaspect</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

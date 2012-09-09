@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.setVarCompression(${1:cdfId},${2:varNum},${3:ctype},${4:cparams})]]></content>
-	<tabTrigger>cdflib.setVarCompression</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

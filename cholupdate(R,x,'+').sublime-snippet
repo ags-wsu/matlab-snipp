@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cholupdate(${1:R},${2:x},'${3:+}')]]></content>
-	<tabTrigger>cholupdate</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

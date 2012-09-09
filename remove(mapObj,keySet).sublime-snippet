@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[remove(${1:mapObj},${2:keySet})]]></content>
-	<tabTrigger>remove</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

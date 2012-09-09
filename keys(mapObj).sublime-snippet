@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[keys(${1724:mapObj})]]></content>
-	<tabTrigger>keys</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

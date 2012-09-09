@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[instrcallback(${1:obj},${2:event})]]></content>
-	<tabTrigger>instrcallback</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

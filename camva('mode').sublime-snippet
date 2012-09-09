@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[camva('${392:mode}')]]></content>
-	<tabTrigger>camva</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

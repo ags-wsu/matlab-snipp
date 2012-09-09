@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NET.enableAutoRelease(${33:obj})]]></content>
-	<tabTrigger>NET.enableAutoRelease</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

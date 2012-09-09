@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gettsbeforeatevent(${1:ts},${2:event})]]></content>
-	<tabTrigger>gettsbeforeatevent</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

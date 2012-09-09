@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.setVarInitialRecs(${1:cdfId},${2:varNum},${3:numrecs})]]></content>
-	<tabTrigger>cdflib.setVarInitialRecs</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[datacursormode(${769:figure_handle})]]></content>
-	<tabTrigger>datacursormode</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

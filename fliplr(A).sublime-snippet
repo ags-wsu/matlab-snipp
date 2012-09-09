@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fliplr(${1179:A})]]></content>
-	<tabTrigger>fliplr</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

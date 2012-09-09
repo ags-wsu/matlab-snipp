@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lu(${1:A},${2:thresh},'${3:vector}')]]></content>
-	<tabTrigger>lu</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[schur(${1:A},${2:...})]]></content>
-	<tabTrigger>schur</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

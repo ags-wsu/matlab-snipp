@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[createClassFromWsdl(${728:source})]]></content>
-	<tabTrigger>createClassFromWsdl</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

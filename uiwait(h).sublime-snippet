@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uiwait(${3209:h})]]></content>
-	<tabTrigger>uiwait</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

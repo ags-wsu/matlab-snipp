@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[clipboard('${1:copy}',${2: data})]]></content>
-	<tabTrigger>clipboard</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

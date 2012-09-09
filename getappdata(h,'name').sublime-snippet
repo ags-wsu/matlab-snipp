@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getappdata(${1:h},'${2:name}')]]></content>
-	<tabTrigger>getappdata</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

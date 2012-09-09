@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ischar(${1634:A})]]></content>
-	<tabTrigger>ischar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

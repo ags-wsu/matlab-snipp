@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[audiorecorder(${1:Fs},${2:nBits},${3:nChannels},${4:ID})]]></content>
-	<tabTrigger>audiorecorder</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

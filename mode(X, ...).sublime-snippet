@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mode(${1:X},${2: ...})]]></content>
-	<tabTrigger>mode</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

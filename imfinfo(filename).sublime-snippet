@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[imfinfo(${1533:filename})]]></content>
-	<tabTrigger>imfinfo</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

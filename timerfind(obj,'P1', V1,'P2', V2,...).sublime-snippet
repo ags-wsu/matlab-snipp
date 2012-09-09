@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[timerfind(${1:obj},'${2:P1}',${3: V1},'${4:P2}',${5: V2},${6:...})]]></content>
-	<tabTrigger>timerfind</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

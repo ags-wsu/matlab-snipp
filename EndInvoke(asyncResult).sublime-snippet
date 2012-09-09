@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EndInvoke(${9:asyncResult})]]></content>
-	<tabTrigger>EndInvoke</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

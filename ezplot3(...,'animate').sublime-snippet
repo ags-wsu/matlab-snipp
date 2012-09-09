@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ezplot3(${1:...},'${2:animate}')]]></content>
-	<tabTrigger>ezplot3</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

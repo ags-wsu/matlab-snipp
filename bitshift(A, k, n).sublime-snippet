@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bitshift(${1:A},${2: k},${3: n})]]></content>
-	<tabTrigger>bitshift</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

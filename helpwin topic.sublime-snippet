@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[helpwin ${1:topic}]]></content>
-	<tabTrigger>helpwin</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

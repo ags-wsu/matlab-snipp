@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[not(${2108:A})]]></content>
-	<tabTrigger>not</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

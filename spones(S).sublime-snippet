@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[spones(${2778:S})]]></content>
-	<tabTrigger>spones</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

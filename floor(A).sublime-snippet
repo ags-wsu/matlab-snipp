@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[floor(${1181:A})]]></content>
-	<tabTrigger>floor</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

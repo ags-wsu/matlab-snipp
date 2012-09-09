@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[subvolume(${1:V},${2:limits})]]></content>
-	<tabTrigger>subvolume</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

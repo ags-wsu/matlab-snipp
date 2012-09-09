@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RandStream.setGlobalStream(${44:stream})]]></content>
-	<tabTrigger>RandStream.setGlobalStream</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

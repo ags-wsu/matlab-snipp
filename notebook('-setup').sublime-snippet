@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[notebook('${2109:-setup}')]]></content>
-	<tabTrigger>notebook</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

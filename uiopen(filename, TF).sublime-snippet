@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uiopen(${1:filename},${2: TF})]]></content>
-	<tabTrigger>uiopen</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

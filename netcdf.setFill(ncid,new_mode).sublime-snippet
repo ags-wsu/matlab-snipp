@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.setFill(${1:ncid},${2:new_mode})]]></content>
-	<tabTrigger>netcdf.setFill</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

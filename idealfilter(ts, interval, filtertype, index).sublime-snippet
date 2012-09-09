@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[idealfilter(${1:ts},${2: interval},${3: filtertype},${4: index})]]></content>
-	<tabTrigger>idealfilter</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

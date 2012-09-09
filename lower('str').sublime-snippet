@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lower('${1821:str}')]]></content>
-	<tabTrigger>lower</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

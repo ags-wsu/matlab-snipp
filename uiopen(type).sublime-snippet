@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uiopen(${3180:type})]]></content>
-	<tabTrigger>uiopen</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[meshgrid(${1898:gv})]]></content>
-	<tabTrigger>meshgrid</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

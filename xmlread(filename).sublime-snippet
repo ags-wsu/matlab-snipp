@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[xmlread(${3395:filename})]]></content>
-	<tabTrigger>xmlread</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[inline(${1558:expr})]]></content>
-	<tabTrigger>inline</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

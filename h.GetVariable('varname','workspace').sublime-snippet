@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h.GetVariable('${1:varname}','${2:workspace}')]]></content>
-	<tabTrigger>h.GetVariable</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

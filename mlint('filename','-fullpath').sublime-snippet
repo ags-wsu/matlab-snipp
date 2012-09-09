@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mlint('${1:filename}','${2:-fullpath}')]]></content>
-	<tabTrigger>mlint</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

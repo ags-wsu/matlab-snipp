@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tstool(${3149:tsc})]]></content>
-	<tabTrigger>tstool</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getsampleusingtime(${1:ts},${2: starttime},${3: endtime})]]></content>
-	<tabTrigger>getsampleusingtime</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

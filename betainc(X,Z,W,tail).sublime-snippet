@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[betainc(${1:X},${2:Z},${3:W},${4:tail})]]></content>
-	<tabTrigger>betainc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

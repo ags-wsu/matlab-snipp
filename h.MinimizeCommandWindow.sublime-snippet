@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h.MinimizeCommandWindow]]></content>
-	<tabTrigger>h.MinimizeCommandWindow</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

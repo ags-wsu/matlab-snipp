@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cast(${1:A},${2: newclass})]]></content>
-	<tabTrigger>cast</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

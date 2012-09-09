@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[material([${1:ka} ${2:kd} ${3:ks}])]]></content>
-	<tabTrigger>material</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[accumarray({${1:subs1},${2: subs2},${3: ...}},${4: val},${5: ...})]]></content>
-	<tabTrigger>accumarray</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

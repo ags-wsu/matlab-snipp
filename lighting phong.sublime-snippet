@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lighting ${1:phong}]]></content>
-	<tabTrigger>lighting</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

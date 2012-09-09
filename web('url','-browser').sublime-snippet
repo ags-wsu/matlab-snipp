@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[web('${1:url}','${2:-browser}')]]></content>
-	<tabTrigger>web</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

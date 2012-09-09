@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.setDefaultFormat(${2088:newFormat})]]></content>
-	<tabTrigger>netcdf.setDefaultFormat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

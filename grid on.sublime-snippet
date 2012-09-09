@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[grid ${1:on}]]></content>
-	<tabTrigger>grid</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[wk1finfo(${3363:filename})]]></content>
-	<tabTrigger>wk1finfo</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

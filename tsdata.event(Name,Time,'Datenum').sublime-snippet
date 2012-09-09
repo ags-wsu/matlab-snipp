@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tsdata.event(${1:Name},${2:Time},'${3:Datenum}')]]></content>
-	<tabTrigger>tsdata.event</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

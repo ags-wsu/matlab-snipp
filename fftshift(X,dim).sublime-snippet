@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fftshift(${1:X},${2:dim})]]></content>
-	<tabTrigger>fftshift</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

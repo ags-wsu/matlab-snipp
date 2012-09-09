@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[libfunctions('${1:libname}','${2:-full}')]]></content>
-	<tabTrigger>libfunctions</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

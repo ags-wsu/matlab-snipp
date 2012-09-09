@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[demo ${1:product}]]></content>
-	<tabTrigger>demo</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

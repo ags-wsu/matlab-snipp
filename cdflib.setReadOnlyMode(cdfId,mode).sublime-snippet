@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.setReadOnlyMode(${1:cdfId},${2:mode})]]></content>
-	<tabTrigger>cdflib.setReadOnlyMode</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uigetfile]]></content>
-	<tabTrigger>uigetfile</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

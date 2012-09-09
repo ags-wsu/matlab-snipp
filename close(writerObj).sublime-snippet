@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[close(${590:writerObj})]]></content>
-	<tabTrigger>close</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

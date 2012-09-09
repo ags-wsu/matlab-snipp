@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[inputname(${1570:argnum})]]></content>
-	<tabTrigger>inputname</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

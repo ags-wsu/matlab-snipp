@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[actxserver('${1:progid}',${2:machine})]]></content>
-	<tabTrigger>actxserver</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

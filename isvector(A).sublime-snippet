@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isvector(${1703:A})]]></content>
-	<tabTrigger>isvector</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

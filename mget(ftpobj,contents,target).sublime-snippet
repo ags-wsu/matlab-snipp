@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mget(${1:ftpobj},${2:contents},${3:target})]]></content>
-	<tabTrigger>mget</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

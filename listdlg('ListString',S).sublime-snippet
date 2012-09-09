@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[listdlg('${1:ListString}',${2:S})]]></content>
-	<tabTrigger>listdlg</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

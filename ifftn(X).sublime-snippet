@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ifftn(${1507:X})]]></content>
-	<tabTrigger>ifftn</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

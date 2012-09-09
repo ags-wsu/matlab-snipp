@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dither(${893:I})]]></content>
-	<tabTrigger>dither</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

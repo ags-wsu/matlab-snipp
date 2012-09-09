@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hilb(${1469:n})]]></content>
-	<tabTrigger>hilb</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

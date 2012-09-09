@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[compass(${624:Z})]]></content>
-	<tabTrigger>compass</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

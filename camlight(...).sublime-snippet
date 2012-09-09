@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[camlight(${357:...})]]></content>
-	<tabTrigger>camlight</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

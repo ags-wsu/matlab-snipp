@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[camorbit(${1:dtheta},${2:dphi})]]></content>
-	<tabTrigger>camorbit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

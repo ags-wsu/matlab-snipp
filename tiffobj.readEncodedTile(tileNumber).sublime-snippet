@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tiffobj.readEncodedTile(${3077:tileNumber})]]></content>
-	<tabTrigger>tiffobj.readEncodedTile</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

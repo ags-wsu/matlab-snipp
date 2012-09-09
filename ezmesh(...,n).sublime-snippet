@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ezmesh(${1:...},${2:n})]]></content>
-	<tabTrigger>ezmesh</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

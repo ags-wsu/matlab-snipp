@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rat(${1:X},${2:tol})]]></content>
-	<tabTrigger>rat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

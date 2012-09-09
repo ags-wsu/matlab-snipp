@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[libpointer('${1:type}',${2:value})]]></content>
-	<tabTrigger>libpointer</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tiffobj.computeTile([${1:row} ${2:col}],${2: plane})]]></content>
-	<tabTrigger>tiffobj.computeTile</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

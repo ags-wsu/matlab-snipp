@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mmfileinfo(${1957:filename})]]></content>
-	<tabTrigger>mmfileinfo</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

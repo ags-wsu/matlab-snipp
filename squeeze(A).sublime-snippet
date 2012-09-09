@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[squeeze(${2803:A})]]></content>
-	<tabTrigger>squeeze</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[opengl ${1:DriverBugWorkaround}]]></content>
-	<tabTrigger>opengl</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

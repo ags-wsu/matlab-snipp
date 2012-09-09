@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[plotbrowser('${2279:on}')]]></content>
-	<tabTrigger>plotbrowser</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

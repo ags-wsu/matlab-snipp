@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.getAttrMaxEntry(${1:cdfId},${2:attrNum})]]></content>
-	<tabTrigger>cdflib.getAttrMaxEntry</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

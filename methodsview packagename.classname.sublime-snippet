@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[methodsview ${1:packagename.classname}]]></content>
-	<tabTrigger>methodsview</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

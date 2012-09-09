@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[waterfall(${3320:Z})]]></content>
-	<tabTrigger>waterfall</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

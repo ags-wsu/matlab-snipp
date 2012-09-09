@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[datetick(${1:...},'${2:keeplimits}')]]></content>
-	<tabTrigger>datetick</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[license('${1772:inuse}')]]></content>
-	<tabTrigger>license</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

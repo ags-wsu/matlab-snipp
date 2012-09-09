@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tan(${3032:X})]]></content>
-	<tabTrigger>tan</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

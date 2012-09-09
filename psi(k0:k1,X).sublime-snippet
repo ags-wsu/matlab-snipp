@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[psi(${1:k0:k1},${2:X})]]></content>
-	<tabTrigger>psi</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

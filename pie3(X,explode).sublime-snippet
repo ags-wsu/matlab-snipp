@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pie3(${1:X},${2:explode})]]></content>
-	<tabTrigger>pie3</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

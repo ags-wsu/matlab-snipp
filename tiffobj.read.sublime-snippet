@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tiffobj.read]]></content>
-	<tabTrigger>tiffobj.read</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

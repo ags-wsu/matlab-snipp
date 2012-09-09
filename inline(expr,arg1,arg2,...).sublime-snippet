@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[inline(${1:expr},${2:arg1},${3:arg2},${4:...})]]></content>
-	<tabTrigger>inline</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

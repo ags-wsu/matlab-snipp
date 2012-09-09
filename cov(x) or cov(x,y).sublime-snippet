@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cov(${721:x})]]></content>
-	<tabTrigger>cov</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

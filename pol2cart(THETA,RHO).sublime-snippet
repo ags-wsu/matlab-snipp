@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pol2cart(${1:THETA},${2:RHO})]]></content>
-	<tabTrigger>pol2cart</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

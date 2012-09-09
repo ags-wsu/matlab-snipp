@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hex2dec('${1455:hex_value}')]]></content>
-	<tabTrigger>hex2dec</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

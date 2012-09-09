@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addCause(${1:baseExcep},${2: causeExcep})]]></content>
-	<tabTrigger>addCause</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

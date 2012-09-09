@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Inf(${1:...},${2:classname})]]></content>
-	<tabTrigger>Inf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

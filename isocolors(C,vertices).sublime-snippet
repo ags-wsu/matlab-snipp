@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isocolors(${1:C},${2:vertices})]]></content>
-	<tabTrigger>isocolors</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

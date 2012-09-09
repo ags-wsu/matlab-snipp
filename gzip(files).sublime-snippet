@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gzip(${1386:files})]]></content>
-	<tabTrigger>gzip</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

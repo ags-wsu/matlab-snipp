@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[substruct(${1:type1},${2: subs1},${3: type2},${4: subs2},${5: ...})]]></content>
-	<tabTrigger>substruct</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

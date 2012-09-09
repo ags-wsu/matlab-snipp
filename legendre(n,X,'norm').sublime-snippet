@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[legendre(${1:n},${2:X},'${3:norm}')]]></content>
-	<tabTrigger>legendre</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

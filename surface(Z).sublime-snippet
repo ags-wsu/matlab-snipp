@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[surface(${2981:Z})]]></content>
-	<tabTrigger>surface</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

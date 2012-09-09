@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[polyfit(${1:x},${2:y},${3:n})]]></content>
-	<tabTrigger>polyfit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

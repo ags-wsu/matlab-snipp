@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[instrfindall(${1:objs},'${2:P1}',${3:V1},${4:...})]]></content>
-	<tabTrigger>instrfindall</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

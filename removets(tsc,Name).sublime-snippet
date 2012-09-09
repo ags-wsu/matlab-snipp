@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removets(${1:tsc},${2:Name})]]></content>
-	<tabTrigger>removets</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

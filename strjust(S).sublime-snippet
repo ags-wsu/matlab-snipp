@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[strjust(${2904:S})]]></content>
-	<tabTrigger>strjust</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

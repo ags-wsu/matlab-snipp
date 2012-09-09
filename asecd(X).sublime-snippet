@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[asecd(${163:X})]]></content>
-	<tabTrigger>asecd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

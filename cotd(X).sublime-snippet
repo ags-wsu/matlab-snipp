@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cotd(${716:X})]]></content>
-	<tabTrigger>cotd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[camup([${388:up_vector]})]]></content>
-	<tabTrigger>camup</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

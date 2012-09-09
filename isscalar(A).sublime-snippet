@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isscalar(${1692:A})]]></content>
-	<tabTrigger>isscalar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

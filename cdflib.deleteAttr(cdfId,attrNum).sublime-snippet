@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.deleteAttr(${1:cdfId},${2:attrNum})]]></content>
-	<tabTrigger>cdflib.deleteAttr</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

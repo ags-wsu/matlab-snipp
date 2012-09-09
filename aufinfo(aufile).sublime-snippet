@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[aufinfo(${190:aufile})]]></content>
-	<tabTrigger>aufinfo</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

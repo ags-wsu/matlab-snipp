@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bsxfun(${1:fun},${2:A},${3:B})]]></content>
-	<tabTrigger>bsxfun</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

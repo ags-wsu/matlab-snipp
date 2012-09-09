@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[imag(${1517:Z})]]></content>
-	<tabTrigger>imag</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

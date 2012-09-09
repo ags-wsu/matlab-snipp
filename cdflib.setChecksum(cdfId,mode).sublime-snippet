@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.setChecksum(${1:cdfId},${2:mode})]]></content>
-	<tabTrigger>cdflib.setChecksum</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

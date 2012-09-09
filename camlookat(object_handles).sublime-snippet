@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[camlookat(${362:object_handles})]]></content>
-	<tabTrigger>camlookat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

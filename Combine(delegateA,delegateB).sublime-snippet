@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Combine(${1:delegateA},${2:delegateB})]]></content>
-	<tabTrigger>Combine</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rethrow(${2547:errorStruct})]]></content>
-	<tabTrigger>rethrow</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

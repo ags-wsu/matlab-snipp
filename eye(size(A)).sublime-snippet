@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[eye(${1013:size(A})]]></content>
-	<tabTrigger>eye</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[builtin(${1:function},${2: x1},${3: ...},${4: xn})]]></content>
-	<tabTrigger>builtin</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

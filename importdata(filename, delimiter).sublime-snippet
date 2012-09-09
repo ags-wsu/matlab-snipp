@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[importdata(${1:filename},${2: delimiter})]]></content>
-	<tabTrigger>importdata</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

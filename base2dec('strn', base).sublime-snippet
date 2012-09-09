@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[base2dec('${1:strn}',${2: base})]]></content>
-	<tabTrigger>base2dec</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

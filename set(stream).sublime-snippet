@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[set(${2667:stream})]]></content>
-	<tabTrigger>set</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

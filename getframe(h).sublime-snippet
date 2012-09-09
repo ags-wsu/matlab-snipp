@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getframe(${1314:h})]]></content>
-	<tabTrigger>getframe</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

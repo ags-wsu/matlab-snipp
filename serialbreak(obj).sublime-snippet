@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialbreak(${2641:obj})]]></content>
-	<tabTrigger>serialbreak</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

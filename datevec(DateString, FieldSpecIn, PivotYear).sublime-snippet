@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[datevec(${1:DateString},${2: FieldSpecIn},${3: PivotYear})]]></content>
-	<tabTrigger>datevec</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

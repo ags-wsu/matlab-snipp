@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[logspace(${1:a},${2:b})]]></content>
-	<tabTrigger>logspace</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

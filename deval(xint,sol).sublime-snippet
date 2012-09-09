@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[deval(${1:xint},${2:sol})]]></content>
-	<tabTrigger>deval</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[xlim('${3379:manual}')]]></content>
-	<tabTrigger>xlim</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

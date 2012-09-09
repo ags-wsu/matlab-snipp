@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[logm(${1817:A})]]></content>
-	<tabTrigger>logm</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

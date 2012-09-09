@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fprintf(${1:obj},'${2:format}','${3:cmd}','${4:mode}')]]></content>
-	<tabTrigger>fprintf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

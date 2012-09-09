@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[poly(${2308:r})]]></content>
-	<tabTrigger>poly</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

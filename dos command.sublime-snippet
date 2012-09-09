@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dos ${1:command}]]></content>
-	<tabTrigger>dos</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[double(${917:S})]]></content>
-	<tabTrigger>double</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dec2bin(${825:d})]]></content>
-	<tabTrigger>dec2bin</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

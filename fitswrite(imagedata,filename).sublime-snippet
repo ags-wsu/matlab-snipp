@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fitswrite(${1:imagedata},${2:filename})]]></content>
-	<tabTrigger>fitswrite</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

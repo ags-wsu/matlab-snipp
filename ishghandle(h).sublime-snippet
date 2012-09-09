@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ishghandle(${1650:h})]]></content>
-	<tabTrigger>ishghandle</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

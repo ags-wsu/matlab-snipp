@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dec2hex(${827:d})]]></content>
-	<tabTrigger>dec2hex</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

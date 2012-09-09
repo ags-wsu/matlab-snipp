@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addsample(${1:ts},'${2:Data}',${3: data-value},'${4:Time}',${5:time-value},${6:...},${7: Name},${8:Value})]]></content>
-	<tabTrigger>addsample</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h5create(${1:filename},${2:datasetname},${3:size},${4:Name},${5:Value})]]></content>
-	<tabTrigger>h5create</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

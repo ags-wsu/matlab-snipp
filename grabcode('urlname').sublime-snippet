@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[grabcode('${1355:urlname}')]]></content>
-	<tabTrigger>grabcode</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[createGeneric(${1:className},${2:paramTypes},${3:varargin ctorArgs})]]></content>
-	<tabTrigger>createGeneric</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

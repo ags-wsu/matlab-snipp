@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h5readatt(${1:filename},${2:location},${3:attr})]]></content>
-	<tabTrigger>h5readatt</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

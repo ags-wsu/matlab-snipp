@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[circumcenters(${1:TR},${2: SI})]]></content>
-	<tabTrigger>circumcenters</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

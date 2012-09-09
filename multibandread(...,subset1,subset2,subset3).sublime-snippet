@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[multibandread(${1:...},${2:subset1},${3:subset2},${4:subset3})]]></content>
-	<tabTrigger>multibandread</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

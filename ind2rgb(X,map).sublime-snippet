@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ind2rgb(${1:X},${2:map})]]></content>
-	<tabTrigger>ind2rgb</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

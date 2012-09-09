@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fminbnd(${1:fun},${2:x1},${3:x2},${4:options})]]></content>
-	<tabTrigger>fminbnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

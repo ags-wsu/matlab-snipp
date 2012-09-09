@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hdfread(${1447:hinfo})]]></content>
-	<tabTrigger>hdfread</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[besselk(${1:nu},${2:Z},${3:1})]]></content>
-	<tabTrigger>besselk</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

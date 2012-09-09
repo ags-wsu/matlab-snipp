@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[quiver(${1:u},${2:v})]]></content>
-	<tabTrigger>quiver</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

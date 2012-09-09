@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.computeEpoch(${415:timeval})]]></content>
-	<tabTrigger>cdflib.computeEpoch</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

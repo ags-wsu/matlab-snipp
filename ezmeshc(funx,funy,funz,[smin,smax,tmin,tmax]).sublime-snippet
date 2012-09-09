@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ezmeshc(${1:funx},${2:funy},${3:funz},[${4:smin} ${5:smax} ${6:tmin} ${7:tmax}])]]></content>
-	<tabTrigger>ezmeshc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

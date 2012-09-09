@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.putVarData(${1:cdfId},${2:varNum},${3:recNum},${4:indices},${5:datum})]]></content>
-	<tabTrigger>cdflib.putVarData</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

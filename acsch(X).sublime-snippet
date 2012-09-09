@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[acsch(${69:X})]]></content>
-	<tabTrigger>acsch</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

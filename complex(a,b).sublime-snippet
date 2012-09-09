@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[complex(${1:a},${2:b})]]></content>
-	<tabTrigger>complex</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

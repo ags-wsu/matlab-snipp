@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[evalc(${988:S})]]></content>
-	<tabTrigger>evalc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

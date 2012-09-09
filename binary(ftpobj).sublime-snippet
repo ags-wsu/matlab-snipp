@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[binary(${290:ftpobj})]]></content>
-	<tabTrigger>binary</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

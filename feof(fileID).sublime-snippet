@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[feof(${1095:fileID})]]></content>
-	<tabTrigger>feof</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

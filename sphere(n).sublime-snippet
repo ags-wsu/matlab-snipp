@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[sphere(${2772:n})]]></content>
-	<tabTrigger>sphere</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

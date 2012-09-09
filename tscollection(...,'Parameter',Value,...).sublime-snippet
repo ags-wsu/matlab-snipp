@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tscollection(${1:...},'${2:Parameter}',${3:Value},${4:...})]]></content>
-	<tabTrigger>tscollection</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

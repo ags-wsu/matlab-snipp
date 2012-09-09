@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[datestr(${780:DateNumber})]]></content>
-	<tabTrigger>datestr</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

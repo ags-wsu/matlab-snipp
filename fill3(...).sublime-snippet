@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fill3(${1137:...})]]></content>
-	<tabTrigger>fill3</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

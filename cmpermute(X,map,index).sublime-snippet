@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cmpermute(${1:X},${2:map},${3:index})]]></content>
-	<tabTrigger>cmpermute</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

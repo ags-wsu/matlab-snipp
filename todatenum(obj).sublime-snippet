@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[todatenum(${3102:obj})]]></content>
-	<tabTrigger>todatenum</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

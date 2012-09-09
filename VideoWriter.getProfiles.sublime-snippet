@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VideoWriter.getProfiles]]></content>
-	<tabTrigger>VideoWriter.getProfiles</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

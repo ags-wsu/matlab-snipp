@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pchip(${1:x},${2:y},${3:xi})]]></content>
-	<tabTrigger>pchip</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

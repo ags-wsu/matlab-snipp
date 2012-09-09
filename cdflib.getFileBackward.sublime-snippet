@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.getFileBackward]]></content>
-	<tabTrigger>cdflib.getFileBackward</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[winopen(${3359:fileName})]]></content>
-	<tabTrigger>winopen</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addframe(${1:aviobj},${2:mov})]]></content>
-	<tabTrigger>addframe</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

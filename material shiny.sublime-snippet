@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[material ${1:shiny}]]></content>
-	<tabTrigger>material</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

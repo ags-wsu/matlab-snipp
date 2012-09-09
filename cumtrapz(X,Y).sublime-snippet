@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cumtrapz(${1:X},${2:Y})]]></content>
-	<tabTrigger>cumtrapz</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

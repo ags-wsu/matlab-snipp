@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cameratoolbar('${340:GetCoordsys}')]]></content>
-	<tabTrigger>cameratoolbar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

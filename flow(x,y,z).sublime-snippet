@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[flow(${1:x},${2:y},${3:z})]]></content>
-	<tabTrigger>flow</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

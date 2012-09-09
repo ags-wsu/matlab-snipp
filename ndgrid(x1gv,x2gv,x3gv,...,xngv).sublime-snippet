@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ndgrid(${1:x1gv},${2:x2gv},${3:x3gv},${4:...},${5:xngv})]]></content>
-	<tabTrigger>ndgrid</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

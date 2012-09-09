@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.renameVar(${1:ncid},${2:varid},${3:newName})]]></content>
-	<tabTrigger>netcdf.renameVar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

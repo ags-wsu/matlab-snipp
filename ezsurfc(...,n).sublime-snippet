@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ezsurfc(${1:...},${2:n})]]></content>
-	<tabTrigger>ezsurfc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

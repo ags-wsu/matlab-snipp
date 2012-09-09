@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bitset(${1:A},${2: bit},${3: v})]]></content>
-	<tabTrigger>bitset</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

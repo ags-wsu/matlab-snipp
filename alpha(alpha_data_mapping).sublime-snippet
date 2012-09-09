@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[alpha(${124:alpha_data_mapping})]]></content>
-	<tabTrigger>alpha</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

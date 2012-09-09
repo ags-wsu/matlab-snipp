@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setuniformtime(${1:ts1},'${2:StartTime}',${3:StartTime})]]></content>
-	<tabTrigger>setuniformtime</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

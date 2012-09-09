@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[alim('${117:mode}')]]></content>
-	<tabTrigger>alim</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

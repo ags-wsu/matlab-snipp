@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[streamribbon(${1:vertices},${2:cav},${3:speed})]]></content>
-	<tabTrigger>streamribbon</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

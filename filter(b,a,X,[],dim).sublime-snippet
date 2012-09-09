@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[filter(${1:b},${2:a},${3:X},[${4:]},${5:dim})]]></content>
-	<tabTrigger>filter</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

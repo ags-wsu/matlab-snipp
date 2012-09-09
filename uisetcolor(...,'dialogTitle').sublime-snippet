@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uisetcolor(${1:...},'${2:dialogTitle}')]]></content>
-	<tabTrigger>uisetcolor</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

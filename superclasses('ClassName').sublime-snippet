@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[superclasses('${2960:ClassName}')]]></content>
-	<tabTrigger>superclasses</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

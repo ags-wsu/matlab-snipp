@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[freqspace(${1228:n})]]></content>
-	<tabTrigger>freqspace</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

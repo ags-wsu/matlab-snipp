@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tril(${3115:X})]]></content>
-	<tabTrigger>tril</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

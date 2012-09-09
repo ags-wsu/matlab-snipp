@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TriScatteredInterp(${1:X},${2: V})]]></content>
-	<tabTrigger>TriScatteredInterp</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

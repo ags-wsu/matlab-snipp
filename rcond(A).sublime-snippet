@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rcond(${2476:A})]]></content>
-	<tabTrigger>rcond</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

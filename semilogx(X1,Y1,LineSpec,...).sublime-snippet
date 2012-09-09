@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[semilogx(${1:X1},${2:Y1},${3:LineSpec},${4:...})]]></content>
-	<tabTrigger>semilogx</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

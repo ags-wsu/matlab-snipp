@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RandStream.getDefaultStream]]></content>
-	<tabTrigger>RandStream.getDefaultStream</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

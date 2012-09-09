@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[evalin(${1:ws},${2: expression})]]></content>
-	<tabTrigger>evalin</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rmpath ${1:folderName}]]></content>
-	<tabTrigger>rmpath</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

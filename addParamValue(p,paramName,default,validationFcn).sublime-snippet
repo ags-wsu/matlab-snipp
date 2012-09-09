@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addParamValue(${1:p},${2:paramName},${3:default},${4:validationFcn})]]></content>
-	<tabTrigger>addParamValue</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

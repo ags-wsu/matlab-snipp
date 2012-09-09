@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[padecoef(${1:T},${2:N})]]></content>
-	<tabTrigger>padecoef</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

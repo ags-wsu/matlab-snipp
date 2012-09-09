@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tscollection(${3143:TimeSeries})]]></content>
-	<tabTrigger>tscollection</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

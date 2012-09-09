@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[eps('${958:double}')]]></content>
-	<tabTrigger>eps</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

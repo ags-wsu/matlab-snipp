@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mean(${1876:A})]]></content>
-	<tabTrigger>mean</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

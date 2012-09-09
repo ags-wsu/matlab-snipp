@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.deleteVarRecords(${1:cdfId},${2:varNum},${3:startRec},${4:endRec})]]></content>
-	<tabTrigger>cdflib.deleteVarRecords</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

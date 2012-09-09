@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.setVarBlockingFactor(${1:cdfId},${2:varNum},${3:blockingFactor})]]></content>
-	<tabTrigger>cdflib.setVarBlockingFactor</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

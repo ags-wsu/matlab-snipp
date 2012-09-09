@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cumsum(${746:A})]]></content>
-	<tabTrigger>cumsum</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>
