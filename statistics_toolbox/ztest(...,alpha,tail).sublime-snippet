@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ztest(${1:...},${2:alpha},${3:tail})]]></content>
+	<tabTrigger>ztest</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

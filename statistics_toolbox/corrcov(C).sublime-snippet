@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[corrcov(${232:C})]]></content>
+	<tabTrigger>corrcov</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

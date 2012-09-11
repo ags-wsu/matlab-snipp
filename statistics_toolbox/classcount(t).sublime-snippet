@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[classcount(${162:t})]]></content>
+	<tabTrigger>classcount</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

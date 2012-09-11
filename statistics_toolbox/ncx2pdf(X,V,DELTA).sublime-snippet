@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ncx2pdf(${1:X},${2:V},${3:DELTA})]]></content>
+	<tabTrigger>ncx2pdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

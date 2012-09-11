@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tinv(${1:P},${2:V})]]></content>
+	<tabTrigger>tinv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

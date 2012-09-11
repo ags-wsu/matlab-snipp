@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fracfact(${420:gen})]]></content>
+	<tabTrigger>fracfact</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gevfit(${1:X},${2:alpha})]]></content>
+	<tabTrigger>gevfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

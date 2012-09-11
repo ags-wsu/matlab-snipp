@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[expcdf(${1:X},${2:mu},${3:pcov},${4:alpha})]]></content>
+	<tabTrigger>expcdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

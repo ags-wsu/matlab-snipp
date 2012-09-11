@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[boxplot(${1:...},'${2:Name}',${3:value})]]></content>
+	<tabTrigger>boxplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[feval(${1:mdl},${2:Xnew(1})]]></content>
+	<tabTrigger>feval</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

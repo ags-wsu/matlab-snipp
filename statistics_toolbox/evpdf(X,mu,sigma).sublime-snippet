@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[evpdf(${1:X},${2:mu},${3:sigma})]]></content>
+	<tabTrigger>evpdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

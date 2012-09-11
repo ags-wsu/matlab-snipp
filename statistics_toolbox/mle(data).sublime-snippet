@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mle(${793:data})]]></content>
+	<tabTrigger>mle</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

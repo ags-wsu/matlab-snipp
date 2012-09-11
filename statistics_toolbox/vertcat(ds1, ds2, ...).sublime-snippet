@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[vertcat(${1:ds1},${2: ds2},${3: ...})]]></content>
+	<tabTrigger>vertcat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

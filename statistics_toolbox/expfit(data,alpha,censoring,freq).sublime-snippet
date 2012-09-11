@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[expfit(${1:data},${2:alpha},${3:censoring},${4:freq})]]></content>
+	<tabTrigger>expfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

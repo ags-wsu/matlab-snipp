@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GeneralizedLinearModel.stepwise(${1:ds},${2:modelspec})]]></content>
+	<tabTrigger>GeneralizedLinearModel.stepwise</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

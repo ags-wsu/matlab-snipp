@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[trnd(${1:V},[${2:m},${3:n},${4:...}])]]></content>
+	<tabTrigger>trnd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

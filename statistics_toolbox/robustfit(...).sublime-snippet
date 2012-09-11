@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[robustfit(${1252:...})]]></content>
+	<tabTrigger>robustfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

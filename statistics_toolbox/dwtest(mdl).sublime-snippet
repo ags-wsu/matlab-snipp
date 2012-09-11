@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dwtest(${334:mdl})]]></content>
+	<tabTrigger>dwtest</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

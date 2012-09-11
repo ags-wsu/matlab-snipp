@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[refline(${1193:...})]]></content>
+	<tabTrigger>refline</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[subsindex(${1375:A})]]></content>
+	<tabTrigger>subsindex</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

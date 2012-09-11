@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[geoinv(${1:Y},${2:P})]]></content>
+	<tabTrigger>geoinv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClassificationTree.fit(${1:X},${2:Y},${3:Name},${4:Value})]]></content>
+	<tabTrigger>ClassificationTree.fit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lognrnd(${1:mu},${2:sigma},${3:m},${4:n},${5:...})]]></content>
+	<tabTrigger>lognrnd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

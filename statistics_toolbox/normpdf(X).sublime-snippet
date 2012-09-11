@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[normpdf(${953:X})]]></content>
+	<tabTrigger>normpdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

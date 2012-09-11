@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[classname(${168:T})]]></content>
+	<tabTrigger>classname</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

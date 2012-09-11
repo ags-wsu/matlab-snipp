@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[normstat(${1:mu},${2:sigma})]]></content>
+	<tabTrigger>normstat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

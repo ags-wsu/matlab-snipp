@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[anova(${55:mdl})]]></content>
+	<tabTrigger>anova</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

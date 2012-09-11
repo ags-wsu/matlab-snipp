@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lassoPlot(${1:B},${2:...})]]></content>
+	<tabTrigger>lassoPlot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

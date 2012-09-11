@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[chi2stat(${156:NU})]]></content>
+	<tabTrigger>chi2stat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

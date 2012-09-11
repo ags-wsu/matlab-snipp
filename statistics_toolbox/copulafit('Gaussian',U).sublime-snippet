@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[copulafit('${1:Gaussian}',${2:U})]]></content>
+	<tabTrigger>copulafit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

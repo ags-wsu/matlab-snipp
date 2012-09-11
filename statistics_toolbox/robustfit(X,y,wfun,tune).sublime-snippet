@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[robustfit(${1:X},${2:y},${3:wfun},${4:tune})]]></content>
+	<tabTrigger>robustfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

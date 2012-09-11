@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dendrogram(${1:...},'${2:colorthreshold}',${3:t})]]></content>
+	<tabTrigger>dendrogram</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

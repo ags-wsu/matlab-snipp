@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[interactionplot(${1:Y},${2:GROUP},'${3:varnames}',${4:VARNAMES})]]></content>
+	<tabTrigger>interactionplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

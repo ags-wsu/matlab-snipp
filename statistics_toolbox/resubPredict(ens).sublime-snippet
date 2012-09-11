@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resubPredict(${1239:ens})]]></content>
+	<tabTrigger>resubPredict</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

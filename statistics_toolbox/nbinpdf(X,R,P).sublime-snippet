@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nbinpdf(${1:X},${2:R},${3:P})]]></content>
+	<tabTrigger>nbinpdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

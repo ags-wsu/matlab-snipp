@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[casewrite(${1:strmat},'${2:filename}')]]></content>
+	<tabTrigger>casewrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

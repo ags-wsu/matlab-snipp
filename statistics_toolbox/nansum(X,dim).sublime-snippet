@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nansum(${1:X},${2:dim})]]></content>
+	<tabTrigger>nansum</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[subsref(${1:T},${2:S})]]></content>
+	<tabTrigger>subsref</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

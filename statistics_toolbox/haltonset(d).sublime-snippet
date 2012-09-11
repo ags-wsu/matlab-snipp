@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[haltonset(${538:d})]]></content>
+	<tabTrigger>haltonset</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

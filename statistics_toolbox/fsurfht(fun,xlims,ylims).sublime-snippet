@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fsurfht(${1:fun},${2:xlims},${3:ylims})]]></content>
+	<tabTrigger>fsurfht</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

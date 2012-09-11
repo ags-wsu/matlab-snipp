@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[multivarichart(${1:y},${2:GROUP})]]></content>
+	<tabTrigger>multivarichart</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

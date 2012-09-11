@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[loss(${1:ens},${2:X},${3:Y})]]></content>
+	<tabTrigger>loss</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GeneralizedLinearModel.fit(${16:ds})]]></content>
+	<tabTrigger>GeneralizedLinearModel.fit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[regularize(${1201:ens})]]></content>
+	<tabTrigger>regularize</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

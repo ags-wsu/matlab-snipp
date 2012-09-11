@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RegressionTree.fit(${1:X},${2:Y})]]></content>
+	<tabTrigger>RegressionTree.fit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nbinfit(${875:data})]]></content>
+	<tabTrigger>nbinfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

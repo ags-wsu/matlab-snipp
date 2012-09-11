@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hygernd(${1:M},${2:K},${3:N},${4:m},${5:n},${6:...})]]></content>
+	<tabTrigger>hygernd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

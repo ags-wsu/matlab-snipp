@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[maineffectsplot(${756:...})]]></content>
+	<tabTrigger>maineffectsplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

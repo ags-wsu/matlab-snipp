@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nanmin(${1:X1},${2:X2})]]></content>
+	<tabTrigger>nanmin</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

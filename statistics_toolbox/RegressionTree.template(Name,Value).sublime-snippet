@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RegressionTree.template(${1:Name},${2:Value})]]></content>
+	<tabTrigger>RegressionTree.template</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

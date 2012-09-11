@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lhsdesign(${1:...},'${2:criterion}',${3:criterion})]]></content>
+	<tabTrigger>lhsdesign</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

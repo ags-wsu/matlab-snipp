@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bootstrp(${112:...})]]></content>
+	<tabTrigger>bootstrp</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

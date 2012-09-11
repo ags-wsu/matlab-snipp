@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[daugment(${1:dCE},${2:mruns})]]></content>
+	<tabTrigger>daugment</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

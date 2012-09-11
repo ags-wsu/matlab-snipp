@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unique(${1:A},'${2:rows}',${3:occurrence})]]></content>
+	<tabTrigger>unique</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

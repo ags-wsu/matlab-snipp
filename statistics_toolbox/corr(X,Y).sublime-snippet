@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[corr(${1:X},${2:Y})]]></content>
+	<tabTrigger>corr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

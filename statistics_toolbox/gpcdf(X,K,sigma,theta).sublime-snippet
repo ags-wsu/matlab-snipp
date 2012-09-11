@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gpcdf(${1:X},${2:K},${3:sigma},${4:theta})]]></content>
+	<tabTrigger>gpcdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

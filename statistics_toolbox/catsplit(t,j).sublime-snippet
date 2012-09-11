@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[catsplit(${1:t},${2:j})]]></content>
+	<tabTrigger>catsplit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

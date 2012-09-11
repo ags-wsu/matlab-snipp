@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[regstats(${1198:...})]]></content>
+	<tabTrigger>regstats</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[biplot(${1:coefs},'${2:Name}',${3:Value})]]></content>
+	<tabTrigger>biplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cutvar(${263:t})]]></content>
+	<tabTrigger>cutvar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

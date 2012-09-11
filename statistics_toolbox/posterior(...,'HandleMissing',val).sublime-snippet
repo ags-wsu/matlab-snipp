@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[posterior(${1:...},'${2:HandleMissing}',${3:val})]]></content>
+	<tabTrigger>posterior</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

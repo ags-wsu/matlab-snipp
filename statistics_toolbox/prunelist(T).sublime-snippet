@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[prunelist(${1121:T})]]></content>
+	<tabTrigger>prunelist</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

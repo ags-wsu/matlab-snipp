@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[confusionmat(${193:...})]]></content>
+	<tabTrigger>confusionmat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

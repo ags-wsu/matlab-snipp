@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[binofit(${1:x},${2:n},${3:alpha})]]></content>
+	<tabTrigger>binofit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

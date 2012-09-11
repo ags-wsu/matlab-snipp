@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sortrows(${1:A},${2:col})]]></content>
+	<tabTrigger>sortrows</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

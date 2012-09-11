@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mnrnd(${1:n},${2:p},${3:m})]]></content>
+	<tabTrigger>mnrnd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

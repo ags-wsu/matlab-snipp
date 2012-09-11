@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nanmedian(${859:X})]]></content>
+	<tabTrigger>nanmedian</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

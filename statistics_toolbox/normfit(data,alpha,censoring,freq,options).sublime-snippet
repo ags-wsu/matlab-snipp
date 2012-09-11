@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[normfit(${1:data},${2:alpha},${3:censoring},${4:freq},${5:options})]]></content>
+	<tabTrigger>normfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

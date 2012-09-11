@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nanmax(${1:X},[${2:]},${3:dim})]]></content>
+	<tabTrigger>nanmax</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

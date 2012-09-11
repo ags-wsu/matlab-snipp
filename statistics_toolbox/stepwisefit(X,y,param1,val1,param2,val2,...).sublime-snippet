@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stepwisefit(${1:X},${2:y},${3:param1},${4:val1},${5:param2},${6:val2},${7:...})]]></content>
+	<tabTrigger>stepwisefit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

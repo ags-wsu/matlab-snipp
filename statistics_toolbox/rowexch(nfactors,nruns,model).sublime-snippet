@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rowexch(${1:nfactors},${2:nruns},${3:model})]]></content>
+	<tabTrigger>rowexch</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

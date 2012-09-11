@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gamcdf(${1:X},${2:A},${3:B})]]></content>
+	<tabTrigger>gamcdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

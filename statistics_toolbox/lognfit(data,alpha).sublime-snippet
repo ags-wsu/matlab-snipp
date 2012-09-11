@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lognfit(${1:data},${2:alpha})]]></content>
+	<tabTrigger>lognfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

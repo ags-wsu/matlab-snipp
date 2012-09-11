@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[coefCI(${1:mdl},${2:alpha})]]></content>
+	<tabTrigger>coefCI</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

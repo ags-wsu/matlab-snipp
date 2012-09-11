@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[normcdf(${1:X},${2:mu},${3:sigma})]]></content>
+	<tabTrigger>normcdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

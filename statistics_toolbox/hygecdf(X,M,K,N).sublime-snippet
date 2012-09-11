@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hygecdf(${1:X},${2:M},${3:K},${4:N})]]></content>
+	<tabTrigger>hygecdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

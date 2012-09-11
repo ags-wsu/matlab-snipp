@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[prctile(${1:X},${2:p})]]></content>
+	<tabTrigger>prctile</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mle(${1:data},'${2:distribution}',${3:dist})]]></content>
+	<tabTrigger>mle</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

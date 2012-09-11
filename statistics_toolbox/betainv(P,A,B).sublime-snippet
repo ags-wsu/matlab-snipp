@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[betainv(${1:P},${2:A},${3:B})]]></content>
+	<tabTrigger>betainv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

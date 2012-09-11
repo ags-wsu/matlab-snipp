@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gevcdf(${1:X},${2:k},${3:sigma},${4:mu})]]></content>
+	<tabTrigger>gevcdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

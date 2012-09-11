@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nsegments(${967:obj})]]></content>
+	<tabTrigger>nsegments</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

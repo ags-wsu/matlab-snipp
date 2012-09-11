@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lhsdesign(${1:...},'${2:iterations}',${3:k})]]></content>
+	<tabTrigger>lhsdesign</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

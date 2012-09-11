@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[trimmean(${1:x},${2:percent},${3:flag},${4:dim})]]></content>
+	<tabTrigger>trimmean</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

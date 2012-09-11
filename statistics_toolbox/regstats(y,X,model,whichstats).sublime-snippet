@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[regstats(${1:y},${2:X},${3:model},${4:whichstats})]]></content>
+	<tabTrigger>regstats</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

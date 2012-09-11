@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mvregresslike(${1:...},${2:type},${3:format})]]></content>
+	<tabTrigger>mvregresslike</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

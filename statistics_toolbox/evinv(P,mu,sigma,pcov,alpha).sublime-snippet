@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[evinv(${1:P},${2:mu},${3:sigma},${4:pcov},${5:alpha})]]></content>
+	<tabTrigger>evinv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nanstd(${865:X})]]></content>
+	<tabTrigger>nanstd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

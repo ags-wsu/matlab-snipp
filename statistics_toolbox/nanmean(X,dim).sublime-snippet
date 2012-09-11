@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nanmean(${1:X},${2:dim})]]></content>
+	<tabTrigger>nanmean</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

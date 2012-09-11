@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gline(${480:h})]]></content>
+	<tabTrigger>gline</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

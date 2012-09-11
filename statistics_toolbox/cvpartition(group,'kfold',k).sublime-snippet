@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cvpartition(${1:group},'${2:kfold}',${3:k})]]></content>
+	<tabTrigger>cvpartition</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

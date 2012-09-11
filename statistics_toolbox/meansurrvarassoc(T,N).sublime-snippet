@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[meansurrvarassoc(${1:T},${2:N})]]></content>
+	<tabTrigger>meansurrvarassoc</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isbranch(${615:t})]]></content>
+	<tabTrigger>isbranch</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

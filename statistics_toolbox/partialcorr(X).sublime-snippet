@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[partialcorr(${1014:X})]]></content>
+	<tabTrigger>partialcorr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

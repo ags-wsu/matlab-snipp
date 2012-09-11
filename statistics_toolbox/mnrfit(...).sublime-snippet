@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mnrfit(${805:...})]]></content>
+	<tabTrigger>mnrfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

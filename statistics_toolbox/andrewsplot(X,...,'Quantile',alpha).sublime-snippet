@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[andrewsplot(${1:X},${2:...},'${3:Quantile}',${4:alpha})]]></content>
+	<tabTrigger>andrewsplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

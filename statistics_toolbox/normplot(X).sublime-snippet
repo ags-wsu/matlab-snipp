@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[normplot(${956:X})]]></content>
+	<tabTrigger>normplot</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

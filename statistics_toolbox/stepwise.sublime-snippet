@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stepwise]]></content>
+	<tabTrigger>stepwise</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

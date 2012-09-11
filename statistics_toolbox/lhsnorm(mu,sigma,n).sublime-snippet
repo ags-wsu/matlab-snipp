@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lhsnorm(${1:mu},${2:sigma},${3:n})]]></content>
+	<tabTrigger>lhsnorm</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

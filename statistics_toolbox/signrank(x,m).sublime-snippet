@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[signrank(${1:x},${2:m})]]></content>
+	<tabTrigger>signrank</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

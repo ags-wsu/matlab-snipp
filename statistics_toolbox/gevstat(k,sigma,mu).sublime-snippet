@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gevstat(${1:k},${2:sigma},${3:mu})]]></content>
+	<tabTrigger>gevstat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scatterhist(${1280:...})]]></content>
+	<tabTrigger>scatterhist</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[canoncorr(${1:X},${2:Y})]]></content>
+	<tabTrigger>canoncorr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gpfit(${504:X})]]></content>
+	<tabTrigger>gpfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

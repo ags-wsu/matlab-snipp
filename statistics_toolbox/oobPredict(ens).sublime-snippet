@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[oobPredict(${985:ens})]]></content>
+	<tabTrigger>oobPredict</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

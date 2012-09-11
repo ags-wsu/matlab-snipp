@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tblwrite(${1:data},${2:varnames},${3:casenames})]]></content>
+	<tabTrigger>tblwrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

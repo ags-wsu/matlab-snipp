@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[prune(${1119:tree})]]></content>
+	<tabTrigger>prune</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

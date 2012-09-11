@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[kruskalwallis(${665:...})]]></content>
+	<tabTrigger>kruskalwallis</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

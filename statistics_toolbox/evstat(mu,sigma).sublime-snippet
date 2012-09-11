@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[evstat(${1:mu},${2:sigma})]]></content>
+	<tabTrigger>evstat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

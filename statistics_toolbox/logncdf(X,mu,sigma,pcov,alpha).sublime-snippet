@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[logncdf(${1:X},${2:mu},${3:sigma},${4:pcov},${5:alpha})]]></content>
+	<tabTrigger>logncdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

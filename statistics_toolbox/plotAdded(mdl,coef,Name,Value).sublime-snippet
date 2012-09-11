@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plotAdded(${1:mdl},${2:coef},${3:Name},${4:Value})]]></content>
+	<tabTrigger>plotAdded</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

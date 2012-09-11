@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[classregtree(${1:X},${2:y})]]></content>
+	<tabTrigger>classregtree</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

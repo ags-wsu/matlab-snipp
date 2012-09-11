@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pdist2(${1:X},${2:Y},${3:distance},'${4:Largest}',${5:K})]]></content>
+	<tabTrigger>pdist2</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

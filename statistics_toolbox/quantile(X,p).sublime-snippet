@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[quantile(${1:X},${2:p})]]></content>
+	<tabTrigger>quantile</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

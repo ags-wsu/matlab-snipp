@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grpstats(${1:...},${2:whichstats},'${3:Param1}',${4:VAL1},'${5:Param2}',${6:VAL2},${7:...})]]></content>
+	<tabTrigger>grpstats</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

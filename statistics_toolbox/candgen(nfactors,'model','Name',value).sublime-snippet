@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[candgen(${1:nfactors},'${2:model}','${3:Name}',${4:value})]]></content>
+	<tabTrigger>candgen</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

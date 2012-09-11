@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nlpredci(${1:modelfun},${2:x},${3:beta},${4:resid},'${5:covar}',${6:sigma})]]></content>
+	<tabTrigger>nlpredci</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

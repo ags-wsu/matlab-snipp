@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rand]]></content>
+	<tabTrigger>rand</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>
