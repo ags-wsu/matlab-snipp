@@ -7,4 +7,4 @@ Install this folder in your /User/Snippets directory.
 Typically, "~/Library/Application Support/Sublime Text 2/Packages/User/Snippets/matlab"
 
 
-![](https://github.com/AGS-Knight/matlab-snipp/blob/master/screenshot1.png "Screenshot")
+![Screenshot](https://github.com/AGS-Knight/matlab-snipp/blob/master/screenshot1.png "Screenshot")
