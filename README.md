@@ -17,5 +17,5 @@ and
 Screenshots
 -----
 
-![Screenshot](https://github.com/AGS-Knight/matlab-snipp/raw/master/screenshot1.png)
-![Screenshot1](https://github.com/AGS-Knight/matlab-snipp/raw/master/screenshot2.png)
+![Screenshot](https://github.com/AGS-Knight/matlab-snipp/screenshots/raw/master/screenshot1.png)
+![Screenshot1](https://github.com/AGS-Knight/matlab-snipp/screenshots/raw/master/screenshot2.png)
