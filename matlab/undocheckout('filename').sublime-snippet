@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[undocheckout('${3212:filename}')]]></content>
-	<tabTrigger>undocheckout</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

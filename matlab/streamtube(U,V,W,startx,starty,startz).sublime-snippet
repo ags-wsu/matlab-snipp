@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[streamtube(${1:U},${2:V},${3:W},${4:startx},${5:starty},${6:startz})]]></content>
-	<tabTrigger>streamtube</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

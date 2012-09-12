@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[contour(${1:...},${2:LineSpec})]]></content>
-	<tabTrigger>contour</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

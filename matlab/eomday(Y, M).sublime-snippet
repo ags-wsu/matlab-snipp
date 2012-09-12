@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[eomday(${1:Y},${2: M})]]></content>
-	<tabTrigger>eomday</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

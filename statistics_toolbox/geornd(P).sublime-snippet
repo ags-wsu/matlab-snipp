@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[geornd(${459:P})]]></content>
-	<tabTrigger>geornd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

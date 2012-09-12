@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[eigs(${1:A},${2:K},${3:sigma},${4:opts})]]></content>
-	<tabTrigger>eigs</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

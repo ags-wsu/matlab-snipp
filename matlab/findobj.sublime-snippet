@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[findobj]]></content>
-	<tabTrigger>findobj</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[alphamap('${1:parameter}',${2:delta})]]></content>
-	<tabTrigger>alphamap</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

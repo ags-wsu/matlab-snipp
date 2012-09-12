@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[inferiorto('${1:class1}','${2:class2}',${3:...})]]></content>
-	<tabTrigger>inferiorto</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

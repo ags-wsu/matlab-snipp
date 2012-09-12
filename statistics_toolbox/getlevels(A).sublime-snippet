@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getlevels(${467:A})]]></content>
-	<tabTrigger>getlevels</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

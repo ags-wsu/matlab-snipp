@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cameratoolbar('${341:GetMode}')]]></content>
-	<tabTrigger>cameratoolbar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[exprnd(${397:mu})]]></content>
-	<tabTrigger>exprnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

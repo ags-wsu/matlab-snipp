@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[faceNormals(${1:TR},${2: TI})]]></content>
-	<tabTrigger>faceNormals</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

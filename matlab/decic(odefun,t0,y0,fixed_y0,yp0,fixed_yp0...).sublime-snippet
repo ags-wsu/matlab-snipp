@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[decic(${1:odefun},${2:t0},${3:y0},${4:fixed_y0},${5:yp0},${6:fixed_yp0...})]]></content>
-	<tabTrigger>decic</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

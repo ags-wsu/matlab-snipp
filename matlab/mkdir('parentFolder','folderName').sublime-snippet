@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mkdir('${1:parentFolder}','${2:folderName}')]]></content>
-	<tabTrigger>mkdir</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[copulafit('${1:family}',${2:U})]]></content>
-	<tabTrigger>copulafit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

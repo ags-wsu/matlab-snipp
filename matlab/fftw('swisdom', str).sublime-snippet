@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fftw('${1:swisdom}',${2: str})]]></content>
-	<tabTrigger>fftw</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

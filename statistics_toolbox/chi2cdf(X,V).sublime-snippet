@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[chi2cdf(${1:X},${2:V})]]></content>
-	<tabTrigger>chi2cdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

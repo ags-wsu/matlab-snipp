@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[svd(${1:X},'${2:econ}')]]></content>
-	<tabTrigger>svd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

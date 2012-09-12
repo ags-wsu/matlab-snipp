@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rangesearch(${1:X},${2:Y},${3:r})]]></content>
-	<tabTrigger>rangesearch</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

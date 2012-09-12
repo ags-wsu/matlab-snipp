@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[specular(${1:Nx},${2:Ny},${3:Nz},${4:S},${5:V})]]></content>
-	<tabTrigger>specular</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

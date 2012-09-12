@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[csvwrite(${1:filename},${2:M},${3:row},${4:col})]]></content>
-	<tabTrigger>csvwrite</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pinv(${1:A},${2:tol})]]></content>
-	<tabTrigger>pinv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

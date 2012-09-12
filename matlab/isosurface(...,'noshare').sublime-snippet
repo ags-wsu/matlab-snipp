@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isosurface(${1:...},'${2:noshare}')]]></content>
-	<tabTrigger>isosurface</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

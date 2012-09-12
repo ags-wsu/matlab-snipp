@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h5disp(${1:filename},${2:location},${3:mode})]]></content>
-	<tabTrigger>h5disp</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

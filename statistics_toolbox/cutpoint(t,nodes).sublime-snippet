@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cutpoint(${1:t},${2:nodes})]]></content>
-	<tabTrigger>cutpoint</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

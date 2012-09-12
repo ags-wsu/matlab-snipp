@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MException(${1:msgIdent},${2: msgString},${3: v1},${4: v2},${5: ...},${6: vN})]]></content>
-	<tabTrigger>MException</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

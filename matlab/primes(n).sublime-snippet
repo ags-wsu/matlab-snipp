@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[primes(${2329:n})]]></content>
-	<tabTrigger>primes</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

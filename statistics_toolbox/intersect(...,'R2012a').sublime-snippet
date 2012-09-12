@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[intersect(${1:...},'${2:R2012a}')]]></content>
-	<tabTrigger>intersect</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

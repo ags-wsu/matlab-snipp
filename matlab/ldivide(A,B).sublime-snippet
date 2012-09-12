@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ldivide(${1:A},${2:B})]]></content>
-	<tabTrigger>ldivide</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

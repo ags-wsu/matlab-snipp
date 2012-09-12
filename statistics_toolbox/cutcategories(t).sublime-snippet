@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cutcategories(${256:t})]]></content>
-	<tabTrigger>cutcategories</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

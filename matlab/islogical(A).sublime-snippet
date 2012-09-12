@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[islogical(${1656:A})]]></content>
-	<tabTrigger>islogical</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

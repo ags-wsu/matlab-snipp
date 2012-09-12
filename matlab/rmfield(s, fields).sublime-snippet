@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rmfield(${1:s},${2: fields})]]></content>
-	<tabTrigger>rmfield</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[assert(${168:expression})]]></content>
-	<tabTrigger>assert</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

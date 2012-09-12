@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[candexch(${1:C},${2:nrows})]]></content>
-	<tabTrigger>candexch</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

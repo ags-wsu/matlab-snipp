@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[parallelcoords(${1:X},${2:...},'${3:Standardize}','${4:on}')]]></content>
-	<tabTrigger>parallelcoords</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

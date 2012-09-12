@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[echodemo ${1:filename}]]></content>
-	<tabTrigger>echodemo</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

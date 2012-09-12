@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[wblpdf(${1:X},${2:A},${3:B})]]></content>
-	<tabTrigger>wblpdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

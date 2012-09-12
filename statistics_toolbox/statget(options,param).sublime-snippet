@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[statget(${1:options},${2:param})]]></content>
-	<tabTrigger>statget</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

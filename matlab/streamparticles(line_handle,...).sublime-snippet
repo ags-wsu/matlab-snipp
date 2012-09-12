@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[streamparticles(${1:line_handle},${2:...})]]></content>
-	<tabTrigger>streamparticles</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

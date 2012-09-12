@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cholinc(${1:X},${2:options})]]></content>
-	<tabTrigger>cholinc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

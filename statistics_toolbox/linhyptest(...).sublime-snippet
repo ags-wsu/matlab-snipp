@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[linhyptest(${712:...})]]></content>
-	<tabTrigger>linhyptest</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

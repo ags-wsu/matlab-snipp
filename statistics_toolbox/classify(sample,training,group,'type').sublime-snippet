@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[classify(${1:sample},${2:training},${3:group},'${4:type}')]]></content>
-	<tabTrigger>classify</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

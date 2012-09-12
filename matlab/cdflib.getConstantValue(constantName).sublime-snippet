@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.getConstantValue(${439:constantName})]]></content>
-	<tabTrigger>cdflib.getConstantValue</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

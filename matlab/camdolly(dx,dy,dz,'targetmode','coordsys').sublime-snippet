@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[camdolly(${1:dx},${2:dy},${3:dz},'${4:targetmode}','${5:coordsys}')]]></content>
-	<tabTrigger>camdolly</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

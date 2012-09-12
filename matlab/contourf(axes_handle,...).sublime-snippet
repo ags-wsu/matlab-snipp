@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[contourf(${1:axes_handle},${2:...})]]></content>
-	<tabTrigger>contourf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

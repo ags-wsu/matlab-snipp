@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[light(${1777:...})]]></content>
-	<tabTrigger>light</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[edge(${1:ens},${2:X},${3:Y},${4:Name},${5:Value})]]></content>
-	<tabTrigger>edge</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

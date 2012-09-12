@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[geostat(${462:P})]]></content>
-	<tabTrigger>geostat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

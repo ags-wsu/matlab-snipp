@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[whos(${3353:location})]]></content>
-	<tabTrigger>whos</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

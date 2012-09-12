@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hgsave('${1463:filename}')]]></content>
-	<tabTrigger>hgsave</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[poissinv(${1:P},${2:lambda})]]></content>
-	<tabTrigger>poissinv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[xslt(${1:...},'${2:-web}')]]></content>
-	<tabTrigger>xslt</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

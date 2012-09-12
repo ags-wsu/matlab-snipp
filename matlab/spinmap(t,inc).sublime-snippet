@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[spinmap(${1:t},${2:inc})]]></content>
-	<tabTrigger>spinmap</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

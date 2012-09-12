@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[meta.package.getAllPackages]]></content>
-	<tabTrigger>meta.package.getAllPackages</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

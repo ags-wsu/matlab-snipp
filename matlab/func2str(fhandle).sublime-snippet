@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[func2str(${1240:fhandle})]]></content>
-	<tabTrigger>func2str</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

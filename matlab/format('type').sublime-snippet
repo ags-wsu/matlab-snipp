@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[format('${1199:type}')]]></content>
-	<tabTrigger>format</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

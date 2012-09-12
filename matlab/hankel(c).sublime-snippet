@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hankel(${1425:c})]]></content>
-	<tabTrigger>hankel</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

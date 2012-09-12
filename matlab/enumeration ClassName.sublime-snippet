@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enumeration ${1:ClassName}]]></content>
-	<tabTrigger>enumeration</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

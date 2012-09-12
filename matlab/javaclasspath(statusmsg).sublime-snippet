@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[javaclasspath(${1720:statusmsg})]]></content>
-	<tabTrigger>javaclasspath</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

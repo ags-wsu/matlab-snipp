@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[actxcontrol('${1:progid}',${2:position},${3:fig_handle},${4:event_handler},'${5:filename}')]]></content>
-	<tabTrigger>actxcontrol</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

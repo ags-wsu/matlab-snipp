@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fftw('${1112:planner}')]]></content>
-	<tabTrigger>fftw</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

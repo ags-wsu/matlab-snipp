@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ecdf(${1:y},${2:param1},${3:val1},${4:param2},${5:val2},${6:...})]]></content>
-	<tabTrigger>ecdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

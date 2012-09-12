@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getReport(${1:exception},${2: type})]]></content>
-	<tabTrigger>getReport</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

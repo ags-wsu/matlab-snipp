@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dsearchn(${1:X},${2:...})]]></content>
-	<tabTrigger>dsearchn</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

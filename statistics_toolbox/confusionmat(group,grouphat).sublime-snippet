@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[confusionmat(${1:group},${2:grouphat})]]></content>
-	<tabTrigger>confusionmat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

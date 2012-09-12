@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[makehgtform('${1:axisrotate}',[${2:ax} ${3:ay} ${4:az}],${5:t})]]></content>
-	<tabTrigger>makehgtform</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

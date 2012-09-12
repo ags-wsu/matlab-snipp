@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[perl(${2237:...})]]></content>
-	<tabTrigger>perl</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

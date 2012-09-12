@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[linkaxes(${1:axes_handles},'${2:option}')]]></content>
-	<tabTrigger>linkaxes</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

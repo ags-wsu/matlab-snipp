@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mvtrnd(${1:C},${2:df},${3:cases})]]></content>
-	<tabTrigger>mvtrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

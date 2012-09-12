@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[helpdlg('${1:helpstring}','${2:dlgname}')]]></content>
-	<tabTrigger>helpdlg</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

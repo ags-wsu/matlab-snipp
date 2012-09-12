@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[oobloss(${987:ens})]]></content>
-	<tabTrigger>oobloss</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

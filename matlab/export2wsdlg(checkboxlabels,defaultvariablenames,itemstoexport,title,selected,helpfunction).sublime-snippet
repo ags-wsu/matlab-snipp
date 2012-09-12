@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[export2wsdlg(${1:checkboxlabels},${2:defaultvariablenames},${3:itemstoexport},${4:title},${5:selected},${6:helpfunction})]]></content>
-	<tabTrigger>export2wsdlg</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h.GetFullMatrix('${1:varname}','${2:workspace}',${3:zreal},${4:zimag})]]></content>
-	<tabTrigger>h.GetFullMatrix</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

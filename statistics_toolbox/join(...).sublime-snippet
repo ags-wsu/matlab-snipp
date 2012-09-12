@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[join(${640:...})]]></content>
-	<tabTrigger>join</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

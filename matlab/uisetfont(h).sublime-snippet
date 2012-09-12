@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uisetfont(${3197:h})]]></content>
-	<tabTrigger>uisetfont</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

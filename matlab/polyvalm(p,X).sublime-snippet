@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[polyvalm(${1:p},${2:X})]]></content>
-	<tabTrigger>polyvalm</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

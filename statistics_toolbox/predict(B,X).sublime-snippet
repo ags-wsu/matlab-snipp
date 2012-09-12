@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[predict(${1:B},${2:X})]]></content>
-	<tabTrigger>predict</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

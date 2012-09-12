@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gampdf(${1:X},${2:A},${3:B})]]></content>
-	<tabTrigger>gampdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

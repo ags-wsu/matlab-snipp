@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addpath ${1:folderName1}]]></content>
-	<tabTrigger>addpath</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

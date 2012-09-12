@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fminsearch(${1:fun},${2:x0})]]></content>
-	<tabTrigger>fminsearch</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

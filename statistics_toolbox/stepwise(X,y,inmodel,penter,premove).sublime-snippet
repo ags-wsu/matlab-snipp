@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[stepwise(${1:X},${2:y},${3:inmodel},${4:penter},${5:premove})]]></content>
-	<tabTrigger>stepwise</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

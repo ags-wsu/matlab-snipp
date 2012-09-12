@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLSREGRESS(${1:X},${2:Y},${3:ncomp},${4:...})]]></content>
-	<tabTrigger>PLSREGRESS</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

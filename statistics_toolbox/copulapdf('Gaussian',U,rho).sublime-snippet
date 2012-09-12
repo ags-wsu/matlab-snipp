@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[copulapdf('${1:Gaussian}',${2:U},${3:rho})]]></content>
-	<tabTrigger>copulapdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

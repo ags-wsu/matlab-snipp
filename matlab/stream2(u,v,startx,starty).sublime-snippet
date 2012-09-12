@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[stream2(${1:u},${2:v},${3:startx},${4:starty})]]></content>
-	<tabTrigger>stream2</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

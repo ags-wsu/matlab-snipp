@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[wblplot(${1539:X})]]></content>
-	<tabTrigger>wblplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

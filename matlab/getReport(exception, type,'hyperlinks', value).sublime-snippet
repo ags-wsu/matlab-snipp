@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getReport(${1:exception},${2: type},'${3:hyperlinks}',${4: value})]]></content>
-	<tabTrigger>getReport</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

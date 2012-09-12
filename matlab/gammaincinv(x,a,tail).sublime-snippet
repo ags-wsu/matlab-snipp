@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gammaincinv(${1:x},${2:a},${3:tail})]]></content>
-	<tabTrigger>gammaincinv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

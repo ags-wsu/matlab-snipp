@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[geomean(${457:x})]]></content>
-	<tabTrigger>geomean</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

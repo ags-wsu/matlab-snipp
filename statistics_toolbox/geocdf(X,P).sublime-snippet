@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[geocdf(${1:X},${2:P})]]></content>
-	<tabTrigger>geocdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

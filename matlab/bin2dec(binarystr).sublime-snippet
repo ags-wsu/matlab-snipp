@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bin2dec(${289:binarystr})]]></content>
-	<tabTrigger>bin2dec</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

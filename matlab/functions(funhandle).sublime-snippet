@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[functions(${1241:funhandle})]]></content>
-	<tabTrigger>functions</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

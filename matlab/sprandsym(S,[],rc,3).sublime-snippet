@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[sprandsym(${1:S},[${2:]},${3:rc},${4:3})]]></content>
-	<tabTrigger>sprandsym</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

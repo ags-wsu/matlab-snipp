@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[daspect('${765:manual}')]]></content>
-	<tabTrigger>daspect</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

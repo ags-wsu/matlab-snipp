@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[histfit(${552:...})]]></content>
-	<tabTrigger>histfit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

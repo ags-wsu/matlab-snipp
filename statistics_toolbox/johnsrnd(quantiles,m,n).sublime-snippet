@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[johnsrnd(${1:quantiles},${2:m},${3:n})]]></content>
-	<tabTrigger>johnsrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

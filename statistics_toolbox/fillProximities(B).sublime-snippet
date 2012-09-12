@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fillProximities(${406:B})]]></content>
-	<tabTrigger>fillProximities</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

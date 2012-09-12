@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[normrnd(${1:mu},${2:sigma})]]></content>
-	<tabTrigger>normrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

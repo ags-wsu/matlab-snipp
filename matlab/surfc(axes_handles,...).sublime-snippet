@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[surfc(${1:axes_handles},${2:...})]]></content>
-	<tabTrigger>surfc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lognpdf(${1:X},${2:mu},${3:sigma})]]></content>
-	<tabTrigger>lognpdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

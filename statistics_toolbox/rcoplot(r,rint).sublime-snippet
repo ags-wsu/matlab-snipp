@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rcoplot(${1:r},${2:rint})]]></content>
-	<tabTrigger>rcoplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

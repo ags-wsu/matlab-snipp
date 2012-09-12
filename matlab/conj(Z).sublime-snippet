@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[conj(${642:Z})]]></content>
-	<tabTrigger>conj</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

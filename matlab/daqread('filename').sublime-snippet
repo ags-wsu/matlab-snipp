@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[daqread('${760:filename}')]]></content>
-	<tabTrigger>daqread</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

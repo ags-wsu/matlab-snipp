@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClassificationKNN.template]]></content>
-	<tabTrigger>ClassificationKNN.template</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

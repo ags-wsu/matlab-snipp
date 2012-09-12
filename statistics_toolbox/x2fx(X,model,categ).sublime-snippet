@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[x2fx(${1:X},${2:model},${3:categ})]]></content>
-	<tabTrigger>x2fx</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

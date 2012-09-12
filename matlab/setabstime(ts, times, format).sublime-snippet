@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setabstime(${1:ts},${2: times},${3: format})]]></content>
-	<tabTrigger>setabstime</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

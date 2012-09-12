@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[contourf(${672:Z})]]></content>
-	<tabTrigger>contourf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

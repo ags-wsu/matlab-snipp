@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[vartest(${1:X},${2:V},${3:alpha},${4:tail})]]></content>
-	<tabTrigger>vartest</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

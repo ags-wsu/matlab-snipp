@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ismethod(${1:h},'${2:methodname}')]]></content>
-	<tabTrigger>ismethod</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fclose(${1088:obj})]]></content>
-	<tabTrigger>fclose</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[spaugment(${2759:A})]]></content>
-	<tabTrigger>spaugment</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

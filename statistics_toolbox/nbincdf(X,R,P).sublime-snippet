@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nbincdf(${1:X},${2:R},${3:P})]]></content>
-	<tabTrigger>nbincdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

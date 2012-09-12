@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[meshz(${1904:Z})]]></content>
-	<tabTrigger>meshz</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

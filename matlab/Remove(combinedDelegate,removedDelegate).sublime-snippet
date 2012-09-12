@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Remove(${1:combinedDelegate},${2:removedDelegate})]]></content>
-	<tabTrigger>Remove</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

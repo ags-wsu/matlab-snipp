@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[surrcuttype(${1390:T})]]></content>
-	<tabTrigger>surrcuttype</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

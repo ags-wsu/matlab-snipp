@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[im2frame(${1512:X})]]></content>
-	<tabTrigger>im2frame</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

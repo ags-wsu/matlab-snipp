@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[kurtosis(${1:X},${2:flag},${3:dim})]]></content>
-	<tabTrigger>kurtosis</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[shiftdim(${2703:X})]]></content>
-	<tabTrigger>shiftdim</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

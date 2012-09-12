@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[sort(${1343:A})]]></content>
-	<tabTrigger>sort</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[eq(${1:h1},${2: h2})]]></content>
-	<tabTrigger>eq</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

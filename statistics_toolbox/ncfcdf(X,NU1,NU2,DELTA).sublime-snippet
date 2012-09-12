@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ncfcdf(${1:X},${2:NU1},${3:NU2},${4:DELTA})]]></content>
-	<tabTrigger>ncfcdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

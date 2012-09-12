@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[barh(${235:...})]]></content>
-	<tabTrigger>barh</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ncfrnd(${1:NU1},${2:NU2},${3:DELTA})]]></content>
-	<tabTrigger>ncfrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

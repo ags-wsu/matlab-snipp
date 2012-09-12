@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fitsdisp(${1168:filename})]]></content>
-	<tabTrigger>fitsdisp</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

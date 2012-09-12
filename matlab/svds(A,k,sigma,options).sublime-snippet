@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[svds(${1:A},${2:k},${3:sigma},${4:options})]]></content>
-	<tabTrigger>svds</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

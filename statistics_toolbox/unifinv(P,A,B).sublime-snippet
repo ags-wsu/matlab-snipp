@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[unifinv(${1:P},${2:A},${3:B})]]></content>
-	<tabTrigger>unifinv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

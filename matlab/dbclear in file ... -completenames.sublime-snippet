@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dbclear ${1:in}]]></content>
-	<tabTrigger>dbclear</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

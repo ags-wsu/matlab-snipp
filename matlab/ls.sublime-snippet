@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ls]]></content>
-	<tabTrigger>ls</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

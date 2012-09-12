@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nzmax(${2125:S})]]></content>
-	<tabTrigger>nzmax</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

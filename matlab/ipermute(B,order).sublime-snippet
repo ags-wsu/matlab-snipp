@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ipermute(${1:B},${2:order})]]></content>
-	<tabTrigger>ipermute</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

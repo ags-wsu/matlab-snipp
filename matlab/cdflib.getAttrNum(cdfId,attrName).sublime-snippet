@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.getAttrNum(${1:cdfId},${2:attrName})]]></content>
-	<tabTrigger>cdflib.getAttrNum</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ezcontour(${1:...},${2:n})]]></content>
-	<tabTrigger>ezcontour</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

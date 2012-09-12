@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uint32(${3175:array})]]></content>
-	<tabTrigger>uint32</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

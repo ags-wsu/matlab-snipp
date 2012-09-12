@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[inmem('${1561:-completenames}')]]></content>
-	<tabTrigger>inmem</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

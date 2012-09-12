@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rename(${1:ftpobj},${2:oldname},${3:newname})]]></content>
-	<tabTrigger>rename</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

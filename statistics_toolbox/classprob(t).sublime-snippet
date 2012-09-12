@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[classprob(${170:t})]]></content>
-	<tabTrigger>classprob</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

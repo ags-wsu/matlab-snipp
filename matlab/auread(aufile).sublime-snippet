@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[auread(${191:aufile})]]></content>
-	<tabTrigger>auread</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lt(${1:A},${2: B})]]></content>
-	<tabTrigger>lt</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

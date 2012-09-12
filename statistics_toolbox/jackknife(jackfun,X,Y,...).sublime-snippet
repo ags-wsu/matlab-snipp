@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[jackknife(${1:jackfun},${2:X},${3:Y},${4:...})]]></content>
-	<tabTrigger>jackknife</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

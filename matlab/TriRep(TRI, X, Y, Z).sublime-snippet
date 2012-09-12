@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TriRep(${1:TRI},${2: X},${3: Y},${4: Z})]]></content>
-	<tabTrigger>TriRep</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

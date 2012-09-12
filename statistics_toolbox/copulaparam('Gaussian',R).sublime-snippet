@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[copulaparam('${1:Gaussian}',${2:R})]]></content>
-	<tabTrigger>copulaparam</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

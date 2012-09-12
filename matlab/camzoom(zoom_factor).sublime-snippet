@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[camzoom(${396:zoom_factor})]]></content>
-	<tabTrigger>camzoom</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

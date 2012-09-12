@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[true(${3139:n})]]></content>
-	<tabTrigger>true</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

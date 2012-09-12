@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BeginInvoke(${1:arg1},${2:...},${3:argN},${4:callback},${5:object})]]></content>
-	<tabTrigger>BeginInvoke</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

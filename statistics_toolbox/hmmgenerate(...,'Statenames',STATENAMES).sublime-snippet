@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hmmgenerate(${1:...},'${2:Statenames}',${3:STATENAMES})]]></content>
-	<tabTrigger>hmmgenerate</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

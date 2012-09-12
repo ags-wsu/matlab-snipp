@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[acosh(${64:X})]]></content>
-	<tabTrigger>acosh</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

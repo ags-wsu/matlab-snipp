@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[crossval(${251:model})]]></content>
-	<tabTrigger>crossval</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

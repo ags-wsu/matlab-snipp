@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[imformats(${1537:format_struct})]]></content>
-	<tabTrigger>imformats</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

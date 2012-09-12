@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rng('${2571:default}')]]></content>
-	<tabTrigger>rng</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

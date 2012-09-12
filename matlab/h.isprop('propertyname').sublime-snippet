@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h.isprop('${1402:propertyname}')]]></content>
-	<tabTrigger>h.isprop</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

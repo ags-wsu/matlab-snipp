@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[plotDiagnostics(${1048:...})]]></content>
-	<tabTrigger>plotDiagnostics</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

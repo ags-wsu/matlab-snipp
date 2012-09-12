@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dendrogram(${1:Z},${2:p})]]></content>
-	<tabTrigger>dendrogram</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

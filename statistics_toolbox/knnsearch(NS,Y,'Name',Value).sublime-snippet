@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[knnsearch(${1:NS},${2:Y},'${3:Name}',${4:Value})]]></content>
-	<tabTrigger>knnsearch</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

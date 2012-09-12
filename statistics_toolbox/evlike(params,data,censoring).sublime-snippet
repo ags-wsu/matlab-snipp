@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[evlike(${1:params},${2:data},${3:censoring})]]></content>
-	<tabTrigger>evlike</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

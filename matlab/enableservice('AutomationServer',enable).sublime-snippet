@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enableservice('${1:AutomationServer}',${2:enable})]]></content>
-	<tabTrigger>enableservice</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

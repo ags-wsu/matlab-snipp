@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tiffobj.numberOfStrips]]></content>
-	<tabTrigger>tiffobj.numberOfStrips</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ranksum(${1178:...})]]></content>
-	<tabTrigger>ranksum</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

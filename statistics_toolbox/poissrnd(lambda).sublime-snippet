@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[poissrnd(${1068:lambda})]]></content>
-	<tabTrigger>poissrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

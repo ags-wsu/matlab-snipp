@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[horzcat(${1:tsc1},${2:tsc2},${3:...})]]></content>
-	<tabTrigger>horzcat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

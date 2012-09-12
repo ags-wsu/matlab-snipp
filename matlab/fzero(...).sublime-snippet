@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fzero(${1255:...})]]></content>
-	<tabTrigger>fzero</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

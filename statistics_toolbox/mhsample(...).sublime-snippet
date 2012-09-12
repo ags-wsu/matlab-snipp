@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mhsample(${787:...})]]></content>
-	<tabTrigger>mhsample</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

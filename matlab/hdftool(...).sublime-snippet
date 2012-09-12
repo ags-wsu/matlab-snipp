@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hdftool(${1448:...})]]></content>
-	<tabTrigger>hdftool</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

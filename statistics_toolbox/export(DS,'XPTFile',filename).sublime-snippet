@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[export(${1:DS},'${2:XPTFile}',${3:filename})]]></content>
-	<tabTrigger>export</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

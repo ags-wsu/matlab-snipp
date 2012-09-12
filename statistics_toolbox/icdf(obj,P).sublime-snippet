@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[icdf(${1:obj},${2:P})]]></content>
-	<tabTrigger>icdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nbinstat(${1:R},${2:P})]]></content>
-	<tabTrigger>nbinstat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

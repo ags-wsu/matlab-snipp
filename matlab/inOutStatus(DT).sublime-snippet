@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[inOutStatus(${1552:DT})]]></content>
-	<tabTrigger>inOutStatus</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

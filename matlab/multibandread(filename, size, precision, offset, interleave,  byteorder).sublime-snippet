@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[multibandread(${1:filename},${2: size},${3: precision},${4: offset},${5: interleave},${6:  byteorder})]]></content>
-	<tabTrigger>multibandread</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

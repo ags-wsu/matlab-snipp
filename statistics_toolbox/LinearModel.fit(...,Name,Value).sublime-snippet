@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LinearModel.fit(${1:...},${2:Name},${3:Value})]]></content>
-	<tabTrigger>LinearModel.fit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

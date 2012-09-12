@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addedvarplot(${1:X},${2:y},${3:num},${4:inmodel},${5:stats})]]></content>
-	<tabTrigger>addedvarplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

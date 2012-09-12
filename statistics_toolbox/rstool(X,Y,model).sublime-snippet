@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rstool(${1:X},${2:Y},${3:model})]]></content>
-	<tabTrigger>rstool</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

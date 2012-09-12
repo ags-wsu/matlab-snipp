@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[alphamap(${131:figure_handle})]]></content>
-	<tabTrigger>alphamap</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

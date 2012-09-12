@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hougen(${1:beta},${2:x})]]></content>
-	<tabTrigger>hougen</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

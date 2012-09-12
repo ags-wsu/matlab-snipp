@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[resubLoss(${1:tree},'${2:subtrees}',${3:subtreevector},${4:Name},${5:Value})]]></content>
-	<tabTrigger>resubLoss</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

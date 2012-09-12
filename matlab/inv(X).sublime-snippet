@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[inv(${1621:X})]]></content>
-	<tabTrigger>inv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

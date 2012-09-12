@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[spline(${1:x},${2:Y},${3:xx})]]></content>
-	<tabTrigger>spline</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

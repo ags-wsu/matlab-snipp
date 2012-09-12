@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.inqDim(${1:ncid},${2:dimid})]]></content>
-	<tabTrigger>netcdf.inqDim</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

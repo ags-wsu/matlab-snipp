@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.getVarSparseRecords(${1:cdfId},${2:varNum})]]></content>
-	<tabTrigger>cdflib.getVarSparseRecords</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

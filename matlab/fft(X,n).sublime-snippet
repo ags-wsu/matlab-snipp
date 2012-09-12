@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fft(${1:X},${2:n})]]></content>
-	<tabTrigger>fft</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[initval:endval; ${1:statements;}]]></content>
-	<tabTrigger>initval:endval;</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mdsProx(${1:B},${2:X},'${3:param1}',${4:val1},'${5:param2}',${6:val2},${7:...})]]></content>
-	<tabTrigger>mdsProx</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

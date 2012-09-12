@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h.invoke('${1398:methodname}')]]></content>
-	<tabTrigger>h.invoke</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

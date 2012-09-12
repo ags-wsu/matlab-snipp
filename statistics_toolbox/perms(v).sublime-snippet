@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[perms(${1039:v})]]></content>
-	<tabTrigger>perms</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

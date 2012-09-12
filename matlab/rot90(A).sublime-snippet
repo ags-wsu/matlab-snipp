@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rot90(${2584:A})]]></content>
-	<tabTrigger>rot90</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gagerr(${1:y},${2:GROUP})]]></content>
-	<tabTrigger>gagerr</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

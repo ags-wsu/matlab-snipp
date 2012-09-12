@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[squareform(${1352:Z})]]></content>
-	<tabTrigger>squareform</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

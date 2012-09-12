@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[resubMargin(${1238:tree})]]></content>
-	<tabTrigger>resubMargin</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

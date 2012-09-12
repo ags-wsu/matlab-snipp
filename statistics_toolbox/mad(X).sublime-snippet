@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mad(${750:X})]]></content>
-	<tabTrigger>mad</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

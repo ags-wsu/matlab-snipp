@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addlistener(${1:Hsource},${2:property},'${3:EventName}',${4:callback})]]></content>
-	<tabTrigger>addlistener</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

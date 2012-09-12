@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[treeplot(${3113:p})]]></content>
-	<tabTrigger>treeplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uint8(${3177:array})]]></content>
-	<tabTrigger>uint8</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

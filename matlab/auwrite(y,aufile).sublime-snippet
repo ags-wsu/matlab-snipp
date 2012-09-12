@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[auwrite(${1:y},${2:aufile})]]></content>
-	<tabTrigger>auwrite</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

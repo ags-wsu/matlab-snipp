@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pcode(${1:fun1},${2:...},${3:funN})]]></content>
-	<tabTrigger>pcode</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

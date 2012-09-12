@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.setFormat(${1:cdfId},${2:format})]]></content>
-	<tabTrigger>cdflib.setFormat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

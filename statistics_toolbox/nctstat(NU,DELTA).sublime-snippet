@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nctstat(${1:NU},${2:DELTA})]]></content>
-	<tabTrigger>nctstat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

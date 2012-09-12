@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[normlike(${1:param},${2:data},${3:censoring})]]></content>
-	<tabTrigger>normlike</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

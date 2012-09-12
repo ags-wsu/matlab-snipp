@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dbmex ${1:stop}]]></content>
-	<tabTrigger>dbmex</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

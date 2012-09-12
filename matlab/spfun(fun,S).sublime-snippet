@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[spfun(${1:fun},${2:S})]]></content>
-	<tabTrigger>spfun</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

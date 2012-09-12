@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.createVar(${1:cdfId},${2: varname},${3: datatype},${4: numElements},${5: dims},${6: recVariance},${7: dimVariance})]]></content>
-	<tabTrigger>cdflib.createVar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

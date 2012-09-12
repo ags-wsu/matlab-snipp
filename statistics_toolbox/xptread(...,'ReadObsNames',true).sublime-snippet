@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[xptread(${1:...},'${2:ReadObsNames}',${3:true})]]></content>
-	<tabTrigger>xptread</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

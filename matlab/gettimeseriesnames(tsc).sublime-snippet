@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gettimeseriesnames(${1330:tsc})]]></content>
-	<tabTrigger>gettimeseriesnames</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

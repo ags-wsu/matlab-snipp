@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[checkcode('${1:filename}','${2:-notok}')]]></content>
-	<tabTrigger>checkcode</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

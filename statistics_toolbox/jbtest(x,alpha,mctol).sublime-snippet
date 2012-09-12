@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[jbtest(${1:x},${2:alpha},${3:mctol})]]></content>
-	<tabTrigger>jbtest</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

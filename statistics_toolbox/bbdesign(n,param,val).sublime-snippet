@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bbdesign(${1:n},${2:param},${3:val})]]></content>
-	<tabTrigger>bbdesign</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addevent(${1:ts},${2:Name},${3:Time})]]></content>
-	<tabTrigger>addevent</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

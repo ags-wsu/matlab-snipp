@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[factoran(${1:X},${2:m})]]></content>
-	<tabTrigger>factoran</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

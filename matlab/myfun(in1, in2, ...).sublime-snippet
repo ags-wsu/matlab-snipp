@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[myfun(${1:in1},${2: in2},${3: ...})]]></content>
-	<tabTrigger>myfun</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

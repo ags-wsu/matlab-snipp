@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[genpath ${1:folderName}]]></content>
-	<tabTrigger>genpath</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

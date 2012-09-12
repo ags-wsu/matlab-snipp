@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[chi2gof(${1:X},'${2:Name}',${3:value})]]></content>
-	<tabTrigger>chi2gof</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

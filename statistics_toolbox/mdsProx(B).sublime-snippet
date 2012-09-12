@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mdsProx(${771:B})]]></content>
-	<tabTrigger>mdsProx</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

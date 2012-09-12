@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tiffobj.write(${1:Y},${2:Cb},${3:Cr})]]></content>
-	<tabTrigger>tiffobj.write</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

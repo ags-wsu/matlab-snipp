@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[oobError(${973:B})]]></content>
-	<tabTrigger>oobError</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

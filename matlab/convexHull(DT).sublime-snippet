@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[convexHull(${693:DT})]]></content>
-	<tabTrigger>convexHull</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

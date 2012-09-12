@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ridge(${1:y},${2:X},${3:k})]]></content>
-	<tabTrigger>ridge</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

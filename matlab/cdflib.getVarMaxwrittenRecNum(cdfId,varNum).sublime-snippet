@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.getVarMaxwrittenRecNum(${1:cdfId},${2:varNum})]]></content>
-	<tabTrigger>cdflib.getVarMaxwrittenRecNum</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

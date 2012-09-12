@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ncdisp(${1:source},${2:location},${3:modestr})]]></content>
-	<tabTrigger>ncdisp</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

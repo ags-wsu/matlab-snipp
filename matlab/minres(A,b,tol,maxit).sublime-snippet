@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[minres(${1:A},${2:b},${3:tol},${4:maxit})]]></content>
-	<tabTrigger>minres</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

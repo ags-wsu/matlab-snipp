@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[slice(${2731:...})]]></content>
-	<tabTrigger>slice</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

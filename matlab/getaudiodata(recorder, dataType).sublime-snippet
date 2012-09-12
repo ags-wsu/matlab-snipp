@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getaudiodata(${1:recorder},${2: dataType})]]></content>
-	<tabTrigger>getaudiodata</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

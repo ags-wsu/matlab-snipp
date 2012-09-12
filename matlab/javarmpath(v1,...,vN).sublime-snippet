@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[javarmpath(${1:v1},${2:...},${3:vN})]]></content>
-	<tabTrigger>javarmpath</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hmmtrain(${1:...},'${2:Verbose}',${3:true})]]></content>
-	<tabTrigger>hmmtrain</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

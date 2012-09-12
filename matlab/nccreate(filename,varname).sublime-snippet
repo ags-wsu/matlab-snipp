@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nccreate(${1:filename},${2:varname})]]></content>
-	<tabTrigger>nccreate</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

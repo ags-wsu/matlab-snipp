@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[glmfit(${1:X},${2:y},${3:distr})]]></content>
-	<tabTrigger>glmfit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

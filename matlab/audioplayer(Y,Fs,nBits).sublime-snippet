@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[audioplayer(${1:Y},${2:Fs},${3:nBits})]]></content>
-	<tabTrigger>audioplayer</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

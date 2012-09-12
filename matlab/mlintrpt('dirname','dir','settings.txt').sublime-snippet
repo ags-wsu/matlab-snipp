@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mlintrpt('${1:dirname}','${2:dir}','${3:settings.txt}')]]></content>
-	<tabTrigger>mlintrpt</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

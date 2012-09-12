@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[poissfit(${1064:data})]]></content>
-	<tabTrigger>poissfit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

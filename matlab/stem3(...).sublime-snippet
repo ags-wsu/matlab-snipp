@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[stem3(${2835:...})]]></content>
-	<tabTrigger>stem3</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

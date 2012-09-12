@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[slicesample(${1:initial},${2:nsamples},'${3:pdf}',${4:pdf})]]></content>
-	<tabTrigger>slicesample</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

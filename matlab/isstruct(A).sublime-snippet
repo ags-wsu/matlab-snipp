@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isstruct(${1698:A})]]></content>
-	<tabTrigger>isstruct</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

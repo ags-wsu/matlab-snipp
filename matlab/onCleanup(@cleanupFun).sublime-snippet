@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onCleanup(${2140:@cleanupFun})]]></content>
-	<tabTrigger>onCleanup</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mvncdf(${1:...},${2:options})]]></content>
-	<tabTrigger>mvncdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

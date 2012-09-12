@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[readasync(${1:obj},${2:size})]]></content>
-	<tabTrigger>readasync</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

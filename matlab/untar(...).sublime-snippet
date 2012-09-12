@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[untar(${3223:...})]]></content>
-	<tabTrigger>untar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

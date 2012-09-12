@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dmperm(${910:A})]]></content>
-	<tabTrigger>dmperm</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

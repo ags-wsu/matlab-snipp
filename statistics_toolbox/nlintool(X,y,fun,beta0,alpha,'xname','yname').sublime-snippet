@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nlintool(${1:X},${2:y},${3:fun},${4:beta0},${5:alpha},'${6:xname}','${7:yname}')]]></content>
-	<tabTrigger>nlintool</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

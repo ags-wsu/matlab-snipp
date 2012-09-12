@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[crossval(${1:criterion},${2:X1},${3:X2},${4:...},${5:y},'${6:Predfun}',${7:predfun})]]></content>
-	<tabTrigger>crossval</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

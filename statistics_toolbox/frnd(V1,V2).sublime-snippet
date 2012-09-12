@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[frnd(${1:V1},${2:V2})]]></content>
-	<tabTrigger>frnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

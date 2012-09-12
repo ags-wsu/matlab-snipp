@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bvpxtend(${1:sol},${2:xnew},${3:ynew})]]></content>
-	<tabTrigger>bvpxtend</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

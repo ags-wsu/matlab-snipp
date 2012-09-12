@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[unidpdf(${1:X},${2:N})]]></content>
-	<tabTrigger>unidpdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

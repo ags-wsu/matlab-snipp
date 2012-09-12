@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cond(${628:X})]]></content>
-	<tabTrigger>cond</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

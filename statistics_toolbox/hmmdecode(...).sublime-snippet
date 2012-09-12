@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hmmdecode(${556:...})]]></content>
-	<tabTrigger>hmmdecode</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

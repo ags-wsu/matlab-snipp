@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ordeig(${2170:T})]]></content>
-	<tabTrigger>ordeig</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

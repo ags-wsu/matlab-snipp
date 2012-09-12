@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.inquireVar(${1:cdfId},${2:varNum})]]></content>
-	<tabTrigger>cdflib.inquireVar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

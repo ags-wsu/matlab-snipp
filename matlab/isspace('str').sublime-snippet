@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isspace('${1695:str}')]]></content>
-	<tabTrigger>isspace</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

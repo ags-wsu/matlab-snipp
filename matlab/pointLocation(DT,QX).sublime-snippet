@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pointLocation(${1:DT},${2:QX})]]></content>
-	<tabTrigger>pointLocation</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

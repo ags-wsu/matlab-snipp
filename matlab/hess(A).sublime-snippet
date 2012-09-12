@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hess(${1453:A})]]></content>
-	<tabTrigger>hess</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

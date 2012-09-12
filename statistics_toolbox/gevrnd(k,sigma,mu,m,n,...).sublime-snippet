@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gevrnd(${1:k},${2:sigma},${3:mu},${4:m},${5:n},${6:...})]]></content>
-	<tabTrigger>gevrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

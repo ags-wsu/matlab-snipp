@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[etime(${1:t2},${2: t1})]]></content>
-	<tabTrigger>etime</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

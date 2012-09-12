@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isvalid(${1701:obj})]]></content>
-	<tabTrigger>isvalid</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

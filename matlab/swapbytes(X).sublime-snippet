@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[swapbytes(${3008:X})]]></content>
-	<tabTrigger>swapbytes</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hmmviterbi(${1:seq},${2:TRANS},${3:EMIS})]]></content>
-	<tabTrigger>hmmviterbi</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

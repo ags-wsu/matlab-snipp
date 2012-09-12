@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gpstat(${1:K},${2:sigma},${3:theta})]]></content>
-	<tabTrigger>gpstat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

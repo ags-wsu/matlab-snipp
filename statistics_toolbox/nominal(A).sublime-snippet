@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nominal(${937:A})]]></content>
-	<tabTrigger>nominal</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

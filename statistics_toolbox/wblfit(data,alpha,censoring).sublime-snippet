@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[wblfit(${1:data},${2:alpha},${3:censoring})]]></content>
-	<tabTrigger>wblfit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

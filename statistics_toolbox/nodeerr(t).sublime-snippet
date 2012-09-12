@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nodeerr(${929:t})]]></content>
-	<tabTrigger>nodeerr</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

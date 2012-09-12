@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ispref('${1:group}','${2:pref}')]]></content>
-	<tabTrigger>ispref</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

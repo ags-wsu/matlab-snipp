@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[treeprune(${1:t1},'${2:level}',${3:level})]]></content>
-	<tabTrigger>treeprune</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

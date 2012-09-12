@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[coneplot(${633:...})]]></content>
-	<tabTrigger>coneplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

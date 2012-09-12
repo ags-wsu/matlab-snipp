@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[qrand(${1127:q})]]></content>
-	<tabTrigger>qrand</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

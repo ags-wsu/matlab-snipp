@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[acsc(${67:X})]]></content>
-	<tabTrigger>acsc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

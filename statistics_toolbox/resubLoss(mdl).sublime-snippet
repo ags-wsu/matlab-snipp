@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[resubLoss(${1226:mdl})]]></content>
-	<tabTrigger>resubLoss</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

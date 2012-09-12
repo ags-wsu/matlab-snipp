@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fcdf(${1:X},${2:V1},${3:V2})]]></content>
-	<tabTrigger>fcdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

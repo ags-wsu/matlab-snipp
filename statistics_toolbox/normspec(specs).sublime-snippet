@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[normspec(${961:specs})]]></content>
-	<tabTrigger>normspec</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

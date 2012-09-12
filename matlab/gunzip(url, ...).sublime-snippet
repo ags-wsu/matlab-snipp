@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gunzip(${1:url},${2: ...})]]></content>
-	<tabTrigger>gunzip</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

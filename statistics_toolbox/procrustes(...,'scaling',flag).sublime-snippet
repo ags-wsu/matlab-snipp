@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[procrustes(${1:...},'${2:scaling}',${3:flag})]]></content>
-	<tabTrigger>procrustes</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

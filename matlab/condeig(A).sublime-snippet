@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[condeig(${630:A})]]></content>
-	<tabTrigger>condeig</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

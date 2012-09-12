@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[varimportance(${1503:t})]]></content>
-	<tabTrigger>varimportance</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

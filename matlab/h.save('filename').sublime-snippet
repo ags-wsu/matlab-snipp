@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h.save('${1406:filename}')]]></content>
-	<tabTrigger>h.save</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

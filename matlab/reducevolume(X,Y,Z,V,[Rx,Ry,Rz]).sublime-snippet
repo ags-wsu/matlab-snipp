@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[reducevolume(${1:X},${2:Y},${3:Z},${4:V},[${5:Rx} ${6:Ry} ${7:Rz}])]]></content>
-	<tabTrigger>reducevolume</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

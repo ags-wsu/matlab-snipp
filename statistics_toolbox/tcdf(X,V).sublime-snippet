@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tcdf(${1:X},${2:V})]]></content>
-	<tabTrigger>tcdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pcolor(${2229:C})]]></content>
-	<tabTrigger>pcolor</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

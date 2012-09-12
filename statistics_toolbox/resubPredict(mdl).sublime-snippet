@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[resubPredict(${1241:mdl})]]></content>
-	<tabTrigger>resubPredict</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

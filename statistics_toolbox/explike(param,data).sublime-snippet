@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[explike(${1:param},${2:data})]]></content>
-	<tabTrigger>explike</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

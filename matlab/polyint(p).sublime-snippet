@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[polyint(${2318:p})]]></content>
-	<tabTrigger>polyint</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

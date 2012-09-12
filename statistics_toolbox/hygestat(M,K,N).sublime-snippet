@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hygestat(${1:M},${2:K},${3:N})]]></content>
-	<tabTrigger>hygestat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

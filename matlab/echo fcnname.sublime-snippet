@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[echo ${1:fcnname}]]></content>
-	<tabTrigger>echo</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

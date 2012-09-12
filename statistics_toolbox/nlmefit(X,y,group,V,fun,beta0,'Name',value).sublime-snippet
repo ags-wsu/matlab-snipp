@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nlmefit(${1:X},${2:y},${3:group},${4:V},${5:fun},${6:beta0},'${7:Name}',${8:value})]]></content>
-	<tabTrigger>nlmefit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

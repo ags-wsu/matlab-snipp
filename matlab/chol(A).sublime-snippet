@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[chol(${549:A})]]></content>
-	<tabTrigger>chol</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

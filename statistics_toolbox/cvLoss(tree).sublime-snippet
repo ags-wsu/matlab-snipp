@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cvLoss(${265:tree})]]></content>
-	<tabTrigger>cvLoss</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

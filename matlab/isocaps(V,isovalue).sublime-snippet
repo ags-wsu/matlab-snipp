@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isocaps(${1:V},${2:isovalue})]]></content>
-	<tabTrigger>isocaps</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

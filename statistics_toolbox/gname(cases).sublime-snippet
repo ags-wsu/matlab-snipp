@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gname(${501:cases})]]></content>
-	<tabTrigger>gname</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

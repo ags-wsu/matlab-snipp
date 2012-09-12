@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[probplot(${1:ax},${2:fun},${3:params})]]></content>
-	<tabTrigger>probplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

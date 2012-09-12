@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fill(${1:...},'${2:PropertyName}',${3:PropertyValue})]]></content>
-	<tabTrigger>fill</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[risk(${1249:t})]]></content>
-	<tabTrigger>risk</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bvp4c(${1:odefun},${2:bcfun},${3:solinit},${4:options})]]></content>
-	<tabTrigger>bvp4c</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

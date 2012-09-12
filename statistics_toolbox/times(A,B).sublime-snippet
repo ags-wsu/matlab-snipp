@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[times(${1:A},${2:B})]]></content>
-	<tabTrigger>times</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

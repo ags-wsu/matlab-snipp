@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[aoctool(${1:x},${2:y},${3:group},${4:alpha},${5:xname},${6:yname},${7:gname})]]></content>
-	<tabTrigger>aoctool</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

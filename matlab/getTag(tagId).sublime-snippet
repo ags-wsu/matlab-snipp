@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTag(${1301:tagId})]]></content>
-	<tabTrigger>getTag</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.defVarDeflate(${1:ncid},${2:varid},${3:shuffle},${4:deflate},${5:deflateLevel})]]></content>
-	<tabTrigger>netcdf.defVarDeflate</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

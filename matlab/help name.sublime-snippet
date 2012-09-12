@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[help ${1:name}]]></content>
-	<tabTrigger>help</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

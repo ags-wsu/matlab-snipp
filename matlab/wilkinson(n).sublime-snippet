@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[wilkinson(${3358:n})]]></content>
-	<tabTrigger>wilkinson</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

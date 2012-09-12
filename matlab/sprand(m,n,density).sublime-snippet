@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[sprand(${1:m},${2:n},${3:density})]]></content>
-	<tabTrigger>sprand</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

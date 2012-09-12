@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addts(${1:tsc},${2:ts},${3:Name})]]></content>
-	<tabTrigger>addts</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mnrval(${1:B},${2:X},${3:ssize})]]></content>
-	<tabTrigger>mnrval</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

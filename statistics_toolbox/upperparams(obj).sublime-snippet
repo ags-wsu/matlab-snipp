@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[upper${1501:obj}(params)]]></content>
-	<tabTrigger>upperparams</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

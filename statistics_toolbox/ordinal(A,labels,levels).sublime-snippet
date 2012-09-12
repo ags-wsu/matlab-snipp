@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ordinal(${1:A},${2:labels},${3:levels})]]></content>
-	<tabTrigger>ordinal</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

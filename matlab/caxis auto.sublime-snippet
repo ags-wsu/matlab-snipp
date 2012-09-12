@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[caxis ${1:auto}]]></content>
-	<tabTrigger>caxis</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

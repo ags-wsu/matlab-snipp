@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[devianceTest(${306:mdl})]]></content>
-	<tabTrigger>devianceTest</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

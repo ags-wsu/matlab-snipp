@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[interp1q(${1:x},${2:Y},${3:xi})]]></content>
-	<tabTrigger>interp1q</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

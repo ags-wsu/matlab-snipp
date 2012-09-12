@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[shading ${1:faceted}]]></content>
-	<tabTrigger>shading</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[betarnd(${1:A},${2:B},[${3:m},${4:n},${5:...}])]]></content>
-	<tabTrigger>betarnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[?ClassName]]></content>
-	<tabTrigger>?ClassName</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

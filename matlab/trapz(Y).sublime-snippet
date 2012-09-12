@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[trapz(${3111:Y})]]></content>
-	<tabTrigger>trapz</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

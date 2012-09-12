@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[interactionplot(${600:...})]]></content>
-	<tabTrigger>interactionplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

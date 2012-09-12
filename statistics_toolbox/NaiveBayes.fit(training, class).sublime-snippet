@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NaiveBayes.fit(${1:training},${2: class})]]></content>
-	<tabTrigger>NaiveBayes.fit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

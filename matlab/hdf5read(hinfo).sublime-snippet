@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hdf5read(${1434:hinfo})]]></content>
-	<tabTrigger>hdf5read</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[camva(${394:view_angle})]]></content>
-	<tabTrigger>camva</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

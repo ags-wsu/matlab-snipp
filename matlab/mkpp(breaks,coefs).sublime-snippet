@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mkpp(${1:breaks},${2:coefs})]]></content>
-	<tabTrigger>mkpp</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nodemean(${1:T},${2:J})]]></content>
-	<tabTrigger>nodemean</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

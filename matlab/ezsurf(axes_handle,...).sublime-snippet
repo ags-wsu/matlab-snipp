@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ezsurf(${1:axes_handle},${2:...})]]></content>
-	<tabTrigger>ezsurf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

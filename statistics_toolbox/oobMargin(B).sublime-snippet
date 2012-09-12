@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[oobMargin(${977:B})]]></content>
-	<tabTrigger>oobMargin</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

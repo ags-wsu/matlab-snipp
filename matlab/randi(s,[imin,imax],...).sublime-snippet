@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[randi(${1:s},[${2:imin} ${3:imax}],${4:...})]]></content>
-	<tabTrigger>randi</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

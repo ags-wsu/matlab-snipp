@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mvtpdf(${1:X},${2:C},${3:df})]]></content>
-	<tabTrigger>mvtpdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

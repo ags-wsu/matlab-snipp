@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[openvar('${2161:varname}')]]></content>
-	<tabTrigger>openvar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.inqVarIDs(${2075:ncid})]]></content>
-	<tabTrigger>netcdf.inqVarIDs</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

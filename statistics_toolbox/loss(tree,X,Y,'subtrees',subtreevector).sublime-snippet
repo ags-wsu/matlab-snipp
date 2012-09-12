@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[loss(${1:tree},${2:X},${3:Y},'${4:subtrees}',${5:subtreevector})]]></content>
-	<tabTrigger>loss</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

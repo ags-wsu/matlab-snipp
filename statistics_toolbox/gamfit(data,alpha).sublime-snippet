@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gamfit(${1:data},${2:alpha})]]></content>
-	<tabTrigger>gamfit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

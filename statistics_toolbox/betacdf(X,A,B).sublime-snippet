@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[betacdf(${1:X},${2:A},${3:B})]]></content>
-	<tabTrigger>betacdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

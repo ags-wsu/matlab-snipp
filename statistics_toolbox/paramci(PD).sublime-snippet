@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[paramci(${1006:PD})]]></content>
-	<tabTrigger>paramci</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

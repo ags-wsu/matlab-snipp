@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pdist(${1:X},${2:distance})]]></content>
-	<tabTrigger>pdist</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[diag(${876:v})]]></content>
-	<tabTrigger>diag</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

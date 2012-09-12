@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getpixelposition(${1317:handle})]]></content>
-	<tabTrigger>getpixelposition</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

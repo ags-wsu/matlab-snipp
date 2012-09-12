@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[dbstep ${1:out}]]></content>
-	<tabTrigger>dbstep</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

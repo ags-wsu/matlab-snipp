@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[imagesc(${1:...},${2:clims})]]></content>
-	<tabTrigger>imagesc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

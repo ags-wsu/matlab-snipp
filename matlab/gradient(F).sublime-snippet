@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gradient(${1356:F})]]></content>
-	<tabTrigger>gradient</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

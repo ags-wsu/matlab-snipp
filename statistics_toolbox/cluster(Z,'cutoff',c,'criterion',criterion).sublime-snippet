@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cluster(${1:Z},'${2:cutoff}',${3:c},'${4:criterion}',${5:criterion})]]></content>
-	<tabTrigger>cluster</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

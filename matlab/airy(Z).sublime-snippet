@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[airy(${111:Z})]]></content>
-	<tabTrigger>airy</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

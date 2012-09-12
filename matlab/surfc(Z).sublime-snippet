@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[surfc(${2988:Z})]]></content>
-	<tabTrigger>surfc</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

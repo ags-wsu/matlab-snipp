@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mvnrnd(${1:MU},${2:SIGMA})]]></content>
-	<tabTrigger>mvnrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[quadl(${1:fun},${2:a},${3:b},${4:tol})]]></content>
-	<tabTrigger>quadl</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[stack(${1:wide},${2:datavars})]]></content>
-	<tabTrigger>stack</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

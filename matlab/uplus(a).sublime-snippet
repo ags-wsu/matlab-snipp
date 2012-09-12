@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uplus(${3233:a})]]></content>
-	<tabTrigger>uplus</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

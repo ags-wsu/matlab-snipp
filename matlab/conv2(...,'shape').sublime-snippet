@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[conv2(${1:...},'${2:shape}')]]></content>
-	<tabTrigger>conv2</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mnpdf(${1:X},${2:PROB})]]></content>
-	<tabTrigger>mnpdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nbininv(${1:Y},${2:R},${3:P})]]></content>
-	<tabTrigger>nbininv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

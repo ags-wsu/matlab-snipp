@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[meanMargin(${1:B},${2:X},${3:Y})]]></content>
-	<tabTrigger>meanMargin</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

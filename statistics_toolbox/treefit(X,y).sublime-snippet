@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[treefit(${1:X},${2:y})]]></content>
-	<tabTrigger>treefit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

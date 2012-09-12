@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lower${749:obj}(params)]]></content>
-	<tabTrigger>lowerparams</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

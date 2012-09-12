@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gamstat(${1:A},${2:B})]]></content>
-	<tabTrigger>gamstat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[uint16(${1462:A})]]></content>
-	<tabTrigger>uint16</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

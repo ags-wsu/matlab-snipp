@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[raylinv(${1:P},${2:B})]]></content>
-	<tabTrigger>raylinv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

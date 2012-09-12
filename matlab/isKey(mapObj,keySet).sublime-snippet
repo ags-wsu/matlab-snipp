@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isKey(${1:mapObj},${2:keySet})]]></content>
-	<tabTrigger>isKey</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

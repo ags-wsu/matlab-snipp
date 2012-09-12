@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fitdist(${1:X},${2: DistName})]]></content>
-	<tabTrigger>fitdist</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

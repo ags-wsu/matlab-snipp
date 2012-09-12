@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[unifstat(${1:A},${2:B})]]></content>
-	<tabTrigger>unifstat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

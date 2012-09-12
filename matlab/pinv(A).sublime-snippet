@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pinv(${2250:A})]]></content>
-	<tabTrigger>pinv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

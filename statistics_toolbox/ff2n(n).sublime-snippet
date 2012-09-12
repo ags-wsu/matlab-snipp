@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ff2n(${405:n})]]></content>
-	<tabTrigger>ff2n</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

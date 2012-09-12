@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[h.set('${1:pname}',${2:value})]]></content>
-	<tabTrigger>h.set</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

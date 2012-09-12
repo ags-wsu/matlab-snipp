@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[kfoldLoss(${654:obj})]]></content>
-	<tabTrigger>kfoldLoss</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

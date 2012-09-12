@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gmdistribution(${1:mu},${2:sigma},${3:p})]]></content>
-	<tabTrigger>gmdistribution</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[friedman(${426:...})]]></content>
-	<tabTrigger>friedman</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

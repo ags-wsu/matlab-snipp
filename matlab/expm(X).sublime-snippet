@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[expm(${1001:X})]]></content>
-	<tabTrigger>expm</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

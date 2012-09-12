@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[xlabel(${3377:fname})]]></content>
-	<tabTrigger>xlabel</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

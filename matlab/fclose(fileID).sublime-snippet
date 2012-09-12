@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fclose(${1087:fileID})]]></content>
-	<tabTrigger>fclose</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

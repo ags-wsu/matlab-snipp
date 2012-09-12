@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[release(${2523:h})]]></content>
-	<tabTrigger>release</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

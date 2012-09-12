@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fitensemble(${1:X},${2:Y},${3:method},${4:nlearn},${5:learners})]]></content>
-	<tabTrigger>fitensemble</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

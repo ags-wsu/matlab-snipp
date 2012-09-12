@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[edges(${930:TR})]]></content>
-	<tabTrigger>edges</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

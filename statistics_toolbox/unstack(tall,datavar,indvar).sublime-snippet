@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[unstack(${1:tall},${2:datavar},${3:indvar})]]></content>
-	<tabTrigger>unstack</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

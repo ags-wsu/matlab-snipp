@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[factorial(${1080:N})]]></content>
-	<tabTrigger>factorial</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

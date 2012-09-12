@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[datasample(${1:data},${2:k},${3:dim})]]></content>
-	<tabTrigger>datasample</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

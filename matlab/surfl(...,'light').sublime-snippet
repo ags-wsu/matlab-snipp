@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[surfl(${1:...},'${2:light}')]]></content>
-	<tabTrigger>surfl</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

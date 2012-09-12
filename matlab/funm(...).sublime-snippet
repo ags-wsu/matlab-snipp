@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[funm(${1242:...})]]></content>
-	<tabTrigger>funm</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

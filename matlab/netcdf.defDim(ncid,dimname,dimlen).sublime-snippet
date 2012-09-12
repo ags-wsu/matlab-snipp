@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.defDim(${1:ncid},${2:dimname},${3:dimlen})]]></content>
-	<tabTrigger>netcdf.defDim</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

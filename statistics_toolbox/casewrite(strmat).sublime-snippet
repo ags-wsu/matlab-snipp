@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[casewrite(${130:strmat})]]></content>
-	<tabTrigger>casewrite</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[glyphplot(${1:X},${2:...},${3:prop1},${4:val1},${5:...})]]></content>
-	<tabTrigger>glyphplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

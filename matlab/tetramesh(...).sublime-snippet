@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tetramesh(${3038:...})]]></content>
-	<tabTrigger>tetramesh</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

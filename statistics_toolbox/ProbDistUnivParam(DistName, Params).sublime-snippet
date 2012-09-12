@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProbDistUnivParam(${1:DistName},${2: Params})]]></content>
-	<tabTrigger>ProbDistUnivParam</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

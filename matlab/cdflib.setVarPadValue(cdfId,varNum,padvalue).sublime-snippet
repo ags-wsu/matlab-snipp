@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.setVarPadValue(${1:cdfId},${2:varNum},${3:padvalue})]]></content>
-	<tabTrigger>cdflib.setVarPadValue</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

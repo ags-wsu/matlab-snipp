@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enableNETfromNetworkDrive]]></content>
-	<tabTrigger>enableNETfromNetworkDrive</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

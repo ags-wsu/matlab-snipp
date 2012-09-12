@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[interp3(${1:...},${2:method})]]></content>
-	<tabTrigger>interp3</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

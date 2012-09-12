@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getinterpmethod(${1316:ts})]]></content>
-	<tabTrigger>getinterpmethod</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[disp(${317:p})]]></content>
-	<tabTrigger>disp</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

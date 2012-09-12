@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lillietest(${708:x})]]></content>
-	<tabTrigger>lillietest</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

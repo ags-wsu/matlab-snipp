@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[munlock('${1992:fun}')]]></content>
-	<tabTrigger>munlock</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

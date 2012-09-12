@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[magic(${1849:n})]]></content>
-	<tabTrigger>magic</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[eval(${1:t},${2:X})]]></content>
-	<tabTrigger>eval</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

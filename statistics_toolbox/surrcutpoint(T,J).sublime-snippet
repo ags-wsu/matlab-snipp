@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[surrcutpoint(${1:T},${2:J})]]></content>
-	<tabTrigger>surrcutpoint</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

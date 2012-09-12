@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nodeclass(${926:...})]]></content>
-	<tabTrigger>nodeclass</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

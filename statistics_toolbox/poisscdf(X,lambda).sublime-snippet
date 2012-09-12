@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[poisscdf(${1:X},${2:lambda})]]></content>
-	<tabTrigger>poisscdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

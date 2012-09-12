@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cdflib.renameAttr(${1:cdfId},${2:attrNum},${3:newName})]]></content>
-	<tabTrigger>cdflib.renameAttr</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

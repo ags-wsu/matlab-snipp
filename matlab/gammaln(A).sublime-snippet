@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gammaln(${1269:A})]]></content>
-	<tabTrigger>gammaln</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

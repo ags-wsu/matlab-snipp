@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ncwrite(${1:filename},${2:varname},${3:vardata},${4:start},${5:stride})]]></content>
-	<tabTrigger>ncwrite</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

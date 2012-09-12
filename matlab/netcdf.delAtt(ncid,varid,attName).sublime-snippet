@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.delAtt(${1:ncid},${2:varid},${3:attName})]]></content>
-	<tabTrigger>netcdf.delAtt</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

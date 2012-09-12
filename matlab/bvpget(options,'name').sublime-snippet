@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bvpget(${1:options},'${2:name}')]]></content>
-	<tabTrigger>bvpget</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

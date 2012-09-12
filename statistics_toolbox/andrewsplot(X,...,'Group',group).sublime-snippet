@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[andrewsplot(${1:X},${2:...},'${3:Group}',${4:group})]]></content>
-	<tabTrigger>andrewsplot</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

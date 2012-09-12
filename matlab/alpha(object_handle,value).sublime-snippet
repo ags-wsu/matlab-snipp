@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[alpha(${1:object_handle},${2:value})]]></content>
-	<tabTrigger>alpha</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

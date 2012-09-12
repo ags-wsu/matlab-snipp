@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[raylcdf(${1:X},${2:B})]]></content>
-	<tabTrigger>raylcdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

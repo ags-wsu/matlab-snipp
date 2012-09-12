@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[coxphfit(${1:X},${2:y})]]></content>
-	<tabTrigger>coxphfit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

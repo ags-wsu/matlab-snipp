@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mvnpdf(${1:X},${2:MU},${3:SIGMA})]]></content>
-	<tabTrigger>mvnpdf</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

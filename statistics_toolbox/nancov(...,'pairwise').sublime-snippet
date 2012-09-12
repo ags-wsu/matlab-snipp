@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nancov(${1:...},'${2:pairwise}')]]></content>
-	<tabTrigger>nancov</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

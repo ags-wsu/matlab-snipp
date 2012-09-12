@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[surfnorm(${2996:...})]]></content>
-	<tabTrigger>surfnorm</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

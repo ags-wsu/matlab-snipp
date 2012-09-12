@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lasso(${1:X},${2:Y})]]></content>
-	<tabTrigger>lasso</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

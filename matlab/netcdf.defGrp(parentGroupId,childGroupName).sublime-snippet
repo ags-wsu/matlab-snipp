@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.defGrp(${1:parentGroupId},${2:childGroupName})]]></content>
-	<tabTrigger>netcdf.defGrp</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

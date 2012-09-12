@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lhsnorm(${704:...})]]></content>
-	<tabTrigger>lhsnorm</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

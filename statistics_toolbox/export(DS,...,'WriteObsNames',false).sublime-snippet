@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[export(${1:DS},${2:...},'${3:WriteObsNames}',${4:false})]]></content>
-	<tabTrigger>export</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

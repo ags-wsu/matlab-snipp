@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lscov(${1:A},${2:b},${3:V},${4:alg})]]></content>
-	<tabTrigger>lscov</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

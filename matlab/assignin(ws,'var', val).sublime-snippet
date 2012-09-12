@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[assignin(${1:ws},'${2:var}',${3: val})]]></content>
-	<tabTrigger>assignin</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

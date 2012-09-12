@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isreal(${1690:A})]]></content>
-	<tabTrigger>isreal</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[training(${1:c},${2:i})]]></content>
-	<tabTrigger>training</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

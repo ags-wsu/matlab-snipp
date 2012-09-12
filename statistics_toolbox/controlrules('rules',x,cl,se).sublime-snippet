@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[controlrules('${1:rules}',${2:x},${3:cl},${4:se})]]></content>
-	<tabTrigger>controlrules</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

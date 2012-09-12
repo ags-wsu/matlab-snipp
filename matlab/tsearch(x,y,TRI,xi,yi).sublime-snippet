@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[tsearch(${1:x},${2:y},${3:TRI},${4:xi},${5:yi})]]></content>
-	<tabTrigger>tsearch</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

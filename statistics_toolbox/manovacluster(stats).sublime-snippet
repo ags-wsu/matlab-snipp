@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[manovacluster(${762:stats})]]></content>
-	<tabTrigger>manovacluster</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

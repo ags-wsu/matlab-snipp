@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[profile ${1:viewer}]]></content>
-	<tabTrigger>profile</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

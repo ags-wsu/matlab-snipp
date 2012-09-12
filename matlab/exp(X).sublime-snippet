@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[exp(${999:X})]]></content>
-	<tabTrigger>exp</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

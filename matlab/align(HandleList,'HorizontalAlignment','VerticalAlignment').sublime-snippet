@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[align(${1:HandleList},'${2:HorizontalAlignment}','${3:VerticalAlignment}')]]></content>
-	<tabTrigger>align</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

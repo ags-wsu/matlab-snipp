@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[treeval(${1437:...})]]></content>
-	<tabTrigger>treeval</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

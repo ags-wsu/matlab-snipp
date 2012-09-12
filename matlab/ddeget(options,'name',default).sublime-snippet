@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ddeget(${1:options},'${2:name}',${3:default})]]></content>
-	<tabTrigger>ddeget</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

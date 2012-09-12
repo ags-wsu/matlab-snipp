@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[growTrees(${1:B},${2:ntrees})]]></content>
-	<tabTrigger>growTrees</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

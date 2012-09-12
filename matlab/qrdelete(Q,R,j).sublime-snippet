@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[qrdelete(${1:Q},${2:R},${3:j})]]></content>
-	<tabTrigger>qrdelete</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

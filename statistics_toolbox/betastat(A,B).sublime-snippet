@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[betastat(${1:A},${2:B})]]></content>
-	<tabTrigger>betastat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

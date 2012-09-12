@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[orth(${2184:A})]]></content>
-	<tabTrigger>orth</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

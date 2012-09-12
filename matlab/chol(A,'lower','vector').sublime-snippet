@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[chol(${1:A},'${2:lower}','${3:vector}')]]></content>
-	<tabTrigger>chol</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

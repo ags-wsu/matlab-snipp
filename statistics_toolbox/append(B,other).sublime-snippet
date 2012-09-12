@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[append(${1:B},${2:other})]]></content>
-	<tabTrigger>append</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

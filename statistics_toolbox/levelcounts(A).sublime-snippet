@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[levelcounts(${696:A})]]></content>
-	<tabTrigger>levelcounts</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

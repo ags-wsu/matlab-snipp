@@ -1,10 +1,11 @@
 Sublime Text 2 MATLAB Snippets.
-
+----
 These are tab-complete snippets for all MATLAB functions in the Standard and Statistics Toolboxes.  
 
-Install this folder in your `/User/Snippets` directory.  
+Install these folders in your `/User/Snippets` directory.  
 
 Typically, 
+
 
 		~/Library/Application Support/Sublime Text 2/Packages/User/Snippets/matlab_snippets
 

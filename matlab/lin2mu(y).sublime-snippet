@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lin2mu(${1781:y})]]></content>
-	<tabTrigger>lin2mu</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

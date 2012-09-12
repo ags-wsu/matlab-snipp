@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pearsrnd(${1:mu},${2:sigma},${3:skew},${4:kurt})]]></content>
-	<tabTrigger>pearsrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

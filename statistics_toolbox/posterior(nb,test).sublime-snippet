@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[posterior(${1:nb},${2:test})]]></content>
-	<tabTrigger>posterior</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

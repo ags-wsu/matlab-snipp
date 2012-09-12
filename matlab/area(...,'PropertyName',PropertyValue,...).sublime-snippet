@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[area(${1:...},'${2:PropertyName}',${3:PropertyValue},${4:...})]]></content>
-	<tabTrigger>area</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

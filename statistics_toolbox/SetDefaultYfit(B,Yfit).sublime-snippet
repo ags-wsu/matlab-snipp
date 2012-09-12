@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetDefaultYfit(${1:B},${2:Yfit})]]></content>
-	<tabTrigger>SetDefaultYfit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

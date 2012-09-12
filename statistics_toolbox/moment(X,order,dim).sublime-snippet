@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[moment(${1:X},${2:order},${3:dim})]]></content>
-	<tabTrigger>moment</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

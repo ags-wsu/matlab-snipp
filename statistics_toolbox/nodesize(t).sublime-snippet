@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[nodesize(${935:t})]]></content>
-	<tabTrigger>nodesize</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

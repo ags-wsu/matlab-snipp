@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mdscale(${1:D},${2:p},'${3:Name}',${4:value})]]></content>
-	<tabTrigger>mdscale</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

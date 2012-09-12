@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[wblinv(${1:P},${2:A},${3:B},${4:PCOV},${5:alpha})]]></content>
-	<tabTrigger>wblinv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

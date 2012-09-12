@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[shrink(${1311:ens})]]></content>
-	<tabTrigger>shrink</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

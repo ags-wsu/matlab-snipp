@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[more(${1963:state})]]></content>
-	<tabTrigger>more</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

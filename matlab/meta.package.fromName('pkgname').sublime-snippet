@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[meta.package.fromName('${1907:pkgname}')]]></content>
-	<tabTrigger>meta.package.fromName</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

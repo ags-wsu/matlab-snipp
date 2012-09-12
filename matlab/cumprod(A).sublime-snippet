@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cumprod(${744:A})]]></content>
-	<tabTrigger>cumprod</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

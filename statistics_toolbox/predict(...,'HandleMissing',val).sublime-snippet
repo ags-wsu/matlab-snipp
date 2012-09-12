@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[predict(${1:...},'${2:HandleMissing}',${3:val})]]></content>
-	<tabTrigger>predict</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[cordexch(${1:nfactors},${2:nruns})]]></content>
-	<tabTrigger>cordexch</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

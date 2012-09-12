@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[betafit(${84:data})]]></content>
-	<tabTrigger>betafit</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

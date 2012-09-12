@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addtodate(${1:D},${2: Q},${3: F})]]></content>
-	<tabTrigger>addtodate</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mhsample(${1:...},'${2:symmetric}',${3:sym})]]></content>
-	<tabTrigger>mhsample</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

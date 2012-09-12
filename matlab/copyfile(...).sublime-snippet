@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[copyfile(${707:...})]]></content>
-	<tabTrigger>copyfile</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

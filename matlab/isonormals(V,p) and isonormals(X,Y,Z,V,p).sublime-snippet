@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isonormals(${1:V},${2:p})]]></content>
-	<tabTrigger>isonormals</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

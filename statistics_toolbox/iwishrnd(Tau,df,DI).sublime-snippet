@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[iwishrnd(${1:Tau},${2:df},${3:DI})]]></content>
-	<tabTrigger>iwishrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

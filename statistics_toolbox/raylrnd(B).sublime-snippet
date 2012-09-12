@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[raylrnd(${1186:B})]]></content>
-	<tabTrigger>raylrnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

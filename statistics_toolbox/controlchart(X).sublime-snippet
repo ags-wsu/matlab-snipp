@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[controlchart(${196:X})]]></content>
-	<tabTrigger>controlchart</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

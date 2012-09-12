@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[stopasync(${2842:obj})]]></content>
-	<tabTrigger>stopasync</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

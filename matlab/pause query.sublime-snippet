@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pause ${1:query}]]></content>
-	<tabTrigger>pause</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

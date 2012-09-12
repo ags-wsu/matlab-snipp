@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[kstest(${1:x},${2:CDF},${3:alpha})]]></content>
-	<tabTrigger>kstest</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

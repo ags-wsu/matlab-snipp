@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[display(${324:obj})]]></content>
-	<tabTrigger>display</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

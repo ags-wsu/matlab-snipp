@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[raylstat(${1189:B})]]></content>
-	<tabTrigger>raylstat</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

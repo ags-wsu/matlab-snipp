@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[delaunayn(${841:X})]]></content>
-	<tabTrigger>delaunayn</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

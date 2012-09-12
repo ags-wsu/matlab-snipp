@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[frewind(${1229:fileID})]]></content>
-	<tabTrigger>frewind</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

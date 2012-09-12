@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[callSoapService(${1:endpoint},${2:soapAction},${3:message})]]></content>
-	<tabTrigger>callSoapService</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

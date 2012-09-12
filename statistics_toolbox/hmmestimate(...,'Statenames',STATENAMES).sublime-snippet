@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hmmestimate(${1:...},'${2:Statenames}',${3:STATENAMES})]]></content>
-	<tabTrigger>hmmestimate</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

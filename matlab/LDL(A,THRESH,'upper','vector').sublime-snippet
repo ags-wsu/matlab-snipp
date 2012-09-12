@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LDL(${1:A},${2:THRESH},'${3:upper}','${4:vector}')]]></content>
-	<tabTrigger>LDL</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

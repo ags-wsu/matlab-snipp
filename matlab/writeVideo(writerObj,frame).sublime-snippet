@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[writeVideo(${1:writerObj},${2:frame})]]></content>
-	<tabTrigger>writeVideo</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

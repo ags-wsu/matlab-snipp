@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addOptional(${1:p},${2:argName},${3:default})]]></content>
-	<tabTrigger>addOptional</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

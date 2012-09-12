@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[expinv(${1:X},${2:mu},${3:pcov},${4:alpha})]]></content>
-	<tabTrigger>expinv</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

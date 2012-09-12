@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[netcdf.getVar(${1:...},${2:output_type})]]></content>
-	<tabTrigger>netcdf.getVar</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>

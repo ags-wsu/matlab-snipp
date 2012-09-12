@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[copularnd('${1:t}',${2:rho},${3:NU},${4:N})]]></content>
-	<tabTrigger>copularnd</tabTrigger> -->
-	<scope>source.matlab</scope> -->
-	<!-- the_case -->
-</snippet>
