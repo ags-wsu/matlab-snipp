@@ -13,5 +13,8 @@ and
 		~/Library/Application Support/Sublime Text 2/Packages/User/Snippets/statistics_toolbox		
 
 
+Screenshots
+-----
+
 ![Screenshot](https://github.com/AGS-Knight/matlab-snipp/raw/master/screenshot1.png)
 ![Screenshot1](https://github.com/AGS-Knight/matlab-snipp/raw/master/screenshot2.png)
