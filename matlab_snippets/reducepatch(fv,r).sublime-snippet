@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reducepatch(${1:fv},${2:r})]]></content>
+	<tabTrigger>reducepatch</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

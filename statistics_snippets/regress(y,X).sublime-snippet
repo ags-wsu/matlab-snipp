@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[regress(${1:y},${2:X})]]></content>
+	<tabTrigger>regress</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

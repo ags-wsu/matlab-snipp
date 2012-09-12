@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[colorbar(${1:...},'${2:PropertyName}',${3:propertyvalue})]]></content>
+	<tabTrigger>colorbar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

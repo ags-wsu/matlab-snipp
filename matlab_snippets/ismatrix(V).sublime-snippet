@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ismatrix(${1657:V})]]></content>
+	<tabTrigger>ismatrix</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

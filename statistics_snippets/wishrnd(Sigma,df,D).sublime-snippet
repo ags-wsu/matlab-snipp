@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wishrnd(${1:Sigma},${2:df},${3:D})]]></content>
+	<tabTrigger>wishrnd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calllib('${1:libname}','${2:funcname}',${3:arg1},${4:...},${5:argN})]]></content>
+	<tabTrigger>calllib</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

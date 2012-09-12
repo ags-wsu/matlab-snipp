@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdflib.getVarReservePercent(${1:cdfId},${2:varNum})]]></content>
+	<tabTrigger>cdflib.getVarReservePercent</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

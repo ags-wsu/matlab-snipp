@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strtrim(${2925:str})]]></content>
+	<tabTrigger>strtrim</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ctranspose(${742:a})]]></content>
+	<tabTrigger>ctranspose</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

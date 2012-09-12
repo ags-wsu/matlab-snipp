@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plotResiduals(${1:mdl},${2:plottype},${3:Name},${4:Value})]]></content>
+	<tabTrigger>plotResiduals</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

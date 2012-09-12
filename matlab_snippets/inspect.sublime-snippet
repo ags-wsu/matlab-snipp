@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[inspect]]></content>
+	<tabTrigger>inspect</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

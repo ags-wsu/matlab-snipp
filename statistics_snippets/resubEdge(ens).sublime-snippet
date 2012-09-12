@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resubEdge(${1219:ens})]]></content>
+	<tabTrigger>resubEdge</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

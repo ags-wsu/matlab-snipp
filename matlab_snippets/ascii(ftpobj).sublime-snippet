@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ascii(${161:ftpobj})]]></content>
+	<tabTrigger>ascii</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

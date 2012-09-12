@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[comet(${615:y})]]></content>
+	<tabTrigger>comet</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

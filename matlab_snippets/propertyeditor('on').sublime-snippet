@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[propertyeditor('${2350:on}')]]></content>
+	<tabTrigger>propertyeditor</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

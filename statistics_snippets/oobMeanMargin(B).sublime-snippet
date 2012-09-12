@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[oobMeanMargin(${981:B})]]></content>
+	<tabTrigger>oobMeanMargin</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

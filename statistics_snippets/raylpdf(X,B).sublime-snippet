@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[raylpdf(${1:X},${2:B})]]></content>
+	<tabTrigger>raylpdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ncx2rnd(${1:V},${2:DELTA})]]></content>
+	<tabTrigger>ncx2rnd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

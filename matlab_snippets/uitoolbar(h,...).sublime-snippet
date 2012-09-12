@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uitoolbar(${1:h},${2:...})]]></content>
+	<tabTrigger>uitoolbar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scramble(${1:p},'${2:clear}')]]></content>
+	<tabTrigger>scramble</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

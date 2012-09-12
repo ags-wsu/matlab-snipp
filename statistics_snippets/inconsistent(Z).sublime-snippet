@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[inconsistent(${594:Z})]]></content>
+	<tabTrigger>inconsistent</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

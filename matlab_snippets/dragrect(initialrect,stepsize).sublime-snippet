@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dragrect(${1:initialrect},${2:stepsize})]]></content>
+	<tabTrigger>dragrect</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

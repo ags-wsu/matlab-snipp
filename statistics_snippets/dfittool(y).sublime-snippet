@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dfittool(${307:y})]]></content>
+	<tabTrigger>dfittool</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

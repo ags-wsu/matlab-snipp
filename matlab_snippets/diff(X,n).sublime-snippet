@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[diff(${1:X},${2:n})]]></content>
+	<tabTrigger>diff</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

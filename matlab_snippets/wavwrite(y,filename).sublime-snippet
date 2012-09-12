@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wavwrite(${1:y},${2:filename})]]></content>
+	<tabTrigger>wavwrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

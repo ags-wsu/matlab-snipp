@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lastwarn('${1:new_msgstr}','${2:new_msgid}')]]></content>
+	<tabTrigger>lastwarn</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

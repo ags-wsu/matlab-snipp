@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lsqnonneg(${1829:...})]]></content>
+	<tabTrigger>lsqnonneg</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

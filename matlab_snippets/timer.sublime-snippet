@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[timer]]></content>
+	<tabTrigger>timer</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

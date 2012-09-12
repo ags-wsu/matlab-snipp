@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[javaArray(${1:PackageName.ClassName},${2:x1},${3:...},${4:xn})]]></content>
+	<tabTrigger>javaArray</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plotSlice(${1060:mdl})]]></content>
+	<tabTrigger>plotSlice</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

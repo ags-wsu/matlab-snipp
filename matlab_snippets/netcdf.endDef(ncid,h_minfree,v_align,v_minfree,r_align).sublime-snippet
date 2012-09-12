@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.endDef(${1:ncid},${2:h_minfree},${3:v_align},${4:v_minfree},${5:r_align})]]></content>
+	<tabTrigger>netcdf.endDef</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

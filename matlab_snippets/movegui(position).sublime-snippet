@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[movegui(${1971:position})]]></content>
+	<tabTrigger>movegui</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

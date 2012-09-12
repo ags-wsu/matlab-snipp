@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[perfcurve(${1:labels},${2:scores},${3:posclass},'${4:Name}',${5:value})]]></content>
+	<tabTrigger>perfcurve</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

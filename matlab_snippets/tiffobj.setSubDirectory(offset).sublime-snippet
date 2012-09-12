@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tiffobj.setSubDirectory(${3079:offset})]]></content>
+	<tabTrigger>tiffobj.setSubDirectory</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

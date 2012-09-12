@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dialog('${1:PropertyName}',${2:PropertyValue},${3:...})]]></content>
+	<tabTrigger>dialog</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

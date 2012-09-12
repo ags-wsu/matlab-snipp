@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sendmail(${1:recipients},${2:subject},${3:message},${4:attachments})]]></content>
+	<tabTrigger>sendmail</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

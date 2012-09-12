@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[visdiff('${1:fname1}','${2:fname2}')]]></content>
+	<tabTrigger>visdiff</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

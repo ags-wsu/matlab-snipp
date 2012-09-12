@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[coefTest(${184:mdl})]]></content>
+	<tabTrigger>coefTest</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

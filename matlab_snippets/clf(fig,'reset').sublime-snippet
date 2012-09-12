@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clf(${1:fig},'${2:reset}')]]></content>
+	<tabTrigger>clf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

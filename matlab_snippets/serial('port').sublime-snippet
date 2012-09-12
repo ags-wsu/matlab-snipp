@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serial('${2639:port}')]]></content>
+	<tabTrigger>serial</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

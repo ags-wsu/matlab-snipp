@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nodeprob(${1:t},${2:nodes})]]></content>
+	<tabTrigger>nodeprob</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nlmefitsa(${1:X},${2:Y},${3:GROUP},${4:V},${5:MODELFUN},${6:BETA0})]]></content>
+	<tabTrigger>nlmefitsa</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

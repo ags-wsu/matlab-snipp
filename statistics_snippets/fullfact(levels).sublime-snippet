@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fullfact(${435:levels})]]></content>
+	<tabTrigger>fullfact</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

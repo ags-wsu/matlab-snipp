@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[roots(${2578:c})]]></content>
+	<tabTrigger>roots</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

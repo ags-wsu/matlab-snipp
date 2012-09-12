@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ecdfhist(${1:f},${2:x})]]></content>
+	<tabTrigger>ecdfhist</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

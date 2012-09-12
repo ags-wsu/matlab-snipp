@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[symamd(${3010:S})]]></content>
+	<tabTrigger>symamd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

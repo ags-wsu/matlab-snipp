@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[finv(${1:P},${2:V1},${3:V2})]]></content>
+	<tabTrigger>finv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

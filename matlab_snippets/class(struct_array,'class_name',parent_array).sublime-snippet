@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[class(${1:struct_array},'${2:class_name}',${3:parent_array})]]></content>
+	<tabTrigger>class</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

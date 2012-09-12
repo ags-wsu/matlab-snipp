@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[selectmoveresize]]></content>
+	<tabTrigger>selectmoveresize</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

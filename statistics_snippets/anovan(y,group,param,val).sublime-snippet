@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[anovan(${1:y},${2:group},${3:param},${4:val})]]></content>
+	<tabTrigger>anovan</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bicgstabl(${1:A},${2:b},${3:tol},${4:maxit},${5:M1},${6:M2})]]></content>
+	<tabTrigger>bicgstabl</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

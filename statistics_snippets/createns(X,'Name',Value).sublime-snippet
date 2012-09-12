@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[createns(${1:X},'${2:Name}',${3:Value})]]></content>
+	<tabTrigger>createns</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NET.createArray(${1:typeName},[${2:m} ${3:n} ${4:p} ${5:...}])]]></content>
+	<tabTrigger>NET.createArray</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

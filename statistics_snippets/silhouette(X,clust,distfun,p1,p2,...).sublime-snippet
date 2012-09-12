@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[silhouette(${1:X},${2:clust},${3:distfun},${4:p1},${5:p2},${6:...})]]></content>
+	<tabTrigger>silhouette</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[recordblocking(${1:recorderObj},${2: length})]]></content>
+	<tabTrigger>recordblocking</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plotedit]]></content>
+	<tabTrigger>plotedit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

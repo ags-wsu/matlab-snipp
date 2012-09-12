@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[freqspace(${1:...},'${2:meshgrid}')]]></content>
+	<tabTrigger>freqspace</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[size(${2730:tsc})]]></content>
+	<tabTrigger>size</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

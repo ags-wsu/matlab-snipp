@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[load(${1:filename},'${2:-ascii}')]]></content>
+	<tabTrigger>load</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[harmmean(${1:X},${2:dim})]]></content>
+	<tabTrigger>harmmean</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

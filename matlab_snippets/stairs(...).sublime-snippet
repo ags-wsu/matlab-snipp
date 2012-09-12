@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stairs(${2808:...})]]></content>
+	<tabTrigger>stairs</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

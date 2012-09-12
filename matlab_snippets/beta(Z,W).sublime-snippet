@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[beta(${1:Z},${2:W})]]></content>
+	<tabTrigger>beta</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

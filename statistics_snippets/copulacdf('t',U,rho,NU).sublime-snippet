@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[copulacdf('${1:t}',${2:U},${3:rho},${4:NU})]]></content>
+	<tabTrigger>copulacdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

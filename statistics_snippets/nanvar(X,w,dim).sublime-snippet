@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nanvar(${1:X},${2:w},${3:dim})]]></content>
+	<tabTrigger>nanvar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uiimport(${3171:filename})]]></content>
+	<tabTrigger>uiimport</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

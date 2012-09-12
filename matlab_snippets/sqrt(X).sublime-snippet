@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sqrt(${2801:X})]]></content>
+	<tabTrigger>sqrt</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

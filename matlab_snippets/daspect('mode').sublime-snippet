@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[daspect('${766:mode}')]]></content>
+	<tabTrigger>daspect</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setxor(${1:...},'${2:legacy}')]]></content>
+	<tabTrigger>setxor</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

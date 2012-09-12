@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[statset(${1:oldopts},${2:fieldname1},${3:val1},${4:fieldname2},${5:val2},${6:...})]]></content>
+	<tabTrigger>statset</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

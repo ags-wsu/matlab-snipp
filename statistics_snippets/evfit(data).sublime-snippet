@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[evfit(${363:data})]]></content>
+	<tabTrigger>evfit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

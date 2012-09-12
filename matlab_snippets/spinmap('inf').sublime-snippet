@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[spinmap('${2773:inf}')]]></content>
+	<tabTrigger>spinmap</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

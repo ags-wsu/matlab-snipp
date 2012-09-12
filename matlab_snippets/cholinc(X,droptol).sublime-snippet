@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cholinc(${1:X},${2:droptol})]]></content>
+	<tabTrigger>cholinc</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

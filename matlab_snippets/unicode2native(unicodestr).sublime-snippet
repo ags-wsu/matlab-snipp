@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unicode2native(${3214:unicodestr})]]></content>
+	<tabTrigger>unicode2native</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[johnsrnd(${637:...})]]></content>
+	<tabTrigger>johnsrnd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

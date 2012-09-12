@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[leverage(${1:data},${2:model})]]></content>
+	<tabTrigger>leverage</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

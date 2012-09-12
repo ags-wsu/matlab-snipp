@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isfloat(${1647:A})]]></content>
+	<tabTrigger>isfloat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

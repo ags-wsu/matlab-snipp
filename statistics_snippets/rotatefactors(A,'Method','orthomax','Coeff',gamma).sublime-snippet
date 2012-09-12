@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rotatefactors(${1:A},'${2:Method}','${3:orthomax}','${4:Coeff}',${5:gamma})]]></content>
+	<tabTrigger>rotatefactors</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[treetest(${1:t},'${2:resubstitution}')]]></content>
+	<tabTrigger>treetest</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

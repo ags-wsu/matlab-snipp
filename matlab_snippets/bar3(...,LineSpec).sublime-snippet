@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bar3(${1:...},${2:LineSpec})]]></content>
+	<tabTrigger>bar3</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

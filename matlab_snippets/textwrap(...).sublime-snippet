@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textwrap(${3059:...})]]></content>
+	<tabTrigger>textwrap</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

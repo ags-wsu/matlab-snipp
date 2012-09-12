@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[validatestring(${1:str},${2:validStrings},${3:funcName},${4:varName},${5:argIndex})]]></content>
+	<tabTrigger>validatestring</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[refcurve(${1192:p})]]></content>
+	<tabTrigger>refcurve</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

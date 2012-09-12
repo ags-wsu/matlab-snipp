@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[imapprox(${1:...},${2:dither_option})]]></content>
+	<tabTrigger>imapprox</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

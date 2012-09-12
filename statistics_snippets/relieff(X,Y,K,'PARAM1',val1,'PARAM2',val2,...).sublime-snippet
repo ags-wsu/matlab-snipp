@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[relieff(${1:X},${2:Y},${3:K},'${4:PARAM1}',${5:val1},'${6:PARAM2}',${7:val2},${8:...})]]></content>
+	<tabTrigger>relieff</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

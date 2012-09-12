@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ncwriteatt(${1:filename},${2:location},${3:attname},${4:attvalue})]]></content>
+	<tabTrigger>ncwriteatt</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

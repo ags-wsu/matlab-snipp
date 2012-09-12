@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[export2wsdlg(${1003:...})]]></content>
+	<tabTrigger>export2wsdlg</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

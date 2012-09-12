@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mvtcdf(${841:...})]]></content>
+	<tabTrigger>mvtcdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

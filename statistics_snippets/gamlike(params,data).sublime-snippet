@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gamlike(${1:params},${2:data})]]></content>
+	<tabTrigger>gamlike</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

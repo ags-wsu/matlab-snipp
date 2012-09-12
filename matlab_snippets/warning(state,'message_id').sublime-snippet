@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[warning(${1:state},'${2:message_id}')]]></content>
+	<tabTrigger>warning</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

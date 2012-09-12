@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[xlswrite(${1:filename},${2:A},${3:sheet})]]></content>
+	<tabTrigger>xlswrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dataset2cell(${287:D})]]></content>
+	<tabTrigger>dataset2cell</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

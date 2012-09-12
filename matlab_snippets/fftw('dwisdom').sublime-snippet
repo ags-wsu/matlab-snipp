@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fftw('${1110:dwisdom}')]]></content>
+	<tabTrigger>fftw</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

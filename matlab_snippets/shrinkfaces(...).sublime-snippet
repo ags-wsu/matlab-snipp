@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[shrinkfaces(${2710:...})]]></content>
+	<tabTrigger>shrinkfaces</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

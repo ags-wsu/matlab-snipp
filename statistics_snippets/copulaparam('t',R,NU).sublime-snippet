@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[copulaparam('${1:t}',${2:R},${3:NU})]]></content>
+	<tabTrigger>copulaparam</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

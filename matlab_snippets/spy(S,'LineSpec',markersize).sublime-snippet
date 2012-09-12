@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[spy(${1:S},'${2:LineSpec}',${3:markersize})]]></content>
+	<tabTrigger>spy</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

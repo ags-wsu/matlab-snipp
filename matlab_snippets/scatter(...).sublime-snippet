@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scatter(${2605:...})]]></content>
+	<tabTrigger>scatter</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reset(${1214:q})]]></content>
+	<tabTrigger>reset</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

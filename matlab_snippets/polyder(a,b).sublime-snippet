@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[polyder(${1:a},${2:b})]]></content>
+	<tabTrigger>polyder</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

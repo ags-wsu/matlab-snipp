@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[openfig('${2151:filename.fig}')]]></content>
+	<tabTrigger>openfig</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

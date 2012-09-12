@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[surrcutflip(${1386:T})]]></content>
+	<tabTrigger>surrcutflip</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

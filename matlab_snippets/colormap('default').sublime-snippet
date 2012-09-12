@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[colormap('${608:default}')]]></content>
+	<tabTrigger>colormap</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

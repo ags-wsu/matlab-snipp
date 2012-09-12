@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grp2idx(${522:S})]]></content>
+	<tabTrigger>grp2idx</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

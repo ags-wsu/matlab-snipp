@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[error('${1:msgIdent}','${2:msgString}',${3: v1},${4: v2},${5: ...},${6: vN})]]></content>
+	<tabTrigger>error</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

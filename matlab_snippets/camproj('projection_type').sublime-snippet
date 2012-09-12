@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[camproj('${376:projection_type}')]]></content>
+	<tabTrigger>camproj</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

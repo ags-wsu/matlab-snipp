@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[treelayout(${1:parent},${2:post})]]></content>
+	<tabTrigger>treelayout</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

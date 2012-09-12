@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[trimesh(${3118:...})]]></content>
+	<tabTrigger>trimesh</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

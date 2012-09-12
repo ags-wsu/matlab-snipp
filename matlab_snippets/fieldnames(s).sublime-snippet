@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fieldnames(${1123:s})]]></content>
+	<tabTrigger>fieldnames</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

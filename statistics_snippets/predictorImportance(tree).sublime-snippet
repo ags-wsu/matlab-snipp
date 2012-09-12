@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[predictorImportance(${1101:tree})]]></content>
+	<tabTrigger>predictorImportance</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

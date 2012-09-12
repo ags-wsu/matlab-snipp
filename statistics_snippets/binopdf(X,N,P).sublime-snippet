@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[binopdf(${1:X},${2:N},${3:P})]]></content>
+	<tabTrigger>binopdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

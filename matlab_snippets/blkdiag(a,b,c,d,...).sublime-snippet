@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blkdiag(${1:a},${2:b},${3:c},${4:d},${5:...})]]></content>
+	<tabTrigger>blkdiag</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[zoom(${3434:figure_handle})]]></content>
+	<tabTrigger>zoom</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

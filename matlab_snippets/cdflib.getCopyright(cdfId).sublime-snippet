@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdflib.getCopyright(${440:cdfId})]]></content>
+	<tabTrigger>cdflib.getCopyright</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

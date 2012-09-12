@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NET.setStaticProperty('${1:propName}',${2: value})]]></content>
+	<tabTrigger>NET.setStaticProperty</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

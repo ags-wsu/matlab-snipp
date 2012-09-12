@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[input(${1563:prompt})]]></content>
+	<tabTrigger>input</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdflib.setVarCacheSize(${1:cdfId},${2:varNum},${3:numBuffers})]]></content>
+	<tabTrigger>cdflib.setVarCacheSize</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

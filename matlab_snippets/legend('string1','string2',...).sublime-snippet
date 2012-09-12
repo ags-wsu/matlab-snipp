@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[legend('${1:string1}','${2:string2}',${3:...})]]></content>
+	<tabTrigger>legend</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

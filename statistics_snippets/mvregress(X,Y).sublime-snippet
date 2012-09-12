@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mvregress(${1:X},${2:Y})]]></content>
+	<tabTrigger>mvregress</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

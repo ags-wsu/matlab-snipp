@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nanstd(${1:X},${2:flag},${3:dim})]]></content>
+	<tabTrigger>nanstd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

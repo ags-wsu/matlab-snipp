@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hygeinv(${1:P},${2:M},${3:K},${4:N})]]></content>
+	<tabTrigger>hygeinv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

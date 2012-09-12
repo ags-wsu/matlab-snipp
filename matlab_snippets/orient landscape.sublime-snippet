@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[orient ${1:landscape}]]></content>
+	<tabTrigger>orient</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

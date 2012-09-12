@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[normest(${2106:S})]]></content>
+	<tabTrigger>normest</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

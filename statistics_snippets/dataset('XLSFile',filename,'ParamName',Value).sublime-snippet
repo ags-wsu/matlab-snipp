@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dataset('${1:XLSFile}',${2:filename},'${3:ParamName}',${4:Value})]]></content>
+	<tabTrigger>dataset</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sind(${2717:X})]]></content>
+	<tabTrigger>sind</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[min(${1921:...})]]></content>
+	<tabTrigger>min</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

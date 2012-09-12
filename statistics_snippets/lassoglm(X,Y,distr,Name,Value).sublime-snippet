@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lassoglm(${1:X},${2:Y},${3:distr},${4:Name},${5:Value})]]></content>
+	<tabTrigger>lassoglm</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

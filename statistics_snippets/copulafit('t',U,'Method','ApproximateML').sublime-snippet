@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[copulafit('${1:t}',${2:U},'${3:Method}','${4:ApproximateML}')]]></content>
+	<tabTrigger>copulafit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

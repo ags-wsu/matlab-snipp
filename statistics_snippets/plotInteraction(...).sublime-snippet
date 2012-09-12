@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plotInteraction(${1053:...})]]></content>
+	<tabTrigger>plotInteraction</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

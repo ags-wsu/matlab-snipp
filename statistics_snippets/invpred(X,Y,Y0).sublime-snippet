@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[invpred(${1:X},${2:Y},${3:Y0})]]></content>
+	<tabTrigger>invpred</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clabel(${1:C},'${2:manual}')]]></content>
+	<tabTrigger>clabel</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

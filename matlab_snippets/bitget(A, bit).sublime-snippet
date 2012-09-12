@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bitget(${1:A},${2: bit})]]></content>
+	<tabTrigger>bitget</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cylinder(${1:r},${2:n})]]></content>
+	<tabTrigger>cylinder</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[xlim('${3380:mode}')]]></content>
+	<tabTrigger>xlim</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

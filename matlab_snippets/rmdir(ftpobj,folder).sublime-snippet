@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rmdir(${1:ftpobj},${2:folder})]]></content>
+	<tabTrigger>rmdir</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

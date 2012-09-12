@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uitable(${3203:...})]]></content>
+	<tabTrigger>uitable</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

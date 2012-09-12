@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[annotation(${146:...})]]></content>
+	<tabTrigger>annotation</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

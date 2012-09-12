@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[orderfields(${1:s1},${2: s2})]]></content>
+	<tabTrigger>orderfields</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

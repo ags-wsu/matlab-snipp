@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mesh(${1:...},${2:C})]]></content>
+	<tabTrigger>mesh</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

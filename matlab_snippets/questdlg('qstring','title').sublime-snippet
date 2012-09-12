@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[questdlg('${1:qstring}','${2:title}')]]></content>
+	<tabTrigger>questdlg</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

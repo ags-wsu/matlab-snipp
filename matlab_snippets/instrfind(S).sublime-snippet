@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[instrfind(${1575:S})]]></content>
+	<tabTrigger>instrfind</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

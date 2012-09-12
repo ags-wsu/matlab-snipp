@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dummyvar(${330:group})]]></content>
+	<tabTrigger>dummyvar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[recycle('${2498:state}')]]></content>
+	<tabTrigger>recycle</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

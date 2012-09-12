@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gprnd(${1:K},${2:sigma},${3:theta})]]></content>
+	<tabTrigger>gprnd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nargin(${1997:fx})]]></content>
+	<tabTrigger>nargin</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

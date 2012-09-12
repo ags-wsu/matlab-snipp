@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[t(${1397:X})]]></content>
+	<tabTrigger>t</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

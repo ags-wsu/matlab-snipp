@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isnan(${1660:A})]]></content>
+	<tabTrigger>isnan</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cvpartition(${1:n},'${2:holdout}',${3:p})]]></content>
+	<tabTrigger>cvpartition</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

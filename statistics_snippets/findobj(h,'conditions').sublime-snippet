@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findobj(${1:h},'${2:conditions}')]]></content>
+	<tabTrigger>findobj</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

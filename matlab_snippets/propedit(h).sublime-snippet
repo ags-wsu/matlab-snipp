@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[propedit(${2344:h})]]></content>
+	<tabTrigger>propedit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[numnodes(${970:t})]]></content>
+	<tabTrigger>numnodes</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

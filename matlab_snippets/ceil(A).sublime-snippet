@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ceil(${508:A})]]></content>
+	<tabTrigger>ceil</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[linkage(${719:Y})]]></content>
+	<tabTrigger>linkage</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

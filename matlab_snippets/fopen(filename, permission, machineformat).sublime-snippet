@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fopen(${1:filename},${2: permission},${3: machineformat})]]></content>
+	<tabTrigger>fopen</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

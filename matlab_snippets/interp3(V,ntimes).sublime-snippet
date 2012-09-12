@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[interp3(${1:V},${2:ntimes})]]></content>
+	<tabTrigger>interp3</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[properties(${2348:obj})]]></content>
+	<tabTrigger>properties</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

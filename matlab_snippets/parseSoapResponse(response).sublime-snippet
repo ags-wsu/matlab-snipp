@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[parseSoapResponse(${2195:response})]]></content>
+	<tabTrigger>parseSoapResponse</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

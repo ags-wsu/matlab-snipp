@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[signtest(${1:...},'${2:method}',${3:method})]]></content>
+	<tabTrigger>signtest</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

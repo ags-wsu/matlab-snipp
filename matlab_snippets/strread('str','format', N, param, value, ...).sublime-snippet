@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strread('${1:str}','${2:format}',${3: N},${4: param},${5: value},${6: ...})]]></content>
+	<tabTrigger>strread</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

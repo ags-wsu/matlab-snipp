@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sampsizepwr(${1:...},${2:n},${3:param1},${4:val1},${5:param2},${6:val2},${7:...})]]></content>
+	<tabTrigger>sampsizepwr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

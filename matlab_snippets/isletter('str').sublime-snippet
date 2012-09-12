@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isletter('${1655:str}')]]></content>
+	<tabTrigger>isletter</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[realmin('${2485:single}')]]></content>
+	<tabTrigger>realmin</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClassificationDiscriminant.make(${1:Mu},${2:Sigma})]]></content>
+	<tabTrigger>ClassificationDiscriminant.make</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

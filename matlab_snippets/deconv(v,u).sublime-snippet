@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[deconv(${1:v},${2:u})]]></content>
+	<tabTrigger>deconv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

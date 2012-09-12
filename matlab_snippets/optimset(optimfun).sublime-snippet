@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[optimset(${2167:optimfun})]]></content>
+	<tabTrigger>optimset</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[princomp(${1102:X})]]></content>
+	<tabTrigger>princomp</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tiffobj.write(${3083:imageData})]]></content>
+	<tabTrigger>tiffobj.write</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

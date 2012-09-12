@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fseek(${1:fileID},${2: offset},${3: origin})]]></content>
+	<tabTrigger>fseek</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

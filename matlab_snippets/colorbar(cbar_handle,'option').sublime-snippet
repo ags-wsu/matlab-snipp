@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[colorbar(${1:cbar_handle},'${2:option}')]]></content>
+	<tabTrigger>colorbar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uiresume(${3188:h})]]></content>
+	<tabTrigger>uiresume</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

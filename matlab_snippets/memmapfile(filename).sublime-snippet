@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[memmapfile(${1883:filename})]]></content>
+	<tabTrigger>memmapfile</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

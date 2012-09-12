@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[zscore(${1:X},${2:1})]]></content>
+	<tabTrigger>zscore</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

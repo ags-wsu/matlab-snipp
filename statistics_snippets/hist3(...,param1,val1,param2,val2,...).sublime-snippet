@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hist3(${1:...},${2:param1},${3:val1},${4:param2},${5:val2},${6:...})]]></content>
+	<tabTrigger>hist3</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

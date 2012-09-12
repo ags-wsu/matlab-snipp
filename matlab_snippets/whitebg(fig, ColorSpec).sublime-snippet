@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[whitebg(${1:fig},${2: ColorSpec})]]></content>
+	<tabTrigger>whitebg</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

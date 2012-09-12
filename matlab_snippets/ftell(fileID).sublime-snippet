@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ftell(${1237:fileID})]]></content>
+	<tabTrigger>ftell</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

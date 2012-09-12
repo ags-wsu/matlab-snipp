@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[multcompare(${817:...})]]></content>
+	<tabTrigger>multcompare</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

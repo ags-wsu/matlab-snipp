@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resubMargin(${1237:obj})]]></content>
+	<tabTrigger>resubMargin</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

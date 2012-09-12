@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uisetpref('${3198:clearall}')]]></content>
+	<tabTrigger>uisetpref</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

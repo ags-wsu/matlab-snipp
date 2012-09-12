@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tar(${3035:...})]]></content>
+	<tabTrigger>tar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

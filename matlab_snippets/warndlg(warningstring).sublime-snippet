@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[warndlg(${3308:warningstring})]]></content>
+	<tabTrigger>warndlg</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

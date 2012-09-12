@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gmres(${1:A},${2:b},${3:restart})]]></content>
+	<tabTrigger>gmres</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

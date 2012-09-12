@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[get(${1:0},'${2:FactoryObjectTypePropertyName}')]]></content>
+	<tabTrigger>get</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

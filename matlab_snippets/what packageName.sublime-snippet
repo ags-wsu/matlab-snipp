@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[what ${1:packageName}]]></content>
+	<tabTrigger>what</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

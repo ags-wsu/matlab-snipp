@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[netcdf.open(${1:source},${2: mode},${3: chunksize})]]></content>
+	<tabTrigger>netcdf.open</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

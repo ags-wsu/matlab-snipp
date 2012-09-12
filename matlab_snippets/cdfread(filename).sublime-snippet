@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdfread(${499:filename})]]></content>
+	<tabTrigger>cdfread</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

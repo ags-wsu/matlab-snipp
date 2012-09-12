@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[surrvarassoc(${1395:T})]]></content>
+	<tabTrigger>surrvarassoc</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

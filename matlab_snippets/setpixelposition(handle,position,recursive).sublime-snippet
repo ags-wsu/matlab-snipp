@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setpixelposition(${1:handle},${2:position},${3:recursive})]]></content>
+	<tabTrigger>setpixelposition</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

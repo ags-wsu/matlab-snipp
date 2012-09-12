@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[prune(${1:t1},'${2:nodes}',${3:nodes})]]></content>
+	<tabTrigger>prune</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

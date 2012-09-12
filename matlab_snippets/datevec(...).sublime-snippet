@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[datevec(${791:...})]]></content>
+	<tabTrigger>datevec</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rgb2hsv(${2550:rgb_image})]]></content>
+	<tabTrigger>rgb2hsv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

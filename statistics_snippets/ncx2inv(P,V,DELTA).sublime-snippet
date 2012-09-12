@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ncx2inv(${1:P},${2:V},${3:DELTA})]]></content>
+	<tabTrigger>ncx2inv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

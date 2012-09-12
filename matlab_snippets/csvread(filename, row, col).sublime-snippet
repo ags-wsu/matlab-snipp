@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[csvread(${1:filename},${2: row},${3: col})]]></content>
+	<tabTrigger>csvread</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

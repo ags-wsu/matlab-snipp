@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ylabel('${3402:string}')]]></content>
+	<tabTrigger>ylabel</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

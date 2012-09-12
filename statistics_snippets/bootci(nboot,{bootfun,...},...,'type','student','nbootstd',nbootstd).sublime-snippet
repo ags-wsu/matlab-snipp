@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bootci(${1:nboot},{${2:bootfun},${3:...}},${4:...},'${5:type}','${6:student}','${7:nbootstd}',${8:nbootstd})]]></content>
+	<tabTrigger>bootci</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

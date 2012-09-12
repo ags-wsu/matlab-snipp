@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sec(${2623:X})]]></content>
+	<tabTrigger>sec</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

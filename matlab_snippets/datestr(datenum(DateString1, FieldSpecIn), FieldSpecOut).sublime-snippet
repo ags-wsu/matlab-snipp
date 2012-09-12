@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[datestr(${1:datenum(DateString1},${2: FieldSpecIn})]]></content>
+	<tabTrigger>datestr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

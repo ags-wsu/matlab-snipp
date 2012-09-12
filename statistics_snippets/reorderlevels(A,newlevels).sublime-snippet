@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reorderlevels(${1:A},${2:newlevels})]]></content>
+	<tabTrigger>reorderlevels</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

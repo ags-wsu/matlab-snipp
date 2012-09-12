@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cmunique(${593:I})]]></content>
+	<tabTrigger>cmunique</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

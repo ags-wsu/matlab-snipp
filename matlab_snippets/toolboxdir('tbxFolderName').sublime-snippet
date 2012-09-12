@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toolboxdir('${3105:tbxFolderName}')]]></content>
+	<tabTrigger>toolboxdir</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

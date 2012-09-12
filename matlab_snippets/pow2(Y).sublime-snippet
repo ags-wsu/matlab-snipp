@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pow2(${2326:Y})]]></content>
+	<tabTrigger>pow2</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

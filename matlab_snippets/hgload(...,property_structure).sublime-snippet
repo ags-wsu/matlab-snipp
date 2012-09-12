@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hgload(${1:...},${2:property_structure})]]></content>
+	<tabTrigger>hgload</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

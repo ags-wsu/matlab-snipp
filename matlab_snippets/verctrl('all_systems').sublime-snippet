@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[verctrl('${3268:all_systems}')]]></content>
+	<tabTrigger>verctrl</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

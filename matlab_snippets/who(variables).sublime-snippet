@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[who(${3351:variables})]]></content>
+	<tabTrigger>who</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

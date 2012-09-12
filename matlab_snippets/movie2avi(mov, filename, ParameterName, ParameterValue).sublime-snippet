@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[movie2avi(${1:mov},${2: filename},${3: ParameterName},${4: ParameterValue})]]></content>
+	<tabTrigger>movie2avi</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

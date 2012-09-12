@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[makehgtform('${1:scale}',[${2:sx} ${3:sy} ${4:sz}])]]></content>
+	<tabTrigger>makehgtform</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

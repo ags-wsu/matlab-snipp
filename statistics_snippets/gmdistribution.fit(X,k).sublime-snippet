@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gmdistribution.fit(${1:X},${2:k})]]></content>
+	<tabTrigger>gmdistribution.fit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

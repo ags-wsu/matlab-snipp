@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[waitbar(${1:x},'${2:message}','${3:CreateCancelBtn}','${4:button_callback}')]]></content>
+	<tabTrigger>waitbar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

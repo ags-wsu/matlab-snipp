@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[iscom(${1636:h})]]></content>
+	<tabTrigger>iscom</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

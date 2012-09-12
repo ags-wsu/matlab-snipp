@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[contourc(${1:x},${2:y},${3:Z})]]></content>
+	<tabTrigger>contourc</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

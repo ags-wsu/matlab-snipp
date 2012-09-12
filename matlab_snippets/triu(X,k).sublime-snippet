@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[triu(${1:X},${2:k})]]></content>
+	<tabTrigger>triu</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

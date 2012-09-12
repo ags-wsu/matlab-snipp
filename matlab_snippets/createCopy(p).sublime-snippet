@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[createCopy(${729:p})]]></content>
+	<tabTrigger>createCopy</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

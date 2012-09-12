@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cross(${1:A},${2:B},${3:dim})]]></content>
+	<tabTrigger>cross</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

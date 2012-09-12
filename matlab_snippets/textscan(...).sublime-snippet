@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textscan(${3053:...})]]></content>
+	<tabTrigger>textscan</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

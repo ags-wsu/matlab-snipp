@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nlparci(${1:beta},${2:resid},'${3:jacobian}',${4:J})]]></content>
+	<tabTrigger>nlparci</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

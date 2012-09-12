@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[edit('${1:my}' '${2:file.m}')]]></content>
+	<tabTrigger>edit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

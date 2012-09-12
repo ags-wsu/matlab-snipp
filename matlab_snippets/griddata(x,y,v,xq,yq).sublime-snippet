@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[griddata(${1:x},${2:y},${3:v},${4:xq},${5:yq})]]></content>
+	<tabTrigger>griddata</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

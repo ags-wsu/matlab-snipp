@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[randsample(${1:population},${2:k},${3:replacement})]]></content>
+	<tabTrigger>randsample</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

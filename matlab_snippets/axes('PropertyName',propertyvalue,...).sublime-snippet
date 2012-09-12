@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[axes('${1:PropertyName}',${2:propertyvalue},${3:...})]]></content>
+	<tabTrigger>axes</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[whos(${1:matObj},${2:variables})]]></content>
+	<tabTrigger>whos</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

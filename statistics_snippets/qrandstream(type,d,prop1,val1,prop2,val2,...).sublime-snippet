@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[qrandstream(${1:type},${2:d},${3:prop1},${4:val1},${5:prop2},${6:val2},${7:...})]]></content>
+	<tabTrigger>qrandstream</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

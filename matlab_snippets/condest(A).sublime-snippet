@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[condest(${631:A})]]></content>
+	<tabTrigger>condest</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

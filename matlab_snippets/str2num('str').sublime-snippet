@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[str2num('${2847:str}')]]></content>
+	<tabTrigger>str2num</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

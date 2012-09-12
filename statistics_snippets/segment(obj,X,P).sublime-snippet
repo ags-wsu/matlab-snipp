@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[segment(${1:obj},${2:X},${3:P})]]></content>
+	<tabTrigger>segment</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

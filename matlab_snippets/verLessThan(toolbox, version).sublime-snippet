@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[verLessThan(${1:toolbox},${2: version})]]></content>
+	<tabTrigger>verLessThan</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

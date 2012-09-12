@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[open(${2149:name})]]></content>
+	<tabTrigger>open</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

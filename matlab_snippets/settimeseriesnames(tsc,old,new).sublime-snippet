@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[settimeseriesnames(${1:tsc},${2:old},${3:new})]]></content>
+	<tabTrigger>settimeseriesnames</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gscatter(${1:x},${2:y},${3:group},${4:clr},${5:sym},${6:siz},${7:doleg},${8:xnam},${9:ynam})]]></content>
+	<tabTrigger>gscatter</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

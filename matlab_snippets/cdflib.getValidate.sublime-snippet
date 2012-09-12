@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdflib.getValidate]]></content>
+	<tabTrigger>cdflib.getValidate</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

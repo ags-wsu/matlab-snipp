@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[summary(${1381:A})]]></content>
+	<tabTrigger>summary</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

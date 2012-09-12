@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[xmlwrite(${1:filename},${2:DOMnode})]]></content>
+	<tabTrigger>xmlwrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

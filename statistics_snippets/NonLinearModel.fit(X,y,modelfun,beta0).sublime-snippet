@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NonLinearModel.fit(${1:X},${2:y},${3:modelfun},${4:beta0})]]></content>
+	<tabTrigger>NonLinearModel.fit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

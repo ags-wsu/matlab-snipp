@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[islevel(${1:levels},${2:A})]]></content>
+	<tabTrigger>islevel</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

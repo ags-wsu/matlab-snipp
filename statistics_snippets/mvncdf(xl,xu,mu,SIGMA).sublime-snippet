@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mvncdf(${1:xl},${2:xu},${3:mu},${4:SIGMA})]]></content>
+	<tabTrigger>mvncdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

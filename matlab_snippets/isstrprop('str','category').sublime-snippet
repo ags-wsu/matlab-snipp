@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isstrprop('${1:str}','${2:category}')]]></content>
+	<tabTrigger>isstrprop</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

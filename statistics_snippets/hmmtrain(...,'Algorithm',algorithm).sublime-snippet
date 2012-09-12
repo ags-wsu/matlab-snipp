@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hmmtrain(${1:...},'${2:Algorithm}',${3:algorithm})]]></content>
+	<tabTrigger>hmmtrain</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[qmr(${1:A},${2:b},${3:...})]]></content>
+	<tabTrigger>qmr</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

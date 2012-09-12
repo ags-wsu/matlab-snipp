@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[plotedit(${1:h},'${2:state}')]]></content>
+	<tabTrigger>plotedit</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

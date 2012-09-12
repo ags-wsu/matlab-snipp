@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[kfoldfun(${1:obj},${2:fun})]]></content>
+	<tabTrigger>kfoldfun</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

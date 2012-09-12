@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[binocdf(${1:X},${2:N},${3:P})]]></content>
+	<tabTrigger>binocdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

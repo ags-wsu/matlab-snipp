@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[surrcutcategories(${1:T},${2:J})]]></content>
+	<tabTrigger>surrcutcategories</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

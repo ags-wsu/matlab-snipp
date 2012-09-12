@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[range(${1172:X})]]></content>
+	<tabTrigger>range</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

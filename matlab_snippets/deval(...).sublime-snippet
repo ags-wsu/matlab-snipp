@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[deval(${869:...})]]></content>
+	<tabTrigger>deval</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[chi2inv(${1:P},${2:V})]]></content>
+	<tabTrigger>chi2inv</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

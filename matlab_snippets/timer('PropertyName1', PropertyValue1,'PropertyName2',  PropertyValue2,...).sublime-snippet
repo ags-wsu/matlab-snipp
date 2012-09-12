@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[timer('${1:PropertyName1}',${2: PropertyValue1},'${3:PropertyName2}',${4:  PropertyValue2},${5:...})]]></content>
+	<tabTrigger>timer</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

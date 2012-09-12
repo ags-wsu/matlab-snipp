@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[var(${1:ts},${2:Name},${3:Value})]]></content>
+	<tabTrigger>var</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

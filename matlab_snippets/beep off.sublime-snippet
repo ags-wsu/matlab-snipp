@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[beep ${1:off}]]></content>
+	<tabTrigger>beep</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

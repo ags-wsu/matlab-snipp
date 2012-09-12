@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[libstruct('${1:structtype}',${2:mlstruct})]]></content>
+	<tabTrigger>libstruct</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

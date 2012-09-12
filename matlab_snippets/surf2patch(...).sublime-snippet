@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[surf2patch(${2971:...})]]></content>
+	<tabTrigger>surf2patch</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

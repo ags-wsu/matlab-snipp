@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[vectorize(${3263:f})]]></content>
+	<tabTrigger>vectorize</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

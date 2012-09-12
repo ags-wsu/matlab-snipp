@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rotatefactors(${1258:A})]]></content>
+	<tabTrigger>rotatefactors</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

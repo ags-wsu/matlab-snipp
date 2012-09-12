@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[notify(${1:h},'${2:eventname}',${3:data})]]></content>
+	<tabTrigger>notify</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

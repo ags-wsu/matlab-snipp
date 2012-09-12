@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[createSoapMessage(${1:namespace},${2:method},${3:values},${4:names},${5:types},${6:style})]]></content>
+	<tabTrigger>createSoapMessage</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

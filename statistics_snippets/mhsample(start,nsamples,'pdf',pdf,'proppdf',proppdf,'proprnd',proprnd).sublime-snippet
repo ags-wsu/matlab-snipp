@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mhsample(${1:start},${2:nsamples},'${3:pdf}',${4:pdf},'${5:proppdf}',${6:proppdf},'${7:proprnd}',${8:proprnd})]]></content>
+	<tabTrigger>mhsample</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

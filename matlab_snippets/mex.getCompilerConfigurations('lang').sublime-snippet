@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mex.getCompilerConfigurations('${1914:lang}')]]></content>
+	<tabTrigger>mex.getCompilerConfigurations</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

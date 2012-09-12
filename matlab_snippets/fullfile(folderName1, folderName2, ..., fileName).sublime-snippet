@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fullfile(${1:folderName1},${2: folderName2},${3: ...},${4: fileName})]]></content>
+	<tabTrigger>fullfile</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fread(${1215:...})]]></content>
+	<tabTrigger>fread</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

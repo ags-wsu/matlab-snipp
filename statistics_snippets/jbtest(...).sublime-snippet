@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[jbtest(${633:...})]]></content>
+	<tabTrigger>jbtest</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

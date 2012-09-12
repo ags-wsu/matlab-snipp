@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fpdf(${1:X},${2:V1},${3:V2})]]></content>
+	<tabTrigger>fpdf</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

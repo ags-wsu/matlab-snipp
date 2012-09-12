@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[h.PutFullMatrix('${1:varname}','${2:workspace}',${3:xreal},${4:ximag})]]></content>
+	<tabTrigger>h.PutFullMatrix</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

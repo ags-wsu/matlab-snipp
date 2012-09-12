@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mahal(${1:Y},${2:X})]]></content>
+	<tabTrigger>mahal</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

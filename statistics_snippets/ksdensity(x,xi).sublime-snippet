@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ksdensity(${1:x},${2:xi})]]></content>
+	<tabTrigger>ksdensity</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

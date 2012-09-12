@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[del2(${833:U})]]></content>
+	<tabTrigger>del2</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

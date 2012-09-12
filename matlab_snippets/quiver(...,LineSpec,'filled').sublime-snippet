@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[quiver(${1:...},${2:LineSpec},'${3:filled}')]]></content>
+	<tabTrigger>quiver</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

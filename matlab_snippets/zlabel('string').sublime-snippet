@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[zlabel('${3422:string}')]]></content>
+	<tabTrigger>zlabel</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[binornd(${1:N},${2:P},[${3:m},${4:n},${5:...}])]]></content>
+	<tabTrigger>binornd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

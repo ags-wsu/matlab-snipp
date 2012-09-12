@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[p(${1:i},${2:j})]]></content>
+	<tabTrigger>p</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

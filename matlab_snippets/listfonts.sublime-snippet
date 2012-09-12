@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[listfonts]]></content>
+	<tabTrigger>listfonts</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

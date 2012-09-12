@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[aviinfo(${201:filename})]]></content>
+	<tabTrigger>aviinfo</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

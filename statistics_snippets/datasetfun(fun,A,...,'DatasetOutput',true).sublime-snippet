@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[datasetfun(${1:fun},${2:A},${3:...},'${4:DatasetOutput}',${5:true})]]></content>
+	<tabTrigger>datasetfun</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

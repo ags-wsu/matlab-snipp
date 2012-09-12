@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ncfstat(${1:NU1},${2:NU2},${3:DELTA})]]></content>
+	<tabTrigger>ncfstat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

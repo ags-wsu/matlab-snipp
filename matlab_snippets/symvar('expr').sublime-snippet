@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[symvar('${3027:expr}')]]></content>
+	<tabTrigger>symvar</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

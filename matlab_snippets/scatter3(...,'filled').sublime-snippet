@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scatter3(${1:...},'${2:filled}')]]></content>
+	<tabTrigger>scatter3</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

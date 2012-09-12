@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[menu('${1:mtitle}','${2:opt1}','${3:opt2}',${4:...},'${5:optn}')]]></content>
+	<tabTrigger>menu</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

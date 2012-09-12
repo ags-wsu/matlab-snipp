@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rref(${2592:A})]]></content>
+	<tabTrigger>rref</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

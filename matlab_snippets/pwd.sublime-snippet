@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pwd]]></content>
+	<tabTrigger>pwd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

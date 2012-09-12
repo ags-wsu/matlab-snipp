@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gname(${1:cases},${2:line_handle})]]></content>
+	<tabTrigger>gname</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

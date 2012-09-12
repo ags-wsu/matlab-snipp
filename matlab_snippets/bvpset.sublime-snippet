@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bvpset]]></content>
+	<tabTrigger>bvpset</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

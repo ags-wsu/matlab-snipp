@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cat(${1:dim},${2: ds1},${3: ds2},${4: ...})]]></content>
+	<tabTrigger>cat</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

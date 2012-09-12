@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[print('${1:argument1}','${2:argument2}',${3:...})]]></content>
+	<tabTrigger>print</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

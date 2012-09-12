@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ttest(${1:x},${2:y})]]></content>
+	<tabTrigger>ttest</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

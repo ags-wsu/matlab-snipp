@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[incenters(${1:TR},${2: SI})]]></content>
+	<tabTrigger>incenters</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uistack(${3199:h})]]></content>
+	<tabTrigger>uistack</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

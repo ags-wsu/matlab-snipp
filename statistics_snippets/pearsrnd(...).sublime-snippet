@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pearsrnd(${1032:...})]]></content>
+	<tabTrigger>pearsrnd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

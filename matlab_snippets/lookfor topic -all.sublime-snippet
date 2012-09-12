@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lookfor ${1:topic}]]></content>
+	<tabTrigger>lookfor</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

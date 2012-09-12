@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nnz(${2093:X})]]></content>
+	<tabTrigger>nnz</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

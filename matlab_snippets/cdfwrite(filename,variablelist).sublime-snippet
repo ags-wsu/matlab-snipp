@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cdfwrite(${1:filename},${2:variablelist})]]></content>
+	<tabTrigger>cdfwrite</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

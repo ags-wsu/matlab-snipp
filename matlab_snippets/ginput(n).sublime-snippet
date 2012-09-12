@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ginput(${1343:n})]]></content>
+	<tabTrigger>ginput</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

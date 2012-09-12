@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[contourslice(${1:V},${2:Sx},${3:Sy},${4:Sz})]]></content>
+	<tabTrigger>contourslice</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

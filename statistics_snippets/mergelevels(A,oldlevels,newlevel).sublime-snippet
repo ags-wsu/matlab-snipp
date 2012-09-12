@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mergelevels(${1:A},${2:oldlevels},${3:newlevel})]]></content>
+	<tabTrigger>mergelevels</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

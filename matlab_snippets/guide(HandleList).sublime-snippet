@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[guide(${1379:HandleList})]]></content>
+	<tabTrigger>guide</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unidrnd(${1:N},${2:m},${3:n},${4:...})]]></content>
+	<tabTrigger>unidrnd</tabTrigger> -->
+	<scope>source.matlab</scope> -->
+	<!-- the_case -->
+</snippet>
